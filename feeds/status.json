@@ -1,5 +1,5 @@
 {
- "run": "2026-09-28T17:51+05:00",
+ "run": "2026-09-28T17:55+05:00",
  "feeds": [
   {
    "feed": "Dawn",
@@ -20,7 +20,7 @@
    "ok": true,
    "items_in_feed": 50,
    "kept": 12,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Business Recorder",
@@ -34,14 +34,14 @@
    "ok": true,
    "items_in_feed": 50,
    "kept": 50,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "Geo News",
    "ok": true,
    "items_in_feed": 20,
    "kept": 20,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "BBC News (Asia)",
