@@ -1,0 +1,46 @@
+name: Build site
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - editions/**
+      - scripts/build.py
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-site
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build pages from editions
+        run: python3 scripts/build.py
+
+      - name: Save rebuilt pages
+        run: |
+          git config user.name "daily-wire-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/
+          if git diff --cached --quiet; then
+            echo "Pages already up to date"
+            exit 0
+          fi
+          git commit -m "Rebuild site after edition edit"
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push origin HEAD:main && exit 0
+            sleep 5
+          done
+          exit 1
