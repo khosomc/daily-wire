@@ -10,6 +10,7 @@ previous edition drops off the homepage into the archive.
 Standard library only.
 """
 import json
+import re
 import sys
 from datetime import date
 from html import escape
@@ -29,8 +30,17 @@ CSS = """
 body{margin:0;background:var(--bg);color:var(--fg);font:17px/1.6 "Source Serif 4",Georgia,serif}
 a{color:inherit}
 .wrap{max-width:760px;margin:0 auto;padding:0 16px}
-header.mast{border-bottom:3px double var(--line);padding:28px 0 18px;text-align:center}
-.mast .name{font:700 clamp(2.2rem,8vw,3.4rem)/1 "Playfair Display",Georgia,serif;letter-spacing:-.01em;margin:0;text-decoration:none;display:inline-block}
+header.mast{padding:26px 0 18px;text-align:center}
+.mast .brand{display:inline-flex;align-items:center;gap:12px;text-decoration:none}
+.mast .logo{width:clamp(36px,9vw,50px);height:auto;flex:none}
+nav.sections{position:sticky;top:0;z-index:10;background:var(--bg);border-top:3px double var(--line);border-bottom:1px solid var(--line)}
+nav.sections .inner{max-width:760px;margin:0 auto;padding:0 10px;display:flex;overflow-x:auto;scrollbar-width:none;-webkit-overflow-scrolling:touch;-webkit-mask-image:linear-gradient(to right,#000 86%,transparent);mask-image:linear-gradient(to right,#000 86%,transparent)}
+nav.sections .inner::-webkit-scrollbar{display:none}
+nav.sections a{flex:none;font:600 .74rem/1 Inter,system-ui,sans-serif;letter-spacing:.09em;text-transform:uppercase;text-decoration:none;color:var(--fg);padding:14px 9px 12px;border-bottom:2px solid transparent}
+nav.sections a:hover,nav.sections a:focus-visible{color:var(--accent);border-bottom-color:var(--accent);outline:none}
+nav.sections a.alt{color:var(--accent);margin-left:auto}
+section{scroll-margin-top:52px}
+.mast .name{font:700 clamp(2.2rem,8vw,3.4rem)/1 "Playfair Display",Georgia,serif;letter-spacing:-.01em;margin:0}
 .mast .name span{color:var(--accent)}
 .mast .tag{font:500 .8rem/1.4 Inter,system-ui,sans-serif;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);margin-top:10px}
 .dateline{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;font:500 .82rem/1.4 Inter,system-ui,sans-serif;color:var(--muted);padding:10px 0;border-bottom:1px solid var(--line)}
@@ -57,6 +67,18 @@ FONTS = ('<link rel="preconnect" href="https://fonts.googleapis.com">'
          '<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>'
          '<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700'
          '&family=Playfair+Display:wght@700&family=Source+Serif+4:wght@400;600&display=swap" rel="stylesheet">')
+
+
+LOGO = ('<svg class="logo" viewBox="0 0 48 48" aria-hidden="true">'
+        '<rect width="48" height="48" rx="11" fill="var(--accent)"/>'
+        '<text x="24" y="34.5" text-anchor="middle" font-family="Playfair Display,Georgia,serif" '
+        'font-weight="700" font-size="30" fill="var(--bg)">W</text>'
+        '<rect x="11" y="39" width="26" height="2.6" rx="1.3" fill="var(--bg)" opacity=".75"/>'
+        '</svg>')
+
+
+def slug(name):
+    return re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-")
 
 
 def fail(msg):
@@ -99,7 +121,7 @@ def story_count(ed):
     return sum(len(s["stories"]) for s in ed["sections"])
 
 
-def page(title, body, prefix):
+def page(title, body, prefix, nav):
     return f"""<!doctype html>
 <html lang="en-GB">
 <head>
@@ -111,11 +133,12 @@ def page(title, body, prefix):
 <style>{CSS}</style>
 </head>
 <body>
-<div class="wrap">
-<header class="mast">
-<a class="name" href="{prefix}index.html">Daily <span>Wire</span></a>
+<header class="mast wrap">
+<a class="brand" href="{prefix}index.html" aria-label="{SITE_NAME} home">{LOGO}<span class="name">Daily <span>Wire</span></span></a>
 <div class="tag">{escape(TAGLINE)}</div>
 </header>
+<nav class="sections" aria-label="Sections"><div class="inner">{nav}</div></nav>
+<div class="wrap">
 {body}
 <footer>
 Headlines are summarised in our own words with links to the original reporting. Read the full stories at their sources.
@@ -134,7 +157,7 @@ def edition_body(ed, prefix, is_latest):
     if ed.get("lead"):
         parts.append(f'<p class="lead">{escape(ed["lead"])}</p>')
     for s in ed["sections"]:
-        parts.append(f'<section><h2>{escape(s["name"])}</h2>')
+        parts.append(f'<section id="{slug(s["name"])}"><h2>{escape(s["name"])}</h2>')
         for st in s["stories"]:
             links = " · ".join(
                 f'<a href="{escape(src["url"])}" rel="noopener" target="_blank">{escape(src["name"])}</a>'
@@ -143,6 +166,15 @@ def edition_body(ed, prefix, is_latest):
                          f'<p>{escape(st["summary"])}</p><div class="src">Source: {links}</div></article>')
         parts.append("</section>")
     return "\n".join(parts)
+
+
+def edition_nav(ed, prefix):
+    links = "".join(f'<a href="#{slug(s["name"])}">{escape(s["name"])}</a>' for s in ed["sections"])
+    return links + f'<a class="alt" href="{prefix}archive/index.html">Archive</a>'
+
+
+def archive_nav():
+    return '<a href="../index.html">Today</a><a class="alt" href="index.html">Archive</a>'
 
 
 def main():
@@ -157,11 +189,11 @@ def main():
     (OUT / ".nojekyll").write_text("")
 
     (OUT / "index.html").write_text(
-        page(f"{SITE_NAME} — {long_date(latest['date'])}", edition_body(latest, "", True), ""), encoding="utf-8")
+        page(f"{SITE_NAME} — {long_date(latest['date'])}", edition_body(latest, "", True), "", edition_nav(latest, "")), encoding="utf-8")
 
     for ed in eds:
         (OUT / "archive" / f"{ed['date']}.html").write_text(
-            page(f"{SITE_NAME} — {long_date(ed['date'])}", edition_body(ed, "../", ed is latest), "../"),
+            page(f"{SITE_NAME} — {long_date(ed['date'])}", edition_body(ed, "../", ed is latest), "../", edition_nav(ed, "../")),
             encoding="utf-8")
 
     items = "\n".join(
@@ -169,7 +201,7 @@ def main():
         f'<span class="n">{story_count(ed)} stories</span></a></li>' for ed in eds)
     arch = (f'<div class="dateline"><span>Archive · {len(eds)} editions</span>'
             f'<a href="../index.html">Today\'s edition →</a></div><ul class="arch">{items}</ul>')
-    (OUT / "archive" / "index.html").write_text(page(f"{SITE_NAME} — Archive", arch, "../"), encoding="utf-8")
+    (OUT / "archive" / "index.html").write_text(page(f"{SITE_NAME} — Archive", arch, "../", archive_nav()), encoding="utf-8")
 
     print(f"Built {len(eds)} edition(s); homepage = {latest['date']}")
 
