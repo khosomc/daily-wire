@@ -27,9 +27,26 @@ Daily Wire is a static news digest for Pakistan, published every morning to GitH
 ### Feed-only sources (from `feeds/`)
 BBC News, BBC Urdu, DW, DW Urdu, France 24, The Guardian and Independent Urdu block direct reading. Use them **only** through what their own RSS feeds provide in `feeds/<date>.json`. Never try to open their article pages another way (no mirrors, caches or alternative download tools). Summarise only from the feed's title and summary, attribute the claim to the outlet, and link to the original.
 
+### Indian sources — short allowlist only
+- News: The Hindu, The Indian Express, Scroll.in, The Wire.
+- Research: Carnegie India, Takshashila Institution.
+- Government-linked (label them, e.g. `"MP-IDSA (Indian govt-funded)"`, `"ORF (close to Indian govt)"`): use only to show Delhi's view.
+- Use mainly for the Indian side of a story (Indian government statements, Indian data, India–Pakistan relations). **Never the only source for a claim about Pakistan's internal affairs.** Always attribute ("The Hindu reported…").
+- Every other Indian outlet is excluded, including all TV news channels and their websites.
+
+### Research institutes and data — for context, not daily news
+Use these for storyline/background pages, fuller articles and figures that explain a story (e.g. "PIPS recorded X attacks in KP last year").
+- Pakistani: PIDE, SDPI, Tabadlab, LUMS research centres, PIPS, CRSS, PILDAT, FAFEN, HRCP, Gallup Pakistan.
+- International: International Crisis Group, Wilson Center (South Asia), Carnegie Endowment, USIP, Chatham House, Stimson Center, Atlantic Council (South Asia Center), ACLED, World Bank, IMF, ADB, UNDP, Human Rights Watch, Amnesty International, Freedom House, RSF, CPJ.
+- Official data (allowed, not state media): Pakistan Bureau of Statistics, State Bank of Pakistan, Election Commission of Pakistan.
+- Label government-linked Pakistani think tanks, e.g. `"ISSI (govt-linked)"`, `"IPRI (govt-linked)"`.
+- Where it matters, say whose research it is (advocacy groups and government-funded institutes have perspectives).
+- Always give the report's year ("a 2024 PIPS report found…"); don't present old findings as current.
+- Summarise findings in your own words with a link to the report; no long quotes. Free-to-read reports only.
+
 ### Excluded
-- Paywalled outlets (e.g. FT, Bloomberg, The Economist, Nikkei, NYT, SCMP).
-- Indian news outlets.
+- Paywalled outlets and journals (e.g. FT, Bloomberg, The Economist, Nikkei, NYT, SCMP, paywalled parts of IISS).
+- Indian outlets not on the allowlist above.
 - State media (APP, Radio Pakistan, PTV) may be used only for official statements and must be labelled, e.g. `"name": "APP (state media)"`.
 
 ### Wire services
@@ -52,6 +69,7 @@ Reuters, AP and AFP stories that appear, credited, in a core outlet (e.g. "Reute
 
 ## Editorial rules
 - Neutral, factual tone. Attribute claims ("ISPR said", "the ministry said"); don't state contested claims as fact.
+- Apply the same bar to Pakistani and Indian sources: rewrite loaded labels from either side neutrally (e.g. "Indian-administered Kashmir" rather than "IIOJK" or "PoK"-style terms; "militants" rather than "India-backed terrorists" or "Pakistan-sponsored terrorists", attributing such claims to whoever made them).
 - Skip celebrity gossip, sensational crime details and anything about identifiable victims of sexual violence.
 - If a headline and its URL look mismatched on an outlet's page, open the article to confirm before using it, or leave it out.
 - Don't invent URLs. If a story can't be linked to a real article, drop it.
