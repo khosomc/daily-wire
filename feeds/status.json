@@ -1,5 +1,5 @@
 {
- "run": "2026-09-28T17:50+05:00",
+ "run": "2026-09-28T17:51+05:00",
  "feeds": [
   {
    "feed": "Dawn",
@@ -84,11 +84,6 @@
    "items_in_feed": 21,
    "kept": 14,
    "new": 0
-  },
-  {
-   "feed": "DW Urdu",
-   "ok": false,
-   "error": "ParseError: syntax error: line 1, column 0"
   },
   {
    "feed": "Independent Urdu",
