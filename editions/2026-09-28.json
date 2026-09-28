@@ -1,38 +1,49 @@
 {
   "date": "2026-09-28",
-  "lead": "Politics is dominated by a sharp government–PTI exchange over militancy in Khyber Pakhtunkhwa, with PTI's Islamabad march now pushed back to 4 October. Security operations continue in Balochistan, markets slipped as oil climbed on US–Iran tensions, and heavy rain snarled the twin cities.",
+  "lead": "The federal government and Khyber Pakhtunkhwa's PTI-led administration traded blame over militancy after a suicide attack in D.I. Khan and a deadly ambush in Tank. The PML-N held Bahawalpur's NA-168 seat, IMF review talks got under way in Islamabad, and heavy rain disrupted the twin cities.",
   "sections": [
     {
       "name": "Politics",
       "stories": [
         {
-          "headline": "PTI pushes Islamabad long march back to 4 October",
-          "summary": "The opposition party has postponed its march on the capital, originally planned for 27 September, by one week.",
+          "headline": "Centre and KP government clash over counter-terror response",
+          "summary": "Information Minister Attaullah Tarar and Minister of State for Interior Talal Chaudhry accused the PTI-led provincial government of failing to act against militants. KP Chief Minister Sohail Afridi replied that the centre's own policy had not worked for two decades and asked for a say in counter-terror strategy.",
           "sources": [
-            {"name": "Dawn", "url": "https://www.dawn.com/news/2032588/pti-decides-to-postpone-sept-27-islamabad-long-march"},
-            {"name": "Express Tribune", "url": "https://tribune.com.pk/story/2631490/pti-postpones-long-march-to-october-4"}
+            {"name": "Dawn", "url": "https://www.dawn.com/news/2033266/minister-slams-kp-govts-flaws-in-leadership-resources-and-authority-in-counter-terror-fight"},
+            {"name": "Express Tribune", "url": "https://tribune.com.pk/story/2631872/cm-afridi-hits-back-at-centre-over-criticism-of-k-ps-counterterror-response"},
+            {"name": "Independent Urdu (Urdu)", "url": "https://www.independenturdu.com/node/187982"}
           ]
         },
         {
-          "headline": "Ministers accuse PTI of going soft on Afghanistan-based militants",
-          "summary": "Information Minister Attaullah Tarar and Minister of State for Interior Talal Chaudhry criticised the PTI-led Khyber Pakhtunkhwa government's stance on militancy, with one minister saying the party must choose between Pakistan and Afghanistan.",
+          "headline": "PML-N holds Bahawalpur seat in NA-168 by-election",
+          "summary": "PML-N candidate Malik Munir Iqbal Channar won with 79,306 votes, ahead of independent Wali Dad Cheema on 42,623, according to results reported by Geo.",
           "sources": [
-            {"name": "Express Tribune", "url": "https://tribune.com.pk/story/2631854/talal-chaudhry-questions-pti-leaderships-soft-attitude-towards-afghanistan-terrorists"},
-            {"name": "The News", "url": "https://www.thenews.pk/story/1439936-pti-must-choose-between-pakistan-and-afghanistan-says-minister"}
+            {"name": "Geo News", "url": "https://www.geo.tv/latest/683972-pml-n-retains-na-168-as-malik-munir-iqbal-channar-wins-bahawalpur-by-poll"},
+            {"name": "Dawn", "url": "https://www.dawn.com/news/2033139/pml-n-claims-victory-in-bahawalpur-by-poll"}
           ]
         },
         {
-          "headline": "Polling ends in Bahawalpur's NA-168 by-election",
-          "summary": "Voting closed in the National Assembly seat left vacant by a lawmaker's death; his son is standing for the PML-N.",
+          "headline": "Talk of governor's rule in KP as PTI dares Islamabad",
+          "summary": "PTI leaders warned that imposing governor's rule would worsen the province's situation, with one proposing assembly resignations and street protests. The Express Tribune reports that governor's rule and an emergency are under consideration.",
           "sources": [
-            {"name": "Dawn", "url": "https://www.dawn.com/news/2033024/polling-concludes-in-bahawalpurs-na-168-by-election"}
+            {"name": "Dawn", "url": "https://www.dawn.com/news/2033143/pti-dares-govt-to-impose-governors-rule-in-kp"},
+            {"name": "Express Tribune", "url": "https://tribune.com.pk/story/2631777/k-p-abuzz-with-talk-of-political-change"}
           ]
         },
         {
-          "headline": "SCO coordinators meet in Islamabad under Pakistan's chairmanship",
-          "summary": "National coordinators of the Shanghai Cooperation Organisation are meeting from 28 to 30 September to review the bloc's work programme.",
+          "headline": "PTI offers talks again after postponing Islamabad march",
+          "summary": "The party renewed its offer of dialogue with the government and denied reports of backchannel contacts; the march is now set for 4 October. The M-1 motorway and GT Road between Islamabad and Peshawar have reopened.",
           "sources": [
-            {"name": "Dawn", "url": "https://www.dawn.com/news/2033039/sco-meeting-in-islamabad-from-sept-28-30-to-discuss-activities-under-pakistans-chairmanship"}
+            {"name": "Geo News", "url": "https://www.geo.tv/latest/684065-pti-again-offers-talks-to-govt-rejects-reports-of-backchannel-contacts"},
+            {"name": "Express Tribune", "url": "https://tribune.com.pk/story/2631832/m-1-gt-road-reopen-between-islamabad-peshawar-after-pti-postpones-march"}
+          ]
+        },
+        {
+          "headline": "Federal ministers criticise KP's new police law",
+          "summary": "The KP government has approved a Police Act 2026 it describes as a reform package; federal critics say it would hand the provincial government control over the police, BBC Urdu reports. The provincial assembly speaker has also clashed with Interior Minister Mohsin Naqvi over the issue.",
+          "sources": [
+            {"name": "BBC Urdu (Urdu)", "url": "https://www.bbc.com/urdu/articles/cm17j1qx8kv4o"},
+            {"name": "The News", "url": "https://www.thenews.pk/story/1439745-kp-assembly-speaker-fires-back-at-naqvi-in-police-law-row"}
           ]
         }
       ]
@@ -41,38 +52,36 @@
       "name": "Security",
       "stories": [
         {
-          "headline": "Over 70 militants killed in Balochistan in four days, says ISPR",
-          "summary": "The military's media wing reported operations across several districts of the province since Thursday.",
+          "headline": "At least 12 killed in suicide attack on D.I. Khan checkpost",
+          "summary": "The attack on an anti-smuggling checkpoint in the Darazanda area on Saturday killed women and children among others; Geo puts the toll at 13. Pakistan says an Afghan national was involved, BBC Urdu reports.",
           "sources": [
+            {"name": "The News", "url": "https://www.thenews.pk/story/1439571-at-least-11-killed-in-suicide-attack-at-di-khan-anti-smuggling-check-post"},
+            {"name": "Geo News", "url": "https://www.geo.tv/latest/683826-suicide-attack-at-di-khan-anti-smuggling-check-post-kills-11-including-women-and-children"},
+            {"name": "BBC Urdu (Urdu)", "url": "https://www.bbc.com/urdu/articles/cm7800vv98n4o"}
+          ]
+        },
+        {
+          "headline": "Three traffic police officers killed in Tank ambush",
+          "summary": "Gunmen fired on a traffic police van in Wazirabad Bazaar; two passers-by were also injured, officials said.",
+          "sources": [
+            {"name": "Dawn", "url": "https://www.dawn.com/news/2033254/3-traffic-policemen-martyred-in-attack-on-vehicle-in-kps-tank"},
+            {"name": "Arab News Pakistan", "url": "https://www.arabnews.pk/pakistan/three-traffic-policemen-killed-in-gun-attack-in-pakistans-northwest-official-says-3002561"}
+          ]
+        },
+        {
+          "headline": "Pakistan protests to Kabul over airspace violation",
+          "summary": "The Foreign Office issued a demarche to the Afghan embassy over what it called a violation of Pakistani airspace last week, after rejecting Taliban claims linking Pakistan to violence in Nuristan.",
+          "sources": [
+            {"name": "Arab News Pakistan", "url": "https://www.arabnews.pk/pakistan/pakistan-says-issued-demarche-to-kabuls-embassy-over-afghan-airspace-violation-3002546"},
+            {"name": "The News", "url": "https://www.thenews.pk/story/1439750-pakistan-rejects-taliban-regimes-allegations-over-nuristan-violence"}
+          ]
+        },
+        {
+          "headline": "ISPR says over 70 militants killed in Balochistan",
+          "summary": "The military said the operations over four days targeted groups it accuses India of backing; the claim could not be independently verified.",
+          "sources": [
+            {"name": "The News", "url": "https://www.thenews.pk/story/1439748-over-70-india-sponsored-terrorists-neutralised-in-balochistan-operations-ispr"},
             {"name": "Dawn", "url": "https://www.dawn.com/news/2033043/more-than-70-terrorists-killed-across-balochistan-in-past-4-days-ispr"}
-          ]
-        },
-        {
-          "headline": "Three traffic police officers killed in attack in Tank",
-          "summary": "Gunmen opened fire on a mobile police van in the Khyber Pakhtunkhwa district; the stolen vehicle was later recovered.",
-          "sources": [
-            {"name": "The News", "url": "https://www.thenews.pk/story/1439935-three-traffic-police-cops-martyred-as-gunmen-attack-mobile-van-in-tank"}
-          ]
-        },
-        {
-          "headline": "AJK police arrest 122 after violent unrest",
-          "summary": "Arrests follow attacks that injured security personnel and damaged property in Azad Jammu and Kashmir.",
-          "sources": [
-            {"name": "Express Tribune", "url": "https://tribune.com.pk/story/2631863/ajk-police-arrest-122-over-attacks-on-law-enforcement-personnel-property-damage"}
-          ]
-        },
-        {
-          "headline": "Islamabad rejects Afghan Taliban claims over Nuristan violence",
-          "summary": "The information ministry dismissed allegations linking Pakistan to reported violence in Afghanistan's Nuristan province.",
-          "sources": [
-            {"name": "Dawn", "url": "https://www.dawn.com/news/2033051/info-ministry-rejects-afghan-talibans-frivolous-claims-linking-pakistan-to-reported-nuristan-violence"}
-          ]
-        },
-        {
-          "headline": "New Hangor-class submarine test-fires weapons in Arabian Sea",
-          "summary": "The navy's newly inducted submarine carried out its first live firing, including anti-ship missiles, according to ISPR.",
-          "sources": [
-            {"name": "Dawn", "url": "https://www.dawn.com/news/2033036/newly-inducted-hangor-class-submarine-conducts-maiden-live-weapon-firing-in-arabian-sea-ispr"}
           ]
         }
       ]
@@ -81,31 +90,52 @@
       "name": "Economy",
       "stories": [
         {
-          "headline": "PSX falls nearly 500 points on broad selling",
-          "summary": "The benchmark index dropped as selling pressure spread across the market.",
+          "headline": "IMF review talks for next $1.2bn tranche begin",
+          "summary": "Formal negotiations with the visiting IMF mission on the fourth review of the $7bn loan programme started in Islamabad.",
           "sources": [
-            {"name": "Business Recorder", "url": "https://www.brecorder.com/news/40441559/psx-selling-at-bourse-down-nearly-500-points"}
+            {"name": "Dawn", "url": "https://www.dawn.com/news/2033147/imf-talks-to-unlock-next-12bn-set-to-begin-today"}
           ]
         },
         {
-          "headline": "Petrol subsidy likely to run for another 10 months",
-          "summary": "The government is expected to keep its fuel relief scheme in place.",
+          "headline": "25% water shortfall forecast for Rabi season",
+          "summary": "Reservoir carry-over has fallen to its lowest since 2021, adding pressure on the wheat crop.",
           "sources": [
-            {"name": "Business Recorder", "url": "https://www.brecorder.com/news/40441533/petrol-subsidy-govt-likely-to-continue-scheme-for-10-months"}
+            {"name": "Dawn", "url": "https://www.dawn.com/news/2033149/country-braces-for-25pc-rabi-water-shortage"}
           ]
         },
         {
-          "headline": "No state money or sovereign guarantees for new PIA aircraft",
-          "summary": "An adviser to the finance ministry said the government will help the airline secure private international financing instead.",
+          "headline": "PSX drops over 400 points as oil climbs",
+          "summary": "Early gains reversed as Brent rose more than 3% on the US–Iran stalemate. The rupee edged up to 277.15 to the dollar, while gold fell by Rs12,800 per tola.",
           "sources": [
+            {"name": "Express Tribune", "url": "https://tribune.com.pk/story/2631843/psx-down-over-400-points-amid-us-iran-uncertainty-oil-surge"},
+            {"name": "Business Recorder", "url": "https://www.brecorder.com/news/40441616/intra-day-update-rupee-records-gain-against-us-dollar"}
+          ]
+        },
+        {
+          "headline": "Government rules out buying aircraft for privatised PIA",
+          "summary": "A finance ministry adviser said the state would neither buy planes nor guarantee loans for them.",
+          "sources": [
+            {"name": "Independent Urdu (Urdu)", "url": "https://www.independenturdu.com/node/187974"},
             {"name": "Dawn", "url": "https://www.dawn.com/news/2033062/no-govt-financing-sovereign-guaranteed-loans-for-new-pia-aircraft-adviser-to-finmin"}
           ]
+        }
+      ]
+    },
+    {
+      "name": "Provinces",
+      "stories": [
+        {
+          "headline": "Sindh irrigation seeks Rs770m for flood work — with no flood",
+          "summary": "The department is asking for funds for 2025 emergency works; experts question the spending.",
+          "sources": [
+            {"name": "Express Tribune", "url": "https://tribune.com.pk/story/2631783/rs770m-flood-fighting-bill-despite-no-flood-in-sindh"}
+          ]
         },
         {
-          "headline": "Oil climbs as US–Iran talks stall",
-          "summary": "Brent crude rose while negotiations remained deadlocked — a pressure point for Pakistan's import bill.",
+          "headline": "Mir Raza inquiry extended to 15 October",
+          "summary": "Sindh's chief minister approved more time for the judicial commission probing the young businessman's death after its 30-day term ran out.",
           "sources": [
-            {"name": "Business Recorder", "url": "https://www.brecorder.com/news/40441548/oil-heads-higher-as-us-iran-peace-talks-in-stalemate"}
+            {"name": "Business Recorder", "url": "https://www.brecorder.com/news/40441595/cm-murad-approves-request-to-extend-mir-raza-judicial-commissions-tenure"}
           ]
         }
       ]
@@ -114,10 +144,11 @@
       "name": "Weather",
       "stories": [
         {
-          "headline": "Heavy rain disrupts traffic and flights in twin cities",
-          "summary": "Downpours brought congestion to major routes in Islamabad and Rawalpindi and affected flight operations.",
+          "headline": "Rain floods twin cities, diverts flights",
+          "summary": "Civic bodies in Rawalpindi were put on alert, and flights from Jeddah and Paris were diverted from Islamabad.",
           "sources": [
-            {"name": "Express Tribune", "url": "https://tribune.com.pk/story/2631842/heavy-rain-hit-twin-cities-disrupts-traffic-and-flight-operations"}
+            {"name": "Dawn", "url": "https://www.dawn.com/news/2033245/heavy-rain-lashes-twin-cities-as-civic-departments-put-on-alert"},
+            {"name": "Arab News Pakistan", "url": "https://www.arabnews.pk/pakistan/rain-kills-at-least-62-in-india-diverts-jeddah-paris-flights-in-pakistan-3002568"}
           ]
         }
       ]
@@ -126,17 +157,18 @@
       "name": "Region & World",
       "stories": [
         {
-          "headline": "Iran says it wants peace but will confront aggression",
-          "summary": "Foreign Minister Abbas Araghchi's warning came as US President Donald Trump signalled possible talks this week.",
+          "headline": "Iran says no talks with US are planned",
+          "summary": "Iranian state media denied new negotiations after President Trump said he expected talks this week.",
           "sources": [
-            {"name": "The News", "url": "https://www.thenews.pk/liveblog/us-israel-strike-iran"}
+            {"name": "Business Recorder", "url": "https://www.brecorder.com/news/40441601/iran-has-no-plans-to-negotiate-with-us-state-media"},
+            {"name": "Dawn", "url": "https://www.dawn.com/news/2033148/us-iran-may-return-to-table-within-days-over-hormuz"}
           ]
         },
         {
-          "headline": "Floods and landslides kill dozens in India and Nepal",
-          "summary": "At least 56 people died in Uttar Pradesh and 12 in Nepal over three days of heavy rain.",
+          "headline": "Pakistani pilots train in China for space mission",
+          "summary": "Two pilots are preparing for what would be Pakistan's first crewed spaceflight.",
           "sources": [
-            {"name": "Dawn", "url": "https://www.dawn.com/news/2033044/floods-and-landslides-kill-56-in-indias-uttar-pradesh-12-in-nepal-over-past-three-days"}
+            {"name": "Arab News Pakistan", "url": "https://www.arabnews.pk/pakistan/chinas-space-diplomacy-lifts-pakistani-astronaut-toward-orbit-3002543"}
           ]
         }
       ]
@@ -145,17 +177,18 @@
       "name": "Sport",
       "stories": [
         {
-          "headline": "Pakistan into Asian Games cricket semi-final",
-          "summary": "Rain washed out the quarter-final against Hong Kong, sending Pakistan through.",
+          "headline": "Hockey team thrash Oman 7-2 to reach Asian Games semis",
+          "summary": "Rana Waheed scored a hat-trick.",
           "sources": [
-            {"name": "The News", "url": "https://www.thenews.pk/story/1439932-pakistan-advance-to-asian-games-semis-as-rain-ruins-hong-kong-quarter-final"}
+            {"name": "Express Tribune", "url": "https://tribune.com.pk/story/2631853/pakistan-trounce-oman-to-reach-asian-games-semis"}
           ]
         },
         {
-          "headline": "Volleyball side beat Kazakhstan in Asian Games opener",
-          "summary": "Pakistan recovered from losing a set to win their first Pool A match.",
+          "headline": "Rain puts Pakistan and India into cricket semi-finals",
+          "summary": "Both quarter-finals were washed out, keeping the neighbours on course for a possible final meeting.",
           "sources": [
-            {"name": "Dawn", "url": "https://www.dawn.com/news/2033047/volleyball-win-brightens-mixed-day-for-pakistan-at-asian-games"}
+            {"name": "Dawn", "url": "https://www.dawn.com/news/2033247/pakistan-advance-to-asian-games-cricket-semi-finals-after-rain-washes-out-hong-kong-clash"},
+            {"name": "Arab News Pakistan", "url": "https://www.arabnews.pk/pakistan/india-pakistan-advance-to-asian-games-cricket-semifinals-after-quarterfinal-washouts-3002550"}
           ]
         }
       ]
