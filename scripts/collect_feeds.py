@@ -135,8 +135,11 @@ def main():
             continue
         try:
             items, total = collect(feed, now)
-            new = [i for i in items if i["link"] not in seen]
-            seen.update(i["link"] for i in new)
+            new = []
+            for i in items:
+                if i["link"] not in seen:
+                    seen.add(i["link"])
+                    new.append(i)
             existing.extend(new)
             added += len(new)
             status.append({"feed": feed["name"], "ok": True, "items_in_feed": total, "kept": len(items), "new": len(new)})
