@@ -15,7 +15,7 @@
     {"name": "The Guardian (Pakistan)", "lang": "en", "url": "https://www.theguardian.com/world/pakistan/rss", "filter": false, "enabled": true},
 
     {"name": "BBC Urdu", "lang": "ur", "url": "https://feeds.bbci.co.uk/urdu/rss.xml", "filter": false, "enabled": true},
-    {"name": "DW Urdu", "lang": "ur", "url": "https://rss.dw.com/xml/rss-ur-all", "filter": false, "enabled": true},
+    {"name": "DW Urdu", "lang": "ur", "url": "https://rss.dw.com/rdf/rss-ur-all", "filter": false, "enabled": true},
     {"name": "Independent Urdu", "lang": "ur", "url": "https://www.independenturdu.com/rss.xml", "filter": false, "enabled": true}
   ]
 }
