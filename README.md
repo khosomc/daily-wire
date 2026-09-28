@@ -1,6 +1,6 @@
 # Daily Wire
 
-A short, daily digest of Pakistan's news, published each morning.
+A daily morning briefing on Pakistan's strategic affairs: geopolitics, conflict, defence, economy, finance and sovereignty.
 
 - `editions/` — one JSON file per day (the content)
 - `scripts/build.py` — turns editions into the website (`python3 scripts/build.py`)

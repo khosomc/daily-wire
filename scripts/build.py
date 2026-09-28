@@ -20,7 +20,7 @@ ROOT = Path(__file__).resolve().parent.parent
 EDITIONS = ROOT / "editions"
 OUT = ROOT / "docs"
 SITE_NAME = "Daily Wire"
-TAGLINE = "Pakistan's news, briefly — every morning"
+TAGLINE = "Pakistan in the world — every morning"
 
 CSS = """
 :root{--bg:#faf8f3;--fg:#1c1b19;--muted:#6b675e;--line:#e3ded2;--accent:#01411c;--accent-soft:#e6efe8;--card:#fff}
