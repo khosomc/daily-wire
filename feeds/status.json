@@ -6,42 +6,42 @@
    "ok": true,
    "items_in_feed": 24,
    "kept": 24,
-   "new": 24
+   "new": 0
   },
   {
    "feed": "Express Tribune",
    "ok": true,
    "items_in_feed": 72,
    "kept": 60,
-   "new": 60
+   "new": 0
   },
   {
    "feed": "The News",
    "ok": true,
    "items_in_feed": 50,
    "kept": 12,
-   "new": 12
+   "new": 0
   },
   {
    "feed": "Business Recorder",
    "ok": true,
    "items_in_feed": 30,
    "kept": 30,
-   "new": 30
+   "new": 0
   },
   {
    "feed": "Arab News Pakistan",
    "ok": true,
    "items_in_feed": 50,
    "kept": 50,
-   "new": 50
+   "new": 0
   },
   {
    "feed": "Geo News",
    "ok": true,
    "items_in_feed": 20,
    "kept": 20,
-   "new": 20
+   "new": 0
   },
   {
    "feed": "BBC News (Asia)",
@@ -83,7 +83,7 @@
    "ok": true,
    "items_in_feed": 21,
    "kept": 14,
-   "new": 14
+   "new": 0
   },
   {
    "feed": "DW Urdu",
@@ -95,7 +95,7 @@
    "ok": true,
    "items_in_feed": 10,
    "kept": 10,
-   "new": 10
+   "new": 0
   }
  ]
 }
