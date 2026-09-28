@@ -61,6 +61,28 @@ ul.arch .d{font:700 1.08rem/1.3 "Playfair Display",Georgia,serif}
 ul.arch .n{font:500 .8rem/1.3 Inter,system-ui,sans-serif;color:var(--muted);white-space:nowrap;align-self:center}
 footer{margin:40px 0 32px;padding-top:16px;border-top:3px double var(--line);font:400 .8rem/1.6 Inter,system-ui,sans-serif;color:var(--muted)}
 footer a{color:var(--accent)}
+.dir-intro{font-size:1.05rem;margin:22px 0 6px}
+.pill{display:inline-block;font:600 .68rem/1 Inter,system-ui,sans-serif;letter-spacing:.08em;text-transform:uppercase;padding:5px 8px;border-radius:999px;border:1px solid var(--line);color:var(--muted);white-space:nowrap}
+.pill.confirmed{background:var(--accent-soft);color:var(--accent);border-color:transparent}
+.pill.reported{border-style:dashed}
+.pill.pilot{background:var(--fg);color:var(--bg);border-color:transparent}
+.defs{margin:18px 0 0;padding:0}
+.defs div{padding:12px 0;border-bottom:1px solid var(--line)}
+.defs dt{font:700 .9rem/1.3 Inter,system-ui,sans-serif;margin-bottom:4px;display:flex;gap:8px;align-items:center}
+.defs dd{margin:0;color:var(--muted);font-size:.95rem}
+.findings{margin:18px 0 0;padding-left:20px}
+.findings li{margin:0 0 10px}
+.entry{padding:18px 0;border-bottom:1px solid var(--line)}
+.entry-head{display:flex;justify-content:space-between;gap:12px;align-items:flex-start}
+.entry h3{font:700 1.2rem/1.3 "Playfair Display",Georgia,serif;margin:0}
+.meta{font:500 .78rem/1.5 Inter,system-ui,sans-serif;color:var(--muted);margin:4px 0 10px}
+table.own{width:100%;border-collapse:collapse;margin:6px 0 10px;font-size:.93rem}
+table.own th{font:600 .7rem/1.2 Inter,system-ui,sans-serif;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);text-align:left;padding:6px 8px 6px 0;border-bottom:1px solid var(--line)}
+table.own td{padding:8px 8px 8px 0;border-bottom:1px solid var(--line);vertical-align:top}
+table.own td.pct{font:700 .95rem/1.3 Inter,system-ui,sans-serif;white-space:nowrap;font-variant-numeric:tabular-nums}
+table.own .note{display:block;color:var(--muted);font-size:.85rem;margin-top:2px}
+.control{margin:0 0 8px;font-size:.95rem}
+.gap{margin:18px 0 0;padding:14px 16px;border:1px dashed var(--line);border-radius:4px;color:var(--muted);font-size:.95rem}
 """
 
 FONTS = ('<link rel="preconnect" href="https://fonts.googleapis.com">'
@@ -177,6 +199,49 @@ def archive_nav():
     return '<a href="../index.html">Today</a><a class="alt" href="index.html">Archive</a>'
 
 
+def directory_page():
+    src = ROOT / "directory" / "military-business.json"
+    if not src.exists():
+        return
+    d = json.loads(src.read_text(encoding="utf-8"))
+    e = escape
+    parts = [f'<div class="dateline"><span>Reference · as of {long_date(d["as_of"])} · {len(d["entries"])} entries</span>'
+             f'<a href="../index.html">Today\'s edition →</a></div>']
+    title_pill = ' <span class="pill pilot">Pilot</span>' if d.get("status") == "pilot" else ""
+    parts.append(f'<section id="about"><h2>{e(d["title"])}{title_pill}</h2><p class="dir-intro">{e(d["intro"])}</p>')
+    parts.append('<dl class="defs">' + "".join(
+        f'<div><dt>{e(x["term"])}</dt><dd>{e(x["text"])}</dd></div>' for x in d["definitions"]) + "</dl>")
+    parts.append('<dl class="defs">' + "".join(
+        f'<div><dt><span class="pill {x["level"].lower()}">{e(x["level"])}</span></dt><dd>{e(x["text"])}</dd></div>'
+        for x in d["confidence"]) + "</dl></section>")
+    if d.get("findings"):
+        parts.append('<section id="findings"><h2>What the records show</h2><ul class="findings">' +
+                     "".join(f"<li>{e(f)}</li>" for f in d["findings"]) + "</ul></section>")
+    parts.append('<section id="entries"><h2>Entries</h2>')
+    for x in d["entries"]:
+        rows = "".join(
+            f'<tr><td>{e(o["owner"])}' + (f'<span class="note">{e(o["note"])}</span>' if o.get("note") else "") +
+            f'</td><td class="pct">{e(o["stake"])}</td></tr>' for o in x["owners"])
+        srcs = " · ".join(f'<a href="{e(s_["url"])}" rel="noopener" target="_blank">{e(s_["name"])}</a>' for s_ in x["sources"])
+        parts.append(
+            f'<div class="entry" id="{slug(x["name"])}"><div class="entry-head"><h3>{e(x["name"])}</h3>'
+            f'<span class="pill {x["confidence"].lower()}">{e(x["confidence"])}</span></div>'
+            f'<div class="meta">{e(x["ticker"])} · {e(x["sector"])} · {e(x["status"])}</div>'
+            f'<table class="own"><thead><tr><th>Owner</th><th>Stake</th></tr></thead><tbody>{rows}</tbody></table>'
+            f'<p class="control">{e(x["control"])}</p>'
+            f'<div class="src">As of {e(x["as_of"])}. Sources: {srcs}</div></div>')
+    parts.append("</section>")
+    if d.get("not_yet_covered"):
+        parts.append(f'<section id="gaps"><h2>Not yet covered</h2><p class="gap">{e(d["not_yet_covered"])}</p></section>')
+    nav = ('<a href="#about">About</a><a href="#findings">Findings</a><a href="#entries">Entries</a>'
+           '<a href="#gaps">Gaps</a><a class="alt" href="../index.html">Today</a>')
+    out = OUT / "directory"
+    out.mkdir(parents=True, exist_ok=True)
+    (out / "military-business.html").write_text(
+        page(f"{d['title']} — {SITE_NAME}", "\n".join(parts), "../", nav), encoding="utf-8")
+    print(f"Built directory page: {len(d['entries'])} entries")
+
+
 def main():
     files = sorted(EDITIONS.glob("*.json"))
     if not files:
@@ -203,6 +268,7 @@ def main():
             f'<a href="../index.html">Today\'s edition →</a></div><ul class="arch">{items}</ul>')
     (OUT / "archive" / "index.html").write_text(page(f"{SITE_NAME} — Archive", arch, "../", archive_nav()), encoding="utf-8")
 
+    directory_page()
     print(f"Built {len(eds)} edition(s); homepage = {latest['date']}")
 
 

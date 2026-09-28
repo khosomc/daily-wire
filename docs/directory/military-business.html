@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Military business directory — Daily Wire</title>
+<meta name="description" content="Pakistan in the world — every morning">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@700&family=Source+Serif+4:wght@400;600&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#faf8f3;--fg:#1c1b19;--muted:#6b675e;--line:#e3ded2;--accent:#01411c;--accent-soft:#e6efe8;--card:#fff}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#121412;--fg:#ecebe6;--muted:#a19d93;--line:#2c302c;--accent:#6fcf8f;--accent-soft:#1b2a1f;--card:#191c19}}
+:root[data-theme="dark"]{--bg:#121412;--fg:#ecebe6;--muted:#a19d93;--line:#2c302c;--accent:#6fcf8f;--accent-soft:#1b2a1f;--card:#191c19}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font:17px/1.6 "Source Serif 4",Georgia,serif}
+a{color:inherit}
+.wrap{max-width:760px;margin:0 auto;padding:0 16px}
+header.mast{padding:26px 0 18px;text-align:center}
+.mast .brand{display:inline-flex;align-items:center;gap:12px;text-decoration:none}
+.mast .logo{width:clamp(36px,9vw,50px);height:auto;flex:none}
+nav.sections{position:sticky;top:0;z-index:10;background:var(--bg);border-top:3px double var(--line);border-bottom:1px solid var(--line)}
+nav.sections .inner{max-width:760px;margin:0 auto;padding:0 10px;display:flex;overflow-x:auto;scrollbar-width:none;-webkit-overflow-scrolling:touch;-webkit-mask-image:linear-gradient(to right,#000 86%,transparent);mask-image:linear-gradient(to right,#000 86%,transparent)}
+nav.sections .inner::-webkit-scrollbar{display:none}
+nav.sections a{flex:none;font:600 .74rem/1 Inter,system-ui,sans-serif;letter-spacing:.09em;text-transform:uppercase;text-decoration:none;color:var(--fg);padding:14px 9px 12px;border-bottom:2px solid transparent}
+nav.sections a:hover,nav.sections a:focus-visible{color:var(--accent);border-bottom-color:var(--accent);outline:none}
+nav.sections a.alt{color:var(--accent);margin-left:auto}
+section{scroll-margin-top:52px}
+.mast .name{font:700 clamp(2.2rem,8vw,3.4rem)/1 "Playfair Display",Georgia,serif;letter-spacing:-.01em;margin:0}
+.mast .name span{color:var(--accent)}
+.mast .tag{font:500 .8rem/1.4 Inter,system-ui,sans-serif;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);margin-top:10px}
+.dateline{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;font:500 .82rem/1.4 Inter,system-ui,sans-serif;color:var(--muted);padding:10px 0;border-bottom:1px solid var(--line)}
+.dateline a{color:var(--accent);text-decoration:none;font-weight:600}
+.lead{font-size:1.12rem;margin:26px 0 8px;padding:16px 18px;background:var(--accent-soft);border-left:4px solid var(--accent);border-radius:2px}
+section h2{font:700 .78rem/1 Inter,system-ui,sans-serif;letter-spacing:.16em;text-transform:uppercase;color:var(--accent);margin:34px 0 4px;padding-bottom:8px;border-bottom:1px solid var(--line)}
+article{padding:16px 0;border-bottom:1px solid var(--line)}
+article:last-child{border-bottom:0}
+article h3{font:700 1.22rem/1.3 "Playfair Display",Georgia,serif;margin:0 0 6px}
+article p{margin:0 0 8px}
+.src{font:500 .8rem/1.5 Inter,system-ui,sans-serif;color:var(--muted)}
+.src a{color:var(--accent);text-decoration:none;border-bottom:1px solid transparent}
+.src a:hover{border-bottom-color:var(--accent)}
+ul.arch{list-style:none;padding:0;margin:24px 0}
+ul.arch li{border-bottom:1px solid var(--line)}
+ul.arch a{display:flex;justify-content:space-between;gap:12px;padding:14px 2px;text-decoration:none}
+ul.arch .d{font:700 1.08rem/1.3 "Playfair Display",Georgia,serif}
+ul.arch .n{font:500 .8rem/1.3 Inter,system-ui,sans-serif;color:var(--muted);white-space:nowrap;align-self:center}
+footer{margin:40px 0 32px;padding-top:16px;border-top:3px double var(--line);font:400 .8rem/1.6 Inter,system-ui,sans-serif;color:var(--muted)}
+footer a{color:var(--accent)}
+.dir-intro{font-size:1.05rem;margin:22px 0 6px}
+.pill{display:inline-block;font:600 .68rem/1 Inter,system-ui,sans-serif;letter-spacing:.08em;text-transform:uppercase;padding:5px 8px;border-radius:999px;border:1px solid var(--line);color:var(--muted);white-space:nowrap}
+.pill.confirmed{background:var(--accent-soft);color:var(--accent);border-color:transparent}
+.pill.reported{border-style:dashed}
+.pill.pilot{background:var(--fg);color:var(--bg);border-color:transparent}
+.defs{margin:18px 0 0;padding:0}
+.defs div{padding:12px 0;border-bottom:1px solid var(--line)}
+.defs dt{font:700 .9rem/1.3 Inter,system-ui,sans-serif;margin-bottom:4px;display:flex;gap:8px;align-items:center}
+.defs dd{margin:0;color:var(--muted);font-size:.95rem}
+.findings{margin:18px 0 0;padding-left:20px}
+.findings li{margin:0 0 10px}
+.entry{padding:18px 0;border-bottom:1px solid var(--line)}
+.entry-head{display:flex;justify-content:space-between;gap:12px;align-items:flex-start}
+.entry h3{font:700 1.2rem/1.3 "Playfair Display",Georgia,serif;margin:0}
+.meta{font:500 .78rem/1.5 Inter,system-ui,sans-serif;color:var(--muted);margin:4px 0 10px}
+table.own{width:100%;border-collapse:collapse;margin:6px 0 10px;font-size:.93rem}
+table.own th{font:600 .7rem/1.2 Inter,system-ui,sans-serif;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);text-align:left;padding:6px 8px 6px 0;border-bottom:1px solid var(--line)}
+table.own td{padding:8px 8px 8px 0;border-bottom:1px solid var(--line);vertical-align:top}
+table.own td.pct{font:700 .95rem/1.3 Inter,system-ui,sans-serif;white-space:nowrap;font-variant-numeric:tabular-nums}
+table.own .note{display:block;color:var(--muted);font-size:.85rem;margin-top:2px}
+.control{margin:0 0 8px;font-size:.95rem}
+.gap{margin:18px 0 0;padding:14px 16px;border:1px dashed var(--line);border-radius:4px;color:var(--muted);font-size:.95rem}
+</style>
+</head>
+<body>
+<header class="mast wrap">
+<a class="brand" href="../index.html" aria-label="Daily Wire home"><svg class="logo" viewBox="0 0 48 48" aria-hidden="true"><rect width="48" height="48" rx="11" fill="var(--accent)"/><text x="24" y="34.5" text-anchor="middle" font-family="Playfair Display,Georgia,serif" font-weight="700" font-size="30" fill="var(--bg)">W</text><rect x="11" y="39" width="26" height="2.6" rx="1.3" fill="var(--bg)" opacity=".75"/></svg><span class="name">Daily <span>Wire</span></span></a>
+<div class="tag">Pakistan in the world — every morning</div>
+</header>
+<nav class="sections" aria-label="Sections"><div class="inner"><a href="#about">About</a><a href="#findings">Findings</a><a href="#entries">Entries</a><a href="#gaps">Gaps</a><a class="alt" href="../index.html">Today</a></div></nav>
+<div class="wrap">
+<div class="dateline"><span>Reference · as of Monday 28 September 2026 · 9 entries</span><a href="../index.html">Today's edition →</a></div>
+<section id="about"><h2>Military business directory <span class="pill pilot">Pilot</span></h2><p class="dir-intro">Who owns what in Pakistan&#x27;s military-linked corporate sector, documented from company filings, stock-exchange data and credit-rating reports. This pilot covers companies listed, or recently listed, on the Pakistan Stock Exchange, where ownership is a matter of public record.</p>
+<dl class="defs"><div><dt>Military welfare foundations</dt><dd>Fauji Foundation (army-linked) and the Army Welfare Trust are registered as charitable, non-profit bodies that invest to fund the welfare of ex-servicemen and their families. Each is run by a committee of administration; their companies describe control as remaining with these committees.</dd></div><div><dt>Military-linked</dt><dd>In this directory, a company is military-linked if a military welfare foundation, or a company it controls, is its largest shareholder or has management rights. It does not imply that the armed forces as an institution run the company day to day.</dd></div></dl>
+<dl class="defs"><div><dt><span class="pill confirmed">Confirmed</span></dt><dd>Backed by a primary or near-primary document: stock-exchange data, a company notice or report, or an independent credit-rating report. Linked.</dd></div><div><dt><span class="pill reported">Reported</span></dt><dd>From credible news or research reporting of filings we could not read directly. Treated as provisional.</dd></div></dl></section>
+<section id="findings"><h2>What the records show</h2><ul class="findings"><li>One retired general, Lt Gen (retd) Anwar Ali Hyder — managing director and CEO of Fauji Foundation since April 2024 — chairs the boards of FFC, Fauji Cement, Mari Energies, Askari Bank and Fauji Foods.</li><li>Stakes are increasingly consolidated: FFBL was folded into FFC in 2024, FFBL Power is being moved fully under FFC, and in 2026 the Army Welfare Trust began transferring its insurance companies to Fauji Foundation.</li><li>Exchange records lag behind: PSX still lists FFBL as Fauji Foods&#x27; parent and the Army Welfare Trust as Askari General&#x27;s parent after both changed.</li></ul></section>
+<section id="entries"><h2>Entries</h2>
+<div class="entry" id="fauji-fertilizer-company"><div class="entry-head"><h3>Fauji Fertilizer Company</h3><span class="pill confirmed">Confirmed</span></div><div class="meta">FFC · Fertiliser (also a holding company for banking, food, power and cement stakes) · Listed on PSX</div><table class="own"><thead><tr><th>Owner</th><th>Stake</th></tr></thead><tbody><tr><td>Fauji Foundation<span class="note">Largest shareholder; PSX lists it as ultimate parent</span></td><td class="pct">~44%</td></tr></tbody></table><p class="control">Board chaired by Lt Gen (retd) Anwar Ali Hyder, MD/CEO of Fauji Foundation.</p><div class="src">As of July 2025 rating report; PSX data September 2026. Sources: <a href="https://www.pacra.com/api/rating-report/MTQ2ODc=" rel="noopener" target="_blank">PACRA rating report (25 Jul 2025)</a> · <a href="https://dps.psx.com.pk/company/FFC" rel="noopener" target="_blank">PSX company page</a></div></div>
+<div class="entry" id="fauji-fertilizer-bin-qasim"><div class="entry-head"><h3>Fauji Fertilizer Bin Qasim</h3><span class="pill confirmed">Confirmed</span></div><div class="meta">FFBL (delisted) · Fertiliser · Merged into FFC; delisted 31 December 2024</div><table class="own"><thead><tr><th>Owner</th><th>Stake</th></tr></thead><tbody><tr><td>Fauji Fertilizer Company<span class="note">FFC bought the remaining 50.12% from Fauji Foundation and others in a share swap</span></td><td class="pct">100%</td></tr></tbody></table><p class="control">Wholly owned within the Fauji group.</p><div class="src">As of December 2024. Sources: <a href="https://dps.psx.com.pk/company/FFBL" rel="noopener" target="_blank">PSX company page (shows delisted)</a> · <a href="https://in.marketscreener.com/quote/stock/FAUJI-FERTILIZER-BIN-QASI-6495780/news/Fauji-Fertilizer-Company-Limited-completed-the-acquisition-of-the-remaining-50-12-stake-in-Fauji-Fe-48670339/" rel="noopener" target="_blank">MarketScreener, summary of company filings</a></div></div>
+<div class="entry" id="fauji-foods"><div class="entry-head"><h3>Fauji Foods</h3><span class="pill reported">Reported</span></div><div class="meta">FFL · Dairy and food · Listed on PSX</div><table class="own"><thead><tr><th>Owner</th><th>Stake</th></tr></thead><tbody><tr><td>Fauji Fertilizer Company<span class="note">Became FFC&#x27;s subsidiary when FFBL, its previous parent, merged into FFC</span></td><td class="pct">84.84%</td></tr></tbody></table><p class="control">Board chaired by Lt Gen (retd) Anwar Ali Hyder.</p><div class="src">As of 31 December 2024 (shareholding date). Sources: <a href="https://www.brecorder.com/news/40381578" rel="noopener" target="_blank">Business Recorder Research (8 Sep 2025), citing the annual report</a> · <a href="https://dps.psx.com.pk/company/FFL" rel="noopener" target="_blank">PSX company page (still lists FFBL as parent)</a></div></div>
+<div class="entry" id="fauji-cement-company"><div class="entry-head"><h3>Fauji Cement Company</h3><span class="pill confirmed">Confirmed</span></div><div class="meta">FCCL · Cement · Listed on PSX</div><table class="own"><thead><tr><th>Owner</th><th>Stake</th></tr></thead><tbody><tr><td>Fauji Foundation and group companies<span class="note">Combined holding; split between entities not stated</span></td><td class="pct">67%</td></tr></tbody></table><p class="control">Board chaired by Lt Gen (retd) Anwar Ali Hyder.</p><div class="src">As of March 2025 rating report. Sources: <a href="https://www.pacra.com/rating-report/MTQxMzQ=" rel="noopener" target="_blank">PACRA rating report (13 Mar 2025)</a> · <a href="https://dps.psx.com.pk/company/FCCL" rel="noopener" target="_blank">PSX company page</a></div></div>
+<div class="entry" id="mari-energies-formerly-mari-petroleum"><div class="entry-head"><h3>Mari Energies (formerly Mari Petroleum)</h3><span class="pill confirmed">Confirmed</span></div><div class="meta">MARI · Oil and gas exploration · Listed on PSX</div><table class="own"><thead><tr><th>Owner</th><th>Stake</th></tr></thead><tbody><tr><td>Fauji Foundation<span class="note">Largest shareholder, with management rights; 4 of 11 board seats</span></td><td class="pct">40%</td></tr><tr><td>Government of Pakistan</td><td class="pct">20%</td></tr><tr><td>OGDCL (state-owned)</td><td class="pct">20%</td></tr></tbody></table><p class="control">Board chaired by Lt Gen (retd) Anwar Ali Hyder. Public float 20%.</p><div class="src">As of January 2026 rating report. Sources: <a href="https://pacra.com/api/rating-report/MTU0MTE=" rel="noopener" target="_blank">PACRA rating report (8 Jan 2026)</a> · <a href="https://dps.psx.com.pk/company/MARI" rel="noopener" target="_blank">PSX company page</a></div></div>
+<div class="entry" id="askari-bank"><div class="entry-head"><h3>Askari Bank</h3><span class="pill confirmed">Confirmed</span></div><div class="meta">AKBL · Commercial banking · Listed on PSX</div><table class="own"><thead><tr><th>Owner</th><th>Stake</th></tr></thead><tbody><tr><td>Fauji consortium (Fauji Foundation and FFC)<span class="note">Fauji Foundation is the ultimate parent</span></td><td class="pct">71.91%</td></tr></tbody></table><p class="control">Fauji Foundation nominates 5 of 11 directors; board chaired by Lt Gen (retd) Anwar Ali Hyder.</p><div class="src">As of June 2025 rating report. Sources: <a href="https://www.pacra.com/api/rating-report/MTQ1Nzc=" rel="noopener" target="_blank">PACRA rating report (24 Jun 2025)</a> · <a href="https://dps.psx.com.pk/company/AKBL" rel="noopener" target="_blank">PSX company page</a></div></div>
+<div class="entry" id="askari-general-insurance"><div class="entry-head"><h3>Askari General Insurance</h3><span class="pill reported">Reported</span></div><div class="meta">AGIC · Non-life insurance and takaful · Listed on PSX</div><table class="own"><thead><tr><th>Owner</th><th>Stake</th></tr></thead><tbody><tr><td>Fauji Foundation<span class="note">Transferred from the Army Welfare Trust at carrying cost, completed 28 August 2026</span></td><td class="pct">51%</td></tr><tr><td>Army Welfare Trust<span class="note">Held 60.23% before the transfer; our calculation</span></td><td class="pct">~9% (derived)</td></tr></tbody></table><p class="control">The company says the transfer does not change ultimate beneficial or economic control. PSX still lists the Army Welfare Trust as parent; board chaired by Maj Gen (retd) Syed Anis Akbar.</p><div class="src">As of September 2026. Sources: <a href="https://www.brecorder.com/news/40437396/fauji-foundation-acquires-majority-stake-in-askari-general-insurance" rel="noopener" target="_blank">Business Recorder (1 Sep 2026), reporting the company&#x27;s notice</a> · <a href="https://propakistani.pk/2026/07/08/fauji-foundation-to-take-control-of-these-2-psx-listed-insurance-companies/amp/" rel="noopener" target="_blank">ProPakistani (8 Jul 2026), pre-transfer stakes</a> · <a href="https://dps.psx.com.pk/company/AGIC" rel="noopener" target="_blank">PSX company page</a></div></div>
+<div class="entry" id="askari-life-assurance"><div class="entry-head"><h3>Askari Life Assurance</h3><span class="pill reported">Reported</span></div><div class="meta">ALAC · Life insurance and family takaful · Listed on PSX</div><table class="own"><thead><tr><th>Owner</th><th>Stake</th></tr></thead><tbody><tr><td>Army Welfare Trust<span class="note">Transfer of 51% to Fauji Foundation announced July 2026; completion not yet confirmed by us</span></td><td class="pct">66.65%</td></tr></tbody></table><p class="control">Board chaired by Maj Gen (retd) Syed Anis Akbar.</p><div class="src">As of July 2026. Sources: <a href="https://profit.pakistantoday.com.pk/2026/07/08/fauji-foundation-to-acquire-controlling-stakes-in-askari-general-askari-life-from-army-welfare-trust" rel="noopener" target="_blank">Profit (8 Jul 2026)</a> · <a href="https://dps.psx.com.pk/company/ALAC" rel="noopener" target="_blank">PSX company page</a></div></div>
+<div class="entry" id="ffbl-power-company"><div class="entry-head"><h3>FFBL Power Company</h3><span class="pill reported">Reported</span></div><div class="meta">Unlisted · Power generation · Unlisted subsidiary</div><table class="own"><thead><tr><th>Owner</th><th>Stake</th></tr></thead><tbody><tr><td>Fauji Fertilizer Company<span class="note">Agreed in November 2025 to buy the remaining 25% from Fauji Foundation for new FFC shares, subject to shareholder and SECP approval</span></td><td class="pct">~75%</td></tr><tr><td>Fauji Foundation<span class="note">Before the agreed transfer</span></td><td class="pct">25%</td></tr></tbody></table><p class="control">Described by FFC as an internal group restructuring; would lift Fauji Foundation&#x27;s stake in FFC to about 44.14%.</p><div class="src">As of November 2025 (completion not yet verified). Sources: <a href="https://profit.pakistantoday.com.pk/2025/11/11/fauji-fertilizer-to-acquire-remaining-25-stake-in-ffbl-power-company-from-fauji-foundation/" rel="noopener" target="_blank">Profit (11 Nov 2025)</a></div></div>
+</section>
+<section id="gaps"><h2>Not yet covered</h2><p class="gap">Unlisted Fauji Foundation businesses (power, oil terminals, food, education and health), the Army Welfare Trust&#x27;s non-insurance businesses, Bahria Foundation (navy), Shaheen Foundation (air force), Defence Housing Authorities and cantonment land, military-run state bodies (FWO, NLC, SCO), defence production enterprises (POF, HIT, PAC Kamra, Karachi Shipyard) and the Special Investment Facilitation Council.</p></section>
+<footer>
+Headlines are summarised in our own words with links to the original reporting. Read the full stories at their sources.
+· <a href="../archive/index.html">Archive</a>
+</footer>
+</div>
+</body>
+</html>

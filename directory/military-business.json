@@ -1,0 +1,158 @@
+{
+  "title": "Military business directory",
+  "status": "pilot",
+  "as_of": "2026-09-28",
+  "intro": "Who owns what in Pakistan's military-linked corporate sector, documented from company filings, stock-exchange data and credit-rating reports. This pilot covers companies listed, or recently listed, on the Pakistan Stock Exchange, where ownership is a matter of public record.",
+  "definitions": [
+    {"term": "Military welfare foundations", "text": "Fauji Foundation (army-linked) and the Army Welfare Trust are registered as charitable, non-profit bodies that invest to fund the welfare of ex-servicemen and their families. Each is run by a committee of administration; their companies describe control as remaining with these committees."},
+    {"term": "Military-linked", "text": "In this directory, a company is military-linked if a military welfare foundation, or a company it controls, is its largest shareholder or has management rights. It does not imply that the armed forces as an institution run the company day to day."}
+  ],
+  "confidence": [
+    {"level": "Confirmed", "text": "Backed by a primary or near-primary document: stock-exchange data, a company notice or report, or an independent credit-rating report. Linked."},
+    {"level": "Reported", "text": "From credible news or research reporting of filings we could not read directly. Treated as provisional."}
+  ],
+  "entries": [
+    {
+      "name": "Fauji Fertilizer Company",
+      "ticker": "FFC",
+      "sector": "Fertiliser (also a holding company for banking, food, power and cement stakes)",
+      "status": "Listed on PSX",
+      "owners": [{"owner": "Fauji Foundation", "stake": "~44%", "note": "Largest shareholder; PSX lists it as ultimate parent"}],
+      "control": "Board chaired by Lt Gen (retd) Anwar Ali Hyder, MD/CEO of Fauji Foundation.",
+      "confidence": "Confirmed",
+      "as_of": "July 2025 rating report; PSX data September 2026",
+      "sources": [
+        {"name": "PACRA rating report (25 Jul 2025)", "url": "https://www.pacra.com/api/rating-report/MTQ2ODc="},
+        {"name": "PSX company page", "url": "https://dps.psx.com.pk/company/FFC"}
+      ]
+    },
+    {
+      "name": "Fauji Fertilizer Bin Qasim",
+      "ticker": "FFBL (delisted)",
+      "sector": "Fertiliser",
+      "status": "Merged into FFC; delisted 31 December 2024",
+      "owners": [{"owner": "Fauji Fertilizer Company", "stake": "100%", "note": "FFC bought the remaining 50.12% from Fauji Foundation and others in a share swap"}],
+      "control": "Wholly owned within the Fauji group.",
+      "confidence": "Confirmed",
+      "as_of": "December 2024",
+      "sources": [
+        {"name": "PSX company page (shows delisted)", "url": "https://dps.psx.com.pk/company/FFBL"},
+        {"name": "MarketScreener, summary of company filings", "url": "https://in.marketscreener.com/quote/stock/FAUJI-FERTILIZER-BIN-QASI-6495780/news/Fauji-Fertilizer-Company-Limited-completed-the-acquisition-of-the-remaining-50-12-stake-in-Fauji-Fe-48670339/"}
+      ]
+    },
+    {
+      "name": "Fauji Foods",
+      "ticker": "FFL",
+      "sector": "Dairy and food",
+      "status": "Listed on PSX",
+      "owners": [{"owner": "Fauji Fertilizer Company", "stake": "84.84%", "note": "Became FFC's subsidiary when FFBL, its previous parent, merged into FFC"}],
+      "control": "Board chaired by Lt Gen (retd) Anwar Ali Hyder.",
+      "confidence": "Reported",
+      "as_of": "31 December 2024 (shareholding date)",
+      "sources": [
+        {"name": "Business Recorder Research (8 Sep 2025), citing the annual report", "url": "https://www.brecorder.com/news/40381578"},
+        {"name": "PSX company page (still lists FFBL as parent)", "url": "https://dps.psx.com.pk/company/FFL"}
+      ]
+    },
+    {
+      "name": "Fauji Cement Company",
+      "ticker": "FCCL",
+      "sector": "Cement",
+      "status": "Listed on PSX",
+      "owners": [{"owner": "Fauji Foundation and group companies", "stake": "67%", "note": "Combined holding; split between entities not stated"}],
+      "control": "Board chaired by Lt Gen (retd) Anwar Ali Hyder.",
+      "confidence": "Confirmed",
+      "as_of": "March 2025 rating report",
+      "sources": [
+        {"name": "PACRA rating report (13 Mar 2025)", "url": "https://www.pacra.com/rating-report/MTQxMzQ="},
+        {"name": "PSX company page", "url": "https://dps.psx.com.pk/company/FCCL"}
+      ]
+    },
+    {
+      "name": "Mari Energies (formerly Mari Petroleum)",
+      "ticker": "MARI",
+      "sector": "Oil and gas exploration",
+      "status": "Listed on PSX",
+      "owners": [
+        {"owner": "Fauji Foundation", "stake": "40%", "note": "Largest shareholder, with management rights; 4 of 11 board seats"},
+        {"owner": "Government of Pakistan", "stake": "20%", "note": ""},
+        {"owner": "OGDCL (state-owned)", "stake": "20%", "note": ""}
+      ],
+      "control": "Board chaired by Lt Gen (retd) Anwar Ali Hyder. Public float 20%.",
+      "confidence": "Confirmed",
+      "as_of": "January 2026 rating report",
+      "sources": [
+        {"name": "PACRA rating report (8 Jan 2026)", "url": "https://pacra.com/api/rating-report/MTU0MTE="},
+        {"name": "PSX company page", "url": "https://dps.psx.com.pk/company/MARI"}
+      ]
+    },
+    {
+      "name": "Askari Bank",
+      "ticker": "AKBL",
+      "sector": "Commercial banking",
+      "status": "Listed on PSX",
+      "owners": [{"owner": "Fauji consortium (Fauji Foundation and FFC)", "stake": "71.91%", "note": "Fauji Foundation is the ultimate parent"}],
+      "control": "Fauji Foundation nominates 5 of 11 directors; board chaired by Lt Gen (retd) Anwar Ali Hyder.",
+      "confidence": "Confirmed",
+      "as_of": "June 2025 rating report",
+      "sources": [
+        {"name": "PACRA rating report (24 Jun 2025)", "url": "https://www.pacra.com/api/rating-report/MTQ1Nzc="},
+        {"name": "PSX company page", "url": "https://dps.psx.com.pk/company/AKBL"}
+      ]
+    },
+    {
+      "name": "Askari General Insurance",
+      "ticker": "AGIC",
+      "sector": "Non-life insurance and takaful",
+      "status": "Listed on PSX",
+      "owners": [
+        {"owner": "Fauji Foundation", "stake": "51%", "note": "Transferred from the Army Welfare Trust at carrying cost, completed 28 August 2026"},
+        {"owner": "Army Welfare Trust", "stake": "~9% (derived)", "note": "Held 60.23% before the transfer; our calculation"}
+      ],
+      "control": "The company says the transfer does not change ultimate beneficial or economic control. PSX still lists the Army Welfare Trust as parent; board chaired by Maj Gen (retd) Syed Anis Akbar.",
+      "confidence": "Reported",
+      "as_of": "September 2026",
+      "sources": [
+        {"name": "Business Recorder (1 Sep 2026), reporting the company's notice", "url": "https://www.brecorder.com/news/40437396/fauji-foundation-acquires-majority-stake-in-askari-general-insurance"},
+        {"name": "ProPakistani (8 Jul 2026), pre-transfer stakes", "url": "https://propakistani.pk/2026/07/08/fauji-foundation-to-take-control-of-these-2-psx-listed-insurance-companies/amp/"},
+        {"name": "PSX company page", "url": "https://dps.psx.com.pk/company/AGIC"}
+      ]
+    },
+    {
+      "name": "Askari Life Assurance",
+      "ticker": "ALAC",
+      "sector": "Life insurance and family takaful",
+      "status": "Listed on PSX",
+      "owners": [{"owner": "Army Welfare Trust", "stake": "66.65%", "note": "Transfer of 51% to Fauji Foundation announced July 2026; completion not yet confirmed by us"}],
+      "control": "Board chaired by Maj Gen (retd) Syed Anis Akbar.",
+      "confidence": "Reported",
+      "as_of": "July 2026",
+      "sources": [
+        {"name": "Profit (8 Jul 2026)", "url": "https://profit.pakistantoday.com.pk/2026/07/08/fauji-foundation-to-acquire-controlling-stakes-in-askari-general-askari-life-from-army-welfare-trust"},
+        {"name": "PSX company page", "url": "https://dps.psx.com.pk/company/ALAC"}
+      ]
+    },
+    {
+      "name": "FFBL Power Company",
+      "ticker": "Unlisted",
+      "sector": "Power generation",
+      "status": "Unlisted subsidiary",
+      "owners": [
+        {"owner": "Fauji Fertilizer Company", "stake": "~75%", "note": "Agreed in November 2025 to buy the remaining 25% from Fauji Foundation for new FFC shares, subject to shareholder and SECP approval"},
+        {"owner": "Fauji Foundation", "stake": "25%", "note": "Before the agreed transfer"}
+      ],
+      "control": "Described by FFC as an internal group restructuring; would lift Fauji Foundation's stake in FFC to about 44.14%.",
+      "confidence": "Reported",
+      "as_of": "November 2025 (completion not yet verified)",
+      "sources": [
+        {"name": "Profit (11 Nov 2025)", "url": "https://profit.pakistantoday.com.pk/2025/11/11/fauji-fertilizer-to-acquire-remaining-25-stake-in-ffbl-power-company-from-fauji-foundation/"}
+      ]
+    }
+  ],
+  "findings": [
+    "One retired general, Lt Gen (retd) Anwar Ali Hyder — managing director and CEO of Fauji Foundation since April 2024 — chairs the boards of FFC, Fauji Cement, Mari Energies, Askari Bank and Fauji Foods.",
+    "Stakes are increasingly consolidated: FFBL was folded into FFC in 2024, FFBL Power is being moved fully under FFC, and in 2026 the Army Welfare Trust began transferring its insurance companies to Fauji Foundation.",
+    "Exchange records lag behind: PSX still lists FFBL as Fauji Foods' parent and the Army Welfare Trust as Askari General's parent after both changed."
+  ],
+  "not_yet_covered": "Unlisted Fauji Foundation businesses (power, oil terminals, food, education and health), the Army Welfare Trust's non-insurance businesses, Bahria Foundation (navy), Shaheen Foundation (air force), Defence Housing Authorities and cantonment land, military-run state bodies (FWO, NLC, SCO), defence production enterprises (POF, HIT, PAC Kamra, Karachi Shipyard) and the Special Investment Facilitation Council."
+}
