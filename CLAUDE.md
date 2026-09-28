@@ -6,18 +6,49 @@ Daily Wire is a static news digest for Pakistan, published every morning to GitH
 - Each edition is one file: `editions/YYYY-MM-DD.json` (date in Pakistan time, PKT/UTC+5).
 - `python3 scripts/build.py` regenerates everything in `docs/`: the newest edition becomes the homepage, every edition gets a permanent page in `docs/archive/`, and `docs/archive/index.html` lists them all. **Never edit `docs/` by hand** — it is overwritten on each build.
 - Archiving is automatic: adding today's JSON pushes yesterday's edition into the archive.
+- A GitHub Actions job (`.github/workflows/collect-feeds.yml`) runs `scripts/collect_feeds.py` every two hours. It reads the publisher RSS feeds listed in `feeds.json` and saves each item's title, feed summary, date and link to `feeds/YYYY-MM-DD.json`. `feeds/status.json` shows which feeds worked on the last run.
+
+## Sources
+
+### Core — scan every day
+- English (Pakistan): Dawn, The News, The Express Tribune, Business Recorder
+- Urdu: Daily Jang (jang.com.pk), Daily Express (express.pk)
+- International: Arab News Pakistan, Al Jazeera
+- Regional: Khyber News (Khyber Pakhtunkhwa)
+- Analysis/context (not breaking news): The Friday Times
+
+### Use with care — second sources, or for stories the core misses
+- Geo News: rewrite official labels neutrally (e.g. say "militants", attributing any "India-backed" claim to ISPR).
+- Daily Times, The Nation, Samaa: fine as extra sources; ignore sensational wording.
+- Nawa-i-Waqt: skip its crime and soft stories.
+- Awami Awaz (Sindhi): use for Sindh politics and provincial news only.
+- Profit (Pakistan Today): free articles only; skip anything marked premium.
+
+### Feed-only sources (from `feeds/`)
+BBC News, BBC Urdu, DW, DW Urdu, France 24, The Guardian and Independent Urdu block direct reading. Use them **only** through what their own RSS feeds provide in `feeds/<date>.json`. Never try to open their article pages another way (no mirrors, caches or alternative download tools). Summarise only from the feed's title and summary, attribute the claim to the outlet, and link to the original.
+
+### Excluded
+- Paywalled outlets (e.g. FT, Bloomberg, The Economist, Nikkei, NYT, SCMP).
+- Indian news outlets.
+- State media (APP, Radio Pakistan, PTV) may be used only for official statements and must be labelled, e.g. `"name": "APP (state media)"`.
+
+### Wire services
+Reuters, AP and AFP stories that appear, credited, in a core outlet (e.g. "Reuters report in Dawn") may be used. Link to the article you read and mention the agency in the summary.
 
 ## Daily routine (the scheduled run)
 1. Work out today's date in Asia/Karachi. If `editions/<today>.json` already exists, stop — the edition is already out.
-2. Gather news from roughly the last 24 hours using web search and by fetching outlet homepages: Dawn, The Express Tribune, The News, Geo, Business Recorder, The Nation, plus Reuters/AP/Al Jazeera for international angles.
-3. Pick **12–20 stories** that matter to Pakistan. Use these sections in this order, dropping any that are empty: Politics, Security, Economy, Weather, Society, Region & World, Sport. Prefer stories with a confirmed article URL.
-4. Write each story as:
+2. `git pull` to get the latest collected feeds. Read `feeds/<today>.json` and `feeds/<yesterday>.json` and note which stories appear across several outlets.
+3. Check the homepage of **every core source**, then the "use with care" sources for anything big the core missed. Major casualty events, security incidents and political developments must not be missed.
+4. Pick **12–20 stories** that matter to Pakistan. Sections, in this order, dropping any that are empty: Politics, Security, Economy, Provinces, Weather, Society, Region & World, Sport.
+5. Write each story as:
    - `headline`: your own wording, under ~12 words.
    - `summary`: 1–2 factual sentences **in your own words**. Never copy sentences from the source. No quotes longer than a few words.
-   - `sources`: one or more `{"name", "url"}` pointing to the original article (not a homepage), ideally from two outlets for major stories.
-5. Write a 2–3 sentence `lead` summarising the day's main themes.
-6. Save `editions/<today>.json` matching the schema of existing editions, then run `python3 scripts/build.py`. Fix any build errors it reports.
-7. Commit (`Edition YYYY-MM-DD`) and push to `main`.
+   - `sources`: one or more `{"name", "url"}` pointing to the original article (not a homepage). For major political and security stories, prefer two outlets from different media groups (e.g. Dawn plus Jang or Express).
+   - For non-English sources, translate into English and put the language in the source name, e.g. `"Jang (Urdu)"`, `"Awami Awaz (Sindhi)"`.
+6. Write a 2–3 sentence `lead` summarising the day's main themes.
+7. Save `editions/<today>.json` matching the schema of existing editions, then run `python3 scripts/build.py`. Fix any build errors it reports.
+8. Commit (`Edition YYYY-MM-DD`), `git pull --rebase`, then push to `main`.
+9. If `feeds/status.json` shows a feed failing, mention it in the final summary.
 
 ## Editorial rules
 - Neutral, factual tone. Attribute claims ("ISPR said", "the ministry said"); don't state contested claims as fact.

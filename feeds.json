@@ -1,0 +1,21 @@
+{
+  "_note": "Feeds collected by scripts/collect_feeds.py every two hours. 'filter': true keeps only items mentioning Pakistan. Set 'enabled': false to pause a feed.",
+  "feeds": [
+    {"name": "Dawn", "lang": "en", "url": "https://www.dawn.com/feeds/home", "filter": false, "enabled": true},
+    {"name": "Express Tribune", "lang": "en", "url": "https://tribune.com.pk/feed/home", "filter": false, "enabled": true},
+    {"name": "The News", "lang": "en", "url": "https://www.thenews.pk/rss/1/1", "filter": false, "enabled": true},
+    {"name": "Business Recorder", "lang": "en", "url": "https://www.brecorder.com/feeds/latest-news", "filter": false, "enabled": true},
+    {"name": "Arab News Pakistan", "lang": "en", "url": "https://www.arabnews.pk/rss.xml", "filter": false, "enabled": true},
+    {"name": "Geo News", "lang": "en", "url": "https://www.geo.tv/rss/1/1", "filter": false, "enabled": true},
+
+    {"name": "BBC News (Asia)", "lang": "en", "url": "https://feeds.bbci.co.uk/news/world/asia/rss.xml", "filter": true, "enabled": true},
+    {"name": "Al Jazeera", "lang": "en", "url": "https://www.aljazeera.com/xml/rss/all.xml", "filter": true, "enabled": true},
+    {"name": "DW", "lang": "en", "url": "https://rss.dw.com/xml/rss-en-all", "filter": true, "enabled": true},
+    {"name": "France 24 (Asia-Pacific)", "lang": "en", "url": "https://www.france24.com/en/asia-pacific/rss", "filter": true, "enabled": true},
+    {"name": "The Guardian (Pakistan)", "lang": "en", "url": "https://www.theguardian.com/world/pakistan/rss", "filter": false, "enabled": true},
+
+    {"name": "BBC Urdu", "lang": "ur", "url": "https://feeds.bbci.co.uk/urdu/rss.xml", "filter": false, "enabled": true},
+    {"name": "DW Urdu", "lang": "ur", "url": "https://rss.dw.com/xml/rss-ur-all", "filter": false, "enabled": true},
+    {"name": "Independent Urdu", "lang": "ur", "url": "https://www.independenturdu.com/rss.xml", "filter": false, "enabled": true}
+  ]
+}

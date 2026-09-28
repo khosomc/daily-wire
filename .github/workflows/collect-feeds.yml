@@ -1,0 +1,49 @@
+name: Collect news feeds
+
+on:
+  schedule:
+    - cron: "17 */2 * * *"   # every two hours
+  workflow_dispatch: {}        # "Run workflow" button in the Actions tab
+  push:
+    branches: [main]
+    paths:
+      - feeds.json
+      - scripts/collect_feeds.py
+      - .github/workflows/collect-feeds.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collect-feeds
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Collect feeds
+        run: python3 scripts/collect_feeds.py
+
+      - name: Save results
+        run: |
+          git config user.name "daily-wire-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add feeds/
+          if git diff --cached --quiet; then
+            echo "No new items"
+            exit 0
+          fi
+          git commit -m "Feeds $(TZ=Asia/Karachi date '+%Y-%m-%d %H:%M')"
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push origin HEAD:main && exit 0
+            sleep 5
+          done
+          exit 1
