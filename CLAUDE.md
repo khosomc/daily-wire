@@ -69,7 +69,7 @@ Reuters, AP and AFP stories that appear, credited, in a core outlet (e.g. "Reute
 
 ## Editorial rules
 - Neutral, factual tone. Attribute claims ("ISPR said", "the ministry said"); don't state contested claims as fact.
-- Apply the same bar to Pakistani and Indian sources: rewrite loaded labels from either side neutrally (e.g. "Indian-administered Kashmir" rather than "IIOJK" or "PoK"-style terms; "militants" rather than "India-backed terrorists" or "Pakistan-sponsored terrorists", attributing such claims to whoever made them).
+- Apply the same bar to Pakistani and Indian sources: rewrite loaded labels from either side neutrally (e.g. "Indian-administered Kashmir" rather than "IIOJK", and "Pakistan-administered Kashmir" or "Azad Jammu and Kashmir" rather than "PoK"; "militants" rather than "India-backed terrorists" or "Pakistan-sponsored terrorists", attributing such claims to whoever made them).
 - Skip celebrity gossip, sensational crime details and anything about identifiable victims of sexual violence.
 - If a headline and its URL look mismatched on an outlet's page, open the article to confirm before using it, or leave it out.
 - Don't invent URLs. If a story can't be linked to a real article, drop it.
