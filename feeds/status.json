@@ -1,0 +1,101 @@
+{
+ "run": "2026-09-28T17:50+05:00",
+ "feeds": [
+  {
+   "feed": "Dawn",
+   "ok": true,
+   "items_in_feed": 24,
+   "kept": 24,
+   "new": 24
+  },
+  {
+   "feed": "Express Tribune",
+   "ok": true,
+   "items_in_feed": 72,
+   "kept": 60,
+   "new": 60
+  },
+  {
+   "feed": "The News",
+   "ok": true,
+   "items_in_feed": 50,
+   "kept": 12,
+   "new": 12
+  },
+  {
+   "feed": "Business Recorder",
+   "ok": true,
+   "items_in_feed": 30,
+   "kept": 30,
+   "new": 30
+  },
+  {
+   "feed": "Arab News Pakistan",
+   "ok": true,
+   "items_in_feed": 50,
+   "kept": 50,
+   "new": 50
+  },
+  {
+   "feed": "Geo News",
+   "ok": true,
+   "items_in_feed": 20,
+   "kept": 20,
+   "new": 20
+  },
+  {
+   "feed": "BBC News (Asia)",
+   "ok": true,
+   "items_in_feed": 17,
+   "kept": 0,
+   "new": 0
+  },
+  {
+   "feed": "Al Jazeera",
+   "ok": true,
+   "items_in_feed": 25,
+   "kept": 0,
+   "new": 0
+  },
+  {
+   "feed": "DW",
+   "ok": true,
+   "items_in_feed": 132,
+   "kept": 0,
+   "new": 0
+  },
+  {
+   "feed": "France 24 (Asia-Pacific)",
+   "ok": true,
+   "items_in_feed": 30,
+   "kept": 0,
+   "new": 0
+  },
+  {
+   "feed": "The Guardian (Pakistan)",
+   "ok": true,
+   "items_in_feed": 20,
+   "kept": 0,
+   "new": 0
+  },
+  {
+   "feed": "BBC Urdu",
+   "ok": true,
+   "items_in_feed": 21,
+   "kept": 14,
+   "new": 14
+  },
+  {
+   "feed": "DW Urdu",
+   "ok": false,
+   "error": "ParseError: syntax error: line 1, column 0"
+  },
+  {
+   "feed": "Independent Urdu",
+   "ok": true,
+   "items_in_feed": 10,
+   "kept": 10,
+   "new": 10
+  }
+ ]
+}
