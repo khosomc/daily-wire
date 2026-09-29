@@ -1,0 +1,167 @@
+{
+  "date": "2026-09-29",
+  "lead": "Pakistan pressed its own account of the Afghan war on a visiting US commission and hosted India at its first SCO planning meeting, even as Kabul accused Islamabad over deadly clashes in Nuristan. At home, the Centre openly weighed governor's rule in Khyber Pakhtunkhwa over the province's handling of militancy. On the money side, Qatar pushed back LNG deliveries to November as Hormuz stays shut, and IMF reviewers are querying an Rs853bn gap in the government's accounts.",
+  "sections": [
+    {
+      "name": "Geopolitics & Diplomacy",
+      "stories": [
+        {
+          "headline": "Munir presses Pakistan's view on US Afghanistan War Commission",
+          "summary": "Field Marshal Asim Munir asked the visiting commission to factor in the regional view and Pakistan's experience when assessing America's 20-year war. According to ISPR, the delegation acknowledged Pakistan's role and sacrifices; Arab News notes the commission's earlier findings also criticised Pakistan for giving the Taliban sanctuary.",
+          "sources": [
+            {"name": "Dawn", "url": "https://www.dawn.com/news/2033301/us-delegation-meets-cdf-munir-acknowledges-pakistans-longstanding-role-sacrifices-during-afghan-war"},
+            {"name": "Arab News Pakistan", "url": "https://www.arabnews.pk/pakistan/pakistan-army-chief-makes-case-to-us-war-panel-amid-renewed-fighting-with-afghanistan-3002597"},
+            {"name": "Express Tribune", "url": "https://tribune.com.pk/story/2631976/us-war-commission-turns-to-pakistan-for-afghan-war-review"}
+          ]
+        },
+        {
+          "headline": "India attends Pakistan-chaired SCO coordinators' meeting in Islamabad",
+          "summary": "An Indian delegation took part despite frozen bilateral ties as Pakistan opened its 2026–27 SCO chairmanship programme. The talks are laying the groundwork for a heads-of-state summit in Pakistan in August 2027.",
+          "sources": [
+            {"name": "Express Tribune", "url": "https://tribune.com.pk/story/2631916/pakistan-chairs-first-sco-council-of-national-coordinators-meeting-in-islamabad"},
+            {"name": "Independent Urdu (Urdu)", "url": "https://www.independenturdu.com/node/187981"}
+          ]
+        },
+        {
+          "headline": "Pakistan seeks joint funding push for trans-Afghan railway",
+          "summary": "Planning Minister Ahsan Iqbal proposed that Pakistan and Uzbekistan jointly seek international financing for the line through Afghanistan, which is still at feasibility stage. He also sought support for the $2.5bn upgrade of the Karachi–Rohri section of ML-1, where the ADB is now leading financing after stalled talks with China.",
+          "sources": [
+            {"name": "Arab News Pakistan", "url": "https://www.arabnews.pk/pakistan/pakistan-proposes-financing-drive-for-railway-to-uzbekistan-through-afghanistan-3002606"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Conflict & Security",
+      "stories": [
+        {
+          "headline": "Islamabad rejects Kabul's claims over deadly Nuristan clashes",
+          "summary": "Afghanistan's Taliban government said it killed 28 fighters who had crossed from Pakistan and alleged they were recruited by Pakistani intelligence. Pakistan's information ministry called the claims baseless and urged Kabul to act against militants on its own soil.",
+          "sources": [
+            {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/9/27/afghanistan-says-28-fighters-killed-as-islamabad-kabul-trade-accusations"},
+            {"name": "The News", "url": "https://www.thenews.pk/story/1439750-pakistan-rejects-taliban-regimes-allegations-over-nuristan-violence"}
+          ]
+        },
+        {
+          "headline": "Centre raises governor's rule threat as KP stays defiant",
+          "summary": "Federal ministers said the legal grounds for governor's rule in Khyber Pakhtunkhwa were met and accused the PTI government of failing against militancy. Chief Minister Sohail Afridi refused to call off the party's 4 October march on Islamabad, and Governor Faisal Karim Kundi urged him to drop it on security grounds.",
+          "sources": [
+            {"name": "Dawn", "url": "https://www.dawn.com/news/2033405/kp-govt-defiant-as-centre-warns-of-governors-rule"},
+            {"name": "Arab News Pakistan", "url": "https://www.arabnews.pk/pakistan/pakistans-opposition-run-kp-province-rejects-governors-rule-warnings-ahead-of-protest-march-3002621"},
+            {"name": "Khyber News", "url": "https://khybernews.tv/islamabad-march-kp-governor-urges-cm-afridi-to-call-it-off/"}
+          ]
+        },
+        {
+          "headline": "Security forces report 10 militants killed in KP and Balochistan",
+          "summary": "State media said four militants it linked to the banned TTP were killed in an intelligence-based operation in Dera Ismail Khan, after six were reported killed in separate KP and Balochistan operations earlier on Monday.",
+          "sources": [
+            {"name": "Dawn", "url": "https://www.dawn.com/news/2033323/security-forces-kill-4-terrorists-in-dera-ismail-khan-ibo-state-media"},
+            {"name": "Express Tribune", "url": "https://tribune.com.pk/story/2631893/six-terrorists-killed-in-separate-k-p-balochistan-operations-state-media"}
+          ]
+        },
+        {
+          "headline": "Mediators to meet Iran and US as Hormuz stays closed",
+          "summary": "Qatari mediators were expected to meet Iranian Foreign Minister Abbas Araghchi in New York and the US side separately, a Reuters report in Business Recorder said. Araghchi said any reopening of the Strait of Hormuz depends on Iran's terms being met, BBC Urdu reported, while President Trump said the US would win the war \"very soon\".",
+          "sources": [
+            {"name": "Business Recorder", "url": "https://www.brecorder.com/news/40441627/us-iran-set-to-hold-separate-talks-with-mediators-on-monday-or-tuesday-official-says"},
+            {"name": "BBC Urdu (Urdu)", "url": "https://www.bbc.co.uk/urdu/live/cm20lrvz3d8dt"}
+          ]
+        },
+        {
+          "headline": "Displaced Tirah valley families to start returning on 10 October",
+          "summary": "Families displaced from Tirah in Khyber district will begin going home next month; local elders have asked for basic services to be in place first.",
+          "sources": [
+            {"name": "Express Tribune", "url": "https://tribune.com.pk/story/2631914/tirah-valley-idps-return-to-begin-from-october-10"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Economy",
+      "stories": [
+        {
+          "headline": "Qatar extends LNG force majeure on Pakistan until November",
+          "summary": "QatarEnergy told Pakistan and other Asian buyers that it still cannot deliver cargoes while Hormuz remains closed, extending notices first issued in April, according to trading sources. The delay leaves Pakistan short of gas going into winter.",
+          "sources": [
+            {"name": "Arab News Pakistan", "url": "https://www.arabnews.pk/pakistan/qatar-extends-lng-force-majeure-notice-to-pakistan-as-hormuz-remains-closed-3002598"}
+          ]
+        },
+        {
+          "headline": "IMF queries Rs853bn gap in government accounts",
+          "summary": "Pakistan promised review staff more detail on the statistical discrepancy, which officials blame on provincial treasury investments and timing mismatches. The government also said the FBR would meet its Rs3.053tr first-quarter tax target despite missing August's goal by Rs28bn.",
+          "sources": [
+            {"name": "Express Tribune", "url": "https://tribune.com.pk/story/2631943/govt-to-address-rs853b-discrepancy"},
+            {"name": "Profit", "url": "https://profit.pakistantoday.com.pk/2026/09/28/pakistan-assures-imf-fbr-will-meet-rs3053-trillion-tax-target-for-q1"}
+          ]
+        },
+        {
+          "headline": "Petrol and diesel prices trimmed for 29 September",
+          "summary": "Petrol fell by Rs2.27 to Rs389.03 a litre and high-speed diesel by Rs3.56 to Rs404.97 a litre, with oil markets still volatile over the Iran war.",
+          "sources": [
+            {"name": "Business Recorder", "url": "https://www.brecorder.com/news/40441634/govt-cuts-petrol-by-rs227-diesel-by-rs356-per-litre"},
+            {"name": "Dawn", "url": "https://www.dawn.com/news/2033319/govt-reduces-petrol-price-by-rs227-per-litre-high-speed-diesel-rate-by-rs356"}
+          ]
+        },
+        {
+          "headline": "Senate panel seeks halt to power distributors' sale",
+          "summary": "A Senate sub-committee told the Privatisation Commission to take the sale of the power distribution companies (Discos) to the Council of Common Interests, arguing they perform provincial functions. It also urged cuts to federal spending on devolved subjects.",
+          "sources": [
+            {"name": "Dawn", "url": "https://www.dawn.com/news/2033304/senate-panel-seeks-halt-to-discos-privatisation-says-matter-must-go-to-council-of-common-interests"},
+            {"name": "Profit", "url": "https://profit.pakistantoday.com.pk/2026/09/28/senate-panel-calls-for-halt-to-discos-privatisation"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Finance & Capital",
+      "stories": [
+        {
+          "headline": "Chinese oilfield firm eyes Rs20bn gas venture with Shaheen Energy",
+          "summary": "Shaheen Energy and China's Anton Oilfield Services signed an MoU to explore about Rs20bn of upstream and gas-processing investment over three to five years, building on Shaheen's Sinjhoro field plant.",
+          "sources": [
+            {"name": "Profit", "url": "https://profit.pakistantoday.com.pk/2026/09/28/pakistan-chinese-firms-sign-mou-to-explore-rs20-billion-energy-investment"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sovereignty",
+      "stories": [
+        {
+          "headline": "US agrees to channel NGO grants through Pakistan's EAD",
+          "summary": "After 18 months of negotiations, Washington will route grants for Pakistani civil-society groups through the Economic Affairs Division, giving Islamabad oversight of aid that previously bypassed the government.",
+          "sources": [
+            {"name": "Profit", "url": "https://profit.pakistantoday.com.pk/2026/09/28/us-to-route-ngo-grants-to-pakistan-through-the-economic-affairs-division"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Also today",
+      "stories": [
+        {
+          "headline": "AJK police arrest 122 after unrest",
+          "summary": "Police in Azad Jammu and Kashmir registered 69 cases over attacks that injured police, security personnel and civilians.",
+          "sources": [
+            {"name": "Express Tribune", "url": "https://tribune.com.pk/story/2631863/ajk-police-arrest-122-over-attacks-on-law-enforcement-personnel-property-damage"}
+          ]
+        },
+        {
+          "headline": "Polio drive reaches 28.2 million children",
+          "summary": "Officials said the week-long campaign went ahead, but insecurity in Bannu still halts vaccination rounds.",
+          "sources": [
+            {"name": "Dawn", "url": "https://www.dawn.com/news/2033410/282-million-children-vaccinated-in-weeklong-polio-campaign"}
+          ]
+        },
+        {
+          "headline": "PTI protests continued detention of Imran Khan's sisters",
+          "summary": "The party said the sisters are being denied basic rights in custody; Punjab told the Lahore High Court they have been given all facilities.",
+          "sources": [
+            {"name": "Express Tribune", "url": "https://tribune.com.pk/story/2631889/pti-calls-for-justice-as-imrans-sisters-remain-in-detention-denied-of-fundamental-rights"},
+            {"name": "Dawn", "url": "https://www.dawn.com/news/2033287/aleema-provided-basic-facilities-essential-items-in-jail-punjab-govt-tells-lhc"}
+          ]
+        }
+      ]
+    }
+  ]
+}
