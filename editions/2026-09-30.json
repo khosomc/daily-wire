@@ -1,0 +1,190 @@
+{
+  "date": "2026-09-30",
+  "lead": "Pakistan took its case to Western capital in London, with the prime minister formally launching a $3bn Eurobond and courting Barclays, JP Morgan, BlackRock and others, while at home IMF reviewers opened talks on a $1.2bn tranche and pressed for overdue state-enterprise law changes. Islamabad sharpened its rhetoric towards Kabul, calling on the Taliban to drop their 'militant mindset', and a new US sanctions round over Iran's military supply chain named parties in Pakistan. Three Pakistani sailors were reported killed before Somali forces freed a tanker held since April.",
+  "sections": [
+    {
+      "name": "Geopolitics & Diplomacy",
+      "stories": [
+        {
+          "headline": "Tarar tells Taliban to abandon 'militant mindset'",
+          "summary": "Information Minister Attaullah Tarar said Pakistan wants peaceful coexistence with Afghanistan but described the Taliban government's approach as the root of the two countries' problems. He urged Kabul to act as a responsible state amid continuing attacks Islamabad links to Afghan soil.",
+          "sources": [
+            {"name": "Dawn", "url": "https://www.dawn.com/news/2033507/afghan-interim-govt-needs-to-move-out-of-its-militant-mindset-says-tarar"},
+            {"name": "Arab News Pakistan", "url": "https://www.arabnews.pk/pakistan/pakistan-says-believes-in-peace-but-afghanistans-militant-mindset-needs-to-change-3002676"}
+          ]
+        },
+        {
+          "headline": "New US Iran sanctions round names parties in Pakistan",
+          "summary": "Washington sanctioned ten individuals and firms in China, Pakistan, Turkiye, Iran and Saudi Arabia over alleged support for Iran's military, Al Jazeera reported. The move keeps pressure on Pakistani businesses with Iranian links as Islamabad weighs its exposure to US sanctions.",
+          "sources": [
+            {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/9/29/us-sanctions-10-entities-for-allegedly-supporting-irans-military"}
+          ]
+        },
+        {
+          "headline": "Pakistan pitches its ports as Central Asia's sea outlet",
+          "summary": "At a CAREC conference, Planning Minister Ahsan Iqbal urged regional governments and lenders to upgrade roads, border crossings and rail freight so landlocked Central Asian states can reach Arabian Sea ports. He called for turning CAREC routes into full economic corridors covering logistics, energy and digital links.",
+          "sources": [
+            {"name": "Arab News Pakistan", "url": "https://www.arabnews.pk/pakistan/pakistan-urges-upgrades-to-link-central-asian-trade-with-arabian-sea-ports-3002698"},
+            {"name": "Business Recorder", "url": "https://www.brecorder.com/news/40441817/carec-corridors-to-connect-central-asia-with-global-markets-says-ahsan-iqbal"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Conflict & Security",
+      "stories": [
+        {
+          "headline": "Three Pakistani sailors killed before Somali forces free tanker",
+          "summary": "Puntland maritime police said five crew members of the MT Honour 25, including three Pakistanis, were killed by pirates before its forces retook the tanker seized in April; about ten Pakistanis were on board. Islamabad said it was working to confirm the reports, and the Express Tribune said 16 suspected pirates were detained.",
+          "sources": [
+            {"name": "Arab News Pakistan", "url": "https://www.arabnews.pk/pakistan/three-pakistanis-among-five-killed-by-pirates-before-puntland-frees-hijacked-tanker-police-say-3002713"},
+            {"name": "Dawn", "url": "https://www.dawn.com/news/2033553/somali-forces-recover-oil-tanker-carrying-pakistani-crewmen-over-5-months-after-hijacking-by-pirates"},
+            {"name": "Express Tribune", "url": "https://tribune.com.pk/story/2632091/somali-pirates-kill-three-pakistanis-during-rescue-operation"}
+          ]
+        },
+        {
+          "headline": "Seven militants reported killed in Bara and Chagai",
+          "summary": "Security sources said five militants died in an intelligence-based operation in Bara, Khyber district, and two in Balochistan's Chagai, with weapons recovered. Security sources described the fighters as India-backed; the claim could not be independently verified.",
+          "sources": [
+            {"name": "Dawn", "url": "https://www.dawn.com/news/2033491/security-forces-kill-5-terrorists-in-kp-ibo-2-eliminated-in-balochistans-chagai-security-sources"},
+            {"name": "Arab News Pakistan", "url": "https://www.arabnews.pk/pakistan/pakistan-says-seven-militants-killed-in-western-provinces-bordering-afghanistan-3002667"}
+          ]
+        },
+        {
+          "headline": "Blast flattens hotel in Mastung, no casualties reported",
+          "summary": "An explosion destroyed a hotel in Balochistan's Mastung district and damaged nearby houses and more than 250 solar panels. No one was reported hurt.",
+          "sources": [
+            {"name": "Express Tribune", "url": "https://tribune.com.pk/story/2632056/blast-destroys-hotel-in-balochistans-mastung-damages-nearby-houses"}
+          ]
+        },
+        {
+          "headline": "Saudi Red Sea oil route reopens as Iran meets mediators",
+          "summary": "Saudi Arabia resumed tanker loadings at Yanbu after restarting its East-West pipeline, halted by a drone attack earlier this month, easing supply fears while Hormuz stays shut. Iran's foreign minister met Qatari mediators as Washington insisted on nuclear talks, Al Jazeera reported.",
+          "sources": [
+            {"name": "Dawn", "url": "https://www.dawn.com/news/2033575/saudi-arabia-resumes-yanbu-oil-loading-after-pipeline-restart"},
+            {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/9/29/irans-araghchi-meets-qatari-mediators-as-us-insists-on-nuclear-talks"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Economy",
+      "stories": [
+        {
+          "headline": "IMF mission opens talks on $1.2bn in reviews",
+          "summary": "Finance Minister Muhammad Aurangzeb held a kick-off meeting with the IMF team led by Iva Petrova for the fourth review of the $7bn EFF and third review of the climate-linked RSF. Success would release about $1.2bn in total.",
+          "sources": [
+            {"name": "Dawn", "url": "https://www.dawn.com/news/2033493/finance-minister-kicks-off-talks-with-visiting-imf-mission"},
+            {"name": "Arab News Pakistan", "url": "https://www.arabnews.pk/pakistan/imf-pakistan-formally-begin-talks-on-12-billion-loan-climate-program-reviews-3002661"}
+          ]
+        },
+        {
+          "headline": "Petrol and diesel prices cut again for 30 September",
+          "summary": "The government lowered petrol by Rs1.49 a litre and high-speed diesel by Rs2.73 in its latest price revision. Deputy Prime Minister Ishaq Dar separately reviewed the rollout of the fuel relief scheme for motorcycles, rickshaws and small cars.",
+          "sources": [
+            {"name": "Dawn", "url": "https://www.dawn.com/news/2033537/govt-reduces-petrol-price-by-rs149-per-litre-high-speed-diesel-rate-by-rs273"},
+            {"name": "Business Recorder", "url": "https://www.brecorder.com/news/40441820/govt-decreases-diesel-price-by-rs273-petrol-by-rs149-per-litre"}
+          ]
+        },
+        {
+          "headline": "Tax deadline day as FBR defends shopkeeper scheme",
+          "summary": "The State Bank told banks to keep branches open until 10pm on 30 September for tax payments, at the FBR's request. The FBR said its special scheme for small shopkeepers is still in an early phase and it is fixing registration problems.",
+          "sources": [
+            {"name": "Business Recorder", "url": "https://www.brecorder.com/news/40441816/tax-returns-pakistan-banks-to-extend-working-hours-on-sept-30"},
+            {"name": "Business Recorder", "url": "https://www.brecorder.com/news/40441818/special-tax-scheme-for-small-shopkeepers-in-initial-implementation-phase-fbr"}
+          ]
+        },
+        {
+          "headline": "OGDCL hires nuclear institute for lithium exploration work",
+          "summary": "The state-owned explorer signed a contract with PINSTECH for advanced element and radioactive-element profiling to support its search for lithium, a mineral Pakistan hopes to develop for export.",
+          "sources": [
+            {"name": "Business Recorder", "url": "https://www.brecorder.com/news/40441800/ogdcl-inks-deal-with-pinstech-for-lithium-exploration"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Finance & Capital",
+      "stories": [
+        {
+          "headline": "Shehbaz formally launches $3bn Eurobond in London",
+          "summary": "The prime minister opened a London Stock Exchange trading session, a first for a Pakistani premier, and formally inaugurated the country's $3bn dual-tranche sovereign Eurobond. He pitched Pakistan to investors as a high-return market.",
+          "sources": [
+            {"name": "Business Recorder", "url": "https://www.brecorder.com/news/40441822/pm-shehbaz-inaugurates-3bn-eurobond-in-london"},
+            {"name": "Express Tribune", "url": "https://tribune.com.pk/story/2632098/pm-shehbaz-underscores-pakistans-potential-for-high-yield-foreign-investment"}
+          ]
+        },
+        {
+          "headline": "PM courts Barclays, JP Morgan, BlackRock and Citi",
+          "summary": "Shehbaz Sharif met executives from Barclays, J.P. Morgan, Citi, BlackRock and Rothschild & Co, inviting them to invest and expand in Pakistan. His office said JP Morgan reaffirmed interest in Pakistan's sovereign debt.",
+          "sources": [
+            {"name": "Dawn", "url": "https://www.dawn.com/news/2033543/pm-shehbaz-meets-global-financial-firms-in-london-invites-them-to-invest-and-expand-services-in-pakistan"},
+            {"name": "Arab News Pakistan", "url": "https://www.arabnews.pk/pakistan/pakistan-says-jp-morgan-interested-in-sovereign-debt-opportunities-after-meeting-with-pm-3002697"}
+          ]
+        },
+        {
+          "headline": "KSE-100 slips below 170,000; rupee edges up",
+          "summary": "The benchmark index lost 825 points as uncertainty over US–Iran talks and oil prices weighed on the market during the IMF review. The rupee firmed slightly to 277.12 to the dollar in the interbank market.",
+          "sources": [
+            {"name": "Express Tribune", "url": "https://tribune.com.pk/story/2632050/psx-slips-into-red-as-us-iran-uncertainty-imf-talks-weigh"},
+            {"name": "Business Recorder", "url": "https://www.brecorder.com/news/40441794/pakistan-rupee-records-gain-against-us-dollar"}
+          ]
+        },
+        {
+          "headline": "SECP proposes Rs5mn cap for microfinance and housing loans",
+          "summary": "The regulator put out draft amendments raising the maximum size of microfinance and housing loans to Rs5 million to widen access to credit, and invited comments.",
+          "sources": [
+            {"name": "Business Recorder", "url": "https://www.brecorder.com/news/40441786/secp-proposes-raising-microfinance-housing-loan-limits-to-rs5mn"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sovereignty",
+      "stories": [
+        {
+          "headline": "IMF wants state-enterprise law changes before board meeting",
+          "summary": "The Fund raised concern over delays in amending about half a dozen laws governing state-owned enterprises and wants them done before its board considers Pakistan's next tranche, the Express Tribune reported.",
+          "sources": [
+            {"name": "Express Tribune", "url": "https://tribune.com.pk/story/2632130/imf-asks-for-soe-law-changes-before-board-meeting"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Also today",
+      "stories": [
+        {
+          "headline": "KP chief minister insists PTI march goes ahead on 4 October",
+          "summary": "Sohail Afridi said marchers would reach Swabi in the first phase as the Centre kept up talk of governor's rule, while the law minister said only courts can decide Imran Khan's release.",
+          "sources": [
+            {"name": "Dawn", "url": "https://www.dawn.com/news/2033563/kp-cm-defiant-on-ptis-islamabad-march-as-centre-keeps-up-governors-rule-emergency-threat"},
+            {"name": "Arab News Pakistan", "url": "https://www.arabnews.pk/pakistan/pakistan-government-says-courts-not-protests-must-decide-jailed-ex-pm-khans-release-3002677"}
+          ]
+        },
+        {
+          "headline": "Rights groups urge release of jailed lawyers",
+          "summary": "Fifteen international organisations called for the release of Imaan Mazari-Hazir and Hadi Ali Chattha, still held despite Supreme Court bail.",
+          "sources": [
+            {"name": "Arab News Pakistan", "url": "https://www.arabnews.pk/pakistan/over-a-dozen-international-groups-urge-pakistan-to-release-jailed-human-rights-lawyers-3002688"}
+          ]
+        },
+        {
+          "headline": "Fifth polio case of the year confirmed in Bannu",
+          "summary": "A 17-month-old girl in Bannu district was infected, making the Bannu division the source of four of this year's five cases.",
+          "sources": [
+            {"name": "Dawn", "url": "https://www.dawn.com/news/2033520/pakistan-reports-ongoing-years-fifth-polio-case"},
+            {"name": "Express Tribune", "url": "https://tribune.com.pk/story/2632065/k-ps-bannu-reports-fifth-poliovirus-case-of-the-year"}
+          ]
+        },
+        {
+          "headline": "Court lets Afghan medical students back into class",
+          "summary": "The Sindh High Court extended temporary protection for Afghan students challenging a directive that they return home.",
+          "sources": [
+            {"name": "Arab News Pakistan", "url": "https://www.arabnews.pk/pakistan/pakistans-sindh-high-court-restores-classes-for-afghan-medical-students-facing-return-order-3002699"}
+          ]
+        }
+      ]
+    }
+  ]
+}
