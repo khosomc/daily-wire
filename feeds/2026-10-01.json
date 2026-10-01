@@ -2,11 +2,749 @@
  {
   "source": "Geo News",
   "lang": "en",
+  "title": "At least 22 militants reportedly killed in Pakistani strikes on terror hideouts in Afghanistan",
+  "summary": "Pakistani fighter jets perform at a rehearsal ahead of Pakistan's national day parade in Islamabad. — AFP/FileMinistry says strikes conducted under Operation Ghazab lil-Haq.Adds weapons and ammunition stored at hideouts destroyed.Pakistan reiterates resolve to eliminate terrorist...",
+  "link": "https://www.geo.tv/latest/684490-at-least-22-terrorists-reportedly-killed-as-pakistan-strikes-terror-hideout",
+  "published": "2026-10-01T14:26:00+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Geo News",
+  "lang": "en",
+  "title": "Gulshan-e-Iqbal BRT structure collapses, duty guard killed",
+  "summary": "A person is seen inside an ambulance. — Geo News/Screengrab Incident occurs near Baitul Mukarram Mosque, according to rescue officials.Deceased was working as a duty guard at the construction site.Rescue officials say operation was completed after body was recovered. <p...",
+  "link": "https://www.geo.tv/latest/684489-gulshan-e-iqbal-brt-structure-collapses-duty-guard-killed",
+  "published": "2026-10-01T12:06:41+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Geo News",
+  "lang": "en",
+  "title": "ADB assures full support for flagship ML-1 as Ahsan Iqbal seeks fast-track progress",
+  "summary": "Federal Minister for Planning, Development and Special Initiatives Ahsan Iqbal shakes hands with ADB President Masato Kanda on the sidelines of the 25th Carec Ministerial Conference in Ulaanbaatar on September 30, 2026. — PID/Screengrab Iqbal says low-emission,...",
+  "link": "https://www.geo.tv/latest/684488-ahsan-iqbal-seeks-fast-track-for-flagship-ml-1-adb-president-assures-full-support",
+  "published": "2026-10-01T11:56:49+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Business Recorder",
+  "lang": "en",
+  "title": "Russian air strikes injure two in Ukraine's Kyiv, Odesa, officials say",
+  "summary": "Russian air strikes have injured one person in Ukrainian capital Kyiv and another person in the Black Sea port city of Odesa, Ukrainian emergency service and an Odesa city official said on the Telegram messaging app on Thursday. Russia says it struck Ukrainian defence industry facilities, logistics hubs overnight…",
+  "link": "https://www.brecorder.com/news/40442142/russian-air-strikes-injure-two-in-ukraines-kyiv-odesa-officials-say",
+  "published": "2026-10-01T10:57:59+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Business Recorder",
+  "lang": "en",
+  "title": "Aluminium falls to 2-month low on Iran peace hopes, stronger dollar",
+  "summary": "SINGAPORE: Aluminium fell to its lowest level in more than two months on Thursday, tracking a broader weakness in industrial metals and hopes that supply from the Middle East, a major producer, could improve if tensions ease. Benchmark three-month aluminium on the London Metal Exchange was down 0.74% at $3,146 a…",
+  "link": "https://www.brecorder.com/news/40442141/aluminium-falls-to-2-month-low-on-iran-peace-hopes-stronger-dollar",
+  "published": "2026-10-01T10:56:43+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Business Recorder",
+  "lang": "en",
+  "title": "China’s Tencent leases 100,000 chips from Oracle to accelerate AI push, FT reports",
+  "summary": "Tencent signed its largest overseas lease deal with US cloud provider Oracle to access about 100,000 advanced AI chips that were not available in China, the Financial Times reported on Wednesday, citing people familiar with the matter. The Chinese technology giant this year agreed to a five-year lease across multiple…",
+  "link": "https://www.brecorder.com/news/40442140/chinas-tencent-leases-100000-chips-from-oracle-to-accelerate-ai-push-ft-reports",
+  "published": "2026-10-01T10:55:34+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Business Recorder",
+  "lang": "en",
+  "title": "India bonds seen extending losses before debt sale as US yields weigh",
+  "summary": "MUMBAI: India government bonds may weaken at the start of the third quarter on Thursday as elevated US Treasury yields cloud the rate outlook ahead of the Reserve Bank of India’s policy decision, while a looming debt sale adds supply pressure. Global bonds closed out their worst month in years on Wednesday, with the…",
+  "link": "https://www.brecorder.com/news/40442139/india-bonds-seen-extending-losses-before-debt-sale-as-us-yields-weigh",
+  "published": "2026-10-01T10:54:17+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Dawn",
+  "lang": "en",
+  "title": "‘Calibrated’ air strikes carried out at two locations against terrorist hideouts in Afghanistan: information ministry",
+  "summary": "Pakistan carried out “well-planned and calibrated” air strikes against terrorist hideouts in Afghanistan, the information ministry said on Thursday. In a post on X, the ministry said the strikes were carried out in continuation of Operation Ghazab lil Haq and Pakistan’s resolve to eliminate terrorists, their networks…",
+  "link": "https://www.dawn.com/news/2033937/calibrated-air-strikes-carried-out-at-two-locations-against-terrorist-hideouts-in-afghanistan-information-ministry",
+  "published": "2026-10-01T10:53:54+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Business Recorder",
+  "lang": "en",
+  "title": "Palm oil extends falls on weaker soyoil and exports",
+  "summary": "JAKARTA: Malaysian palm oil futures fell for a fifth straight session on Thursday, tracking weakness in Chicago soyoil prices and weighed down by soft September exports and rising production. The benchmark palm oil contract for December delivery on the Bursa Malaysia Derivatives Exchange lost 19 ringgit, or 0.41%, to…",
+  "link": "https://www.brecorder.com/news/40442138/palm-oil-extends-falls-on-weaker-soyoil-and-exports",
+  "published": "2026-10-01T10:53:04+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Business Recorder",
+  "lang": "en",
+  "title": "Japan bond yields rise as US Treasury selloff persists, BOJ outlook in focus",
+  "summary": "TOKYO: Japanese government bond yields rose on Thursday, tracking higher US Treasury yields overnight, as investors remained concerned about inflation risks and the future pace of central bank rate hikes. Here are a few details: The benchmark 10-year JGB yield rose 5 basis points (bps) to 3.11%. Yields move inversely…",
+  "link": "https://www.brecorder.com/news/40442137/japan-bond-yields-rise-as-us-treasury-selloff-persists-boj-outlook-in-focus",
+  "published": "2026-10-01T10:50:44+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Dawn",
+  "lang": "en",
+  "title": "Tennessee woman in hospital after execution 'failed': lawyers",
+  "summary": "Tennessee woman Christa Pike was in a hospital Thursday after authorities “failed” to carry out her execution, her lawyers said, with witnesses reporting the convicted murderer was breathing despite the injections intended to kill her. Just hours earlier the US Supreme Court cleared the way for Pike to be the first…",
+  "link": "https://www.dawn.com/news/2033944/tennessee-woman-in-hospital-after-execution-failed-lawyers",
+  "published": "2026-10-01T10:49:07+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Business Recorder",
+  "lang": "en",
+  "title": "Thai baht/US dollar weaker on Thursday",
+  "summary": "BANGKOK: The Thai baht weakened against the US dollar on Thursday. At 0220 GMT, the baht was 0.16% lower at 33.63 versus the dollar, after trading in a range of 33.600 to 33.710. It ended the previous session at 33.57 per dollar, as per LSEG data.",
+  "link": "https://www.brecorder.com/news/40442136/thai-bahtus-dollar-weaker-on-thursday",
+  "published": "2026-10-01T10:48:14+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Business Recorder",
+  "lang": "en",
+  "title": "Soybeans rise ahead of USDA monthly report",
+  "summary": "JAKARTA: Chicago soybean futures rose on Thursday ahead of a monthly US Department of Agriculture report, amid analysts’ expectations that August crushing probably fell. Wheat and corn futures rose after booking monthly losses on Wednesday.",
+  "link": "https://www.brecorder.com/news/40442135/soybeans-rise-ahead-of-usda-monthly-report",
+  "published": "2026-10-01T10:46:47+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Business Recorder",
+  "lang": "en",
+  "title": "PM Shehbaz urges exporters to deliver",
+  "summary": "Prime Minister Shehbaz Sharif on Thursday said that the government remains committed to achieving export-led, sustainable economic growth following the stabilisation of the economy. In a virtual address at the Pakistan Stock Exchange (PSX) in Karachi, the prime minister criticised some export-oriented industries for…",
+  "link": "https://www.brecorder.com/news/40442133/pm-shehbaz-urges-exporters-to-deliver",
+  "published": "2026-10-01T10:46:25+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Independent Urdu",
+  "lang": "ur",
+  "title": "’کم جونگ مجھے پسند کرتے ہیں‘: ٹرمپ کا شمالی کوریا کے جوہری پروگرام پر تبصرہ",
+  "summary": "امریکی صدر ڈونلڈ ٹرمپ نے شمالی کوریا کے رہنما کم جونگ اُن کے ساتھ اپنے مبینہ دوستانہ تعلقات کا حوالہ دیتے ہوئے پیانگ یانگ کے متنازع جوہری پروگرام کی اہمیت کو کم کرکے پیش کیا ہے۔ امریکی صدر سے پوچھا گیا کہ ایران کو جوہری ہتھیار تیار کرنے کی اجازت کیوں نہیں دی جا سکتی جبکہ شمالی کوریا کے پاس پہلے ہی جوہری ہتھیار موجود…",
+  "link": "https://www.independenturdu.com/node/188028",
+  "published": "2026-10-01T10:43:25+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Business Recorder",
+  "lang": "en",
+  "title": "Banks and miners drag Australian shares lower",
+  "summary": "Australian shares fell more than 1% on Thursday, with financials and miners leading broad-based losses across all sectors, even as softer-than-expected inflation data released a day earlier eased concerns about further near-term interest rate hikes. The S&P/ASX 200 index lost 1.3% to 8,671.60, as of 0055 GMT. The…",
+  "link": "https://www.brecorder.com/news/40442134/banks-and-miners-drag-australian-shares-lower",
+  "published": "2026-10-01T10:40:47+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Business Recorder",
+  "lang": "en",
+  "title": "Japan's Nikkei hits six-week high as Micron forecast lifts chip stocks",
+  "summary": "TOKYO: Japan’s Nikkei share average rose to a more than six-week high on Thursday, driven by gains in a handful of heavily weighted chip-related shares after robust earnings from Micron Technology fuelled optimism over AI-related investment. The Nikkei 225 Index rose 2.28% to 68,276.92, its highest since August 18.…",
+  "link": "https://www.brecorder.com/news/40442132/japans-nikkei-hits-six-week-high-as-micron-forecast-lifts-chip-stocks",
+  "published": "2026-10-01T10:37:24+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Business Recorder",
+  "lang": "en",
+  "title": "Indian share benchmarks set for longest weekly losing run in 25 years",
+  "summary": "Indian equities inched lower on Thursday as persistent foreign outflows continued to weigh on risk sentiment, with the benchmarks on course for the eighth straight weekly loss, their longest such streak in 25 years. On the day, the Nifty 50 was down 0.28% at 22,558.95, while the BSE Sensex fell 0.12% to 72,389.51, as…",
+  "link": "https://www.brecorder.com/news/40442131/indian-share-benchmarks-set-for-longest-weekly-losing-run-in-25-years",
+  "published": "2026-10-01T10:23:40+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Business Recorder",
+  "lang": "en",
+  "title": "Gold inches higher as softer US inflation dims October Fed hike bets",
+  "summary": "Gold edged higher on Thursday after a softer-than-expected US inflation report tempered expectations for a Federal Reserve rate hike this month, with markets looking to upcoming jobs data for further policy signals. Spot gold rose 0.5% to $4,175.19 per ounce by 0417 GMT, starting the month on a positive note after a…",
+  "link": "https://www.brecorder.com/news/40442130/gold-inches-higher-as-softer-us-inflation-dims-october-fed-hike-bets",
+  "published": "2026-10-01T10:19:54+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Arab News Pakistan",
+  "lang": "en",
+  "title": "Netanyahu says too early to tell who is behind foiled bid to crash Dubai-Tel Aviv flight",
+  "summary": "Israeli Prime Minister Benjamin Netanyahu stated it’s premature to identify who was responsible for the thwarted attempt to crash a flydubai flight from Dubai to Tel Aviv. Investigations are ongoing, with the pilot under scrutiny in Saudi Arabia.",
+  "link": "https://www.arabnews.pk/middle-east/netanyahu-says-too-early-to-tell-who-is-behind-foiled-bid-to-crash-dubai-tel-aviv-flight-3002848",
+  "published": "2026-10-01T10:16:57+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Business Recorder",
+  "lang": "en",
+  "title": "Oil dips as recovering Gulf exports ease supply fears, US-Iran diplomacy in focus",
+  "summary": "NEW DELHI/TOKYO: Oil prices fell 1% on Thursday as recovering crude exports from the Gulf and a surprise rise in US inventories eased supply concerns, while investors weighed renewed US-Iran diplomatic efforts to end their conflict in the Middle East . Brent crude futures fell 1.1% to $96.92 a barrel by 0420 GMT, and…",
+  "link": "https://www.brecorder.com/news/40442119/oil-dips-as-recovering-gulf-exports-ease-supply-fears-us-iran-diplomacy-in-focus",
+  "published": "2026-10-01T10:16:37+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Arab News Pakistan",
+  "lang": "en",
+  "title": "Fury and Joshua finally face off in London ahead of Cardiff showdown",
+  "summary": "LONDON: Tyson Fury and Anthony Joshua finally came face to face in London on Wednesday as the build-up began for their long-awaited heavyweight fight on Dec. 11 in Cardiff. Fans and media gathered at the British Airways ARC at Olympia for the first press conference between the two former world champions, who will meet…",
+  "link": "https://www.arabnews.pk/sport/fury-and-joshua-finally-face-off-in-london-ahead-of-cardiff-showdown-3002847",
+  "published": "2026-10-01T10:12:51+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "BBC Urdu",
+  "lang": "ur",
+  "title": "دو ڈالر کا جعلی ٹکٹ، پوسٹل سروس کو 126 ملین ڈالر سے زائد کا نقصان: خانیوال کے رہائشی کے خلاف امریکہ میں فراڈ کا مقدمہ کیوں درج ہوا؟",
+  "summary": "امریکی ریاست فلوریڈا کی جنوبی ضلعی وفاقی گرینڈ جیوری نے پاکستان کے ضلع خانیوال سے تعلق رکھنے والے ایک 33 سالہ شخص پر امریکی پوسٹل سروس (یو ایس پی ایس) کو 126 ملین ڈالر سے زائد کا نقصان پہنچانے کے الزام میں فردِ جرم عائد کر دی ہے۔",
+  "link": "https://www.bbc.com/urdu/articles/cmwyz0lg9eldo?at_medium=RSS&at_campaign=rss",
+  "published": "2026-10-01T10:09:22+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Independent Urdu",
+  "lang": "ur",
+  "title": "بنگلہ دیش کو شکست، پاکستان کرکٹ ٹیم ایشین گیمز کے فائنل میں",
+  "summary": "پاکستان نے ایشین گیمز کرکٹ ایونٹ کے پہلے سیمی فائنل میں جمعرات کو بنگلہ دیش کو چھ وکٹوں سے شکست دے کر ٹورنامنٹ کے فائنل میں جگہ بنا لی۔ بنگلہ دیش نے نِشِن، جاپان کے کورُوگی اسپورٹس پارک میں کھیلے گئے 13 اوورز میں 7 وکٹوں کے نقصان پر 111 رنز بنائے تھے۔ بارش کے باعث میچ 13 اوورز تک محدود کر دیا گیا تھا۔ A stunning…",
+  "link": "https://www.independenturdu.com/node/188026",
+  "published": "2026-10-01T10:00:44+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Business Recorder",
+  "lang": "en",
+  "title": "PSX: buying continues, KSE-100 up over 700 points",
+  "summary": "Buying continued at the Pakistan Stock Exchange (PSX), with the benchmark KSE-100 Index gaining over 700 points during the opening minutes of trading on Thursday. At 9:35am, the benchmark index was hovering at 170,675.18, up 705.86 points or 0.42%. Buying was observed in key sectors, including automobile assemblers,…",
+  "link": "https://www.brecorder.com/news/40442128/psx-buying-continues-kse-100-up-over-700-points",
+  "published": "2026-10-01T09:48:59+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Arab News Pakistan",
+  "lang": "en",
+  "title": "Pakistan says 22 \"terrorists\" killed and weapons seized in raids on Afghanistan.",
+  "summary": "Pakistan conducted airstrikes in Afghanistan, claiming to target militants, while Kabul reported civilian casualties including women and children. Discrepancies in casualty reports add to the tension between the nations.",
+  "link": "https://www.arabnews.pk/world/pakistan-says-22-terrorists-killed-and-weapons-seized-in-raids-on-afghanistan-3002846",
+  "published": "2026-10-01T09:47:28+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "The News",
+  "lang": "en",
+  "title": "Pakistan strikes terrorist hideouts in Afghanistan, 22 militants reportedly killed: info ministry",
+  "summary": "Pakistan Air Force's F-16 fighter jet performs to commemorate PAF's 'Operation Swift Retort' during an air show in Karachi, Pakistan February 27, 2020. — ReutersISLAMABAD: Multiple militants were killed as Pakistan carried out \"well-planned and calibrated\" aerial strikes on terrorist...",
+  "link": "https://www.thenews.pk/story/1440472-pakistan-strikes-terrorist-hideouts-in-afghanistan-22-reportedly-killed-info-ministry",
+  "published": "2026-10-01T09:36:00+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Dawn",
+  "lang": "en",
+  "title": "Fixing bond markets",
+  "summary": "THE plan to deepen the domestic local currency bond market by allowing the public to trade government securities through the stock market should help address a weakness long concealed by the sovereign’s easy access to bank borrowings. Pakistan’s large government securities market lacks the depth and diversification…",
+  "link": "https://www.dawn.com/news/2033918/fixing-bond-markets",
+  "published": "2026-10-01T09:30:15+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Arab News Pakistan",
+  "lang": "en",
+  "title": "Pakistan says strikes killed 22 militants in Afghanistan, Kabul reports civilian deaths",
+  "summary": "ISLAMABAD: Pakistan said Thursday its airstrikes destroyed militant hideouts in Afghanistan and initial reports indicated 22 militants were killed, while Kabul said nine people, including women and children, had perished in strikes on houses. The strikes follow Pakistani aerial attacks in Afghanistan last week that…",
+  "link": "https://www.arabnews.pk/pakistan/pakistan-says-strikes-killed-22-militants-in-afghanistan-kabul-reports-civilian-deaths-3002845",
+  "published": "2026-10-01T09:25:05+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Al Jazeera",
+  "lang": "en",
+  "title": "Pakistan says 22 fighters killed in air attacks on Afghanistan",
+  "summary": "Kabul says the strikes on Kunar and Helmand provinces killed nine women and children.",
+  "link": "https://www.aljazeera.com/news/2026/10/1/afghanistan-says-nine-killed-in-pakistani-air-raids-on-kunar-helmand?traffic_source=rss",
+  "published": "2026-10-01T09:16:19+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Dawn",
+  "lang": "en",
+  "title": "Pakistan crush India 3-0 to storm into Asian Games volleyball semi-finals",
+  "summary": "Pakistan produced a commanding performance to beat arch-rivals India 3-0 and march into the semi-finals of the Asian Games men’s volleyball quarter-final at the Okazaki Chuo Sogo Park Gymnasium on Thursday. Pakistan won 25-19, 25-23, 25-18, beating India at the Asian Games for the second straight edition and ending…",
+  "link": "https://www.dawn.com/news/2033936/pakistan-crush-india-3-0-to-storm-into-asian-games-volleyball-semi-finals",
+  "published": "2026-10-01T09:07:31+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Arab News Pakistan",
+  "lang": "en",
+  "title": "Pakistan inflation to stay elevated amid Middle East oil shock — finance ministry",
+  "summary": "KARACHI: Pakistan’s finance ministry has warned in its September economic outlook, released Wednesday, that inflation would remain elevated amid the Middle East oil shock, with higher energy costs threatening recovery and squeezing household purchasing power. The ministry projected inflation at 10–11 percent for…",
+  "link": "https://www.arabnews.pk/pakistan/pakistan-inflation-to-stay-elevated-amid-middle-east-oil-shock-finance-ministry-3002843",
+  "published": "2026-10-01T09:02:01+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Dawn",
+  "lang": "en",
+  "title": "Pakistan reach Asian Games cricket final after six-wicket win over Bangladesh",
+  "summary": "Abdul Samad’s blistering unbeaten 30 off 15 balls powered Pakistan into the Asian Games men’s cricket final as they beat Bangladesh by six wickets in a rain-reduced semi-final at Korogi Sports Park in Nisshin, Japan on Thursday. Chasing 112 in 13 overs, Pakistan recovered from 53-4 to reach 112-4 in 11.3 overs, with…",
+  "link": "https://www.dawn.com/news/2033925/pakistan-reach-asian-games-cricket-final-after-six-wicket-win-over-bangladesh",
+  "published": "2026-10-01T08:56:30+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Arab News Pakistan",
+  "lang": "en",
+  "title": "Pakistan’s fuel relief scheme amid US-Iran war leaves some motorists struggling to register",
+  "summary": "ISLAMABAD: Samuel Masih arrived at a petrol station in Pakistan’s capital expecting cheaper fuel under a government relief scheme. Instead, a vehicle already registered against his national identity card prevented him from signing up. His experience illustrates a hurdle facing some applicants as Pakistan tries to…",
+  "link": "https://www.arabnews.pk/pakistan/pakistans-fuel-relief-scheme-amid-us-iran-war-leaves-some-motorists-struggling-to-register-3002842",
+  "published": "2026-10-01T08:54:48+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Arab News Pakistan",
+  "lang": "en",
+  "title": "UNICEF chief: 6.9 million Syrian children urgently need humanitarian assistance",
+  "summary": "DAMASCUS: UNICEF Executive Director Catherine Russell said Wednesday that 6.9 million Syrian children are in urgent need of humanitarian assistance, as the UN agency works with the Syrian government and local partners to rebuild child-support systems and restore essential services across the country. In an exclusive…",
+  "link": "https://www.arabnews.pk/middle-east/unicef-chief-69-million-syrian-children-urgently-need-humanitarian-assistance-3002841",
+  "published": "2026-10-01T08:50:46+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "BBC Urdu",
+  "lang": "ur",
+  "title": "406 رنز کا ہدف، پانچ سنچریوں کا ریکارڈ اور شبمن گل کی ویسٹ انڈیز کے خلاف 223 رنز کی اننگز: ’یہ ون ڈے میچ ہے یا بیٹنگ پریکٹس‘",
+  "summary": "شبمن گل کی شاندار ناقابلِ شکست 223 رنز کی اننگز کی بدولت انڈیا نے ویسٹ انڈیز کے 406 رنز کے ہدف کو صرف 43.3 اوورز میں دو وکٹوں کے نقصان پر حاصل کر کے دوسرے ایک روزہ میچ میں آٹھ وکٹوں سے فتح اپنے نام کر لی۔",
+  "link": "https://www.bbc.com/urdu/articles/cq33k37vykzxo?at_medium=RSS&at_campaign=rss",
+  "published": "2026-10-01T08:47:41+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Independent Urdu",
+  "lang": "ur",
+  "title": "افغانستان میں فضائی حملوں میں 22 عسکریت پسند مارے گئے: پاکستان",
+  "summary": "پاکستانی نے جمعرات کو کہا ہے کہ اس کی سکیورٹی فورسز نے افغانستان میں دو مقامات پر عسکریت پسندوں کے ٹھکانوں پر فضائی حملے کیے، جن کے نتیجے میں 22 عسکریت پسند مارے گئے جبکہ افغان حکام نے دعویٰ کیا ہے کہ پاکستانی حملوں میں نو شہری جان سے گئے۔ یہ حملے دونوں ممالک کے درمیان سرحد پار بار بار ہونے والی جھڑپوں کے دوران کیے…",
+  "link": "https://www.independenturdu.com/node/188025",
+  "published": "2026-10-01T08:46:53+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Arab News Pakistan",
+  "lang": "en",
+  "title": "Pakistan tax authority says filings rise 45 percent, but payments accompanying returns fall",
+  "summary": "ISLAMABAD: Pakistan recorded nearly 45 percent more income tax returns by Sept. 30 than a year earlier, driven largely by non-salaried individuals, but payments accompanying filings fell seven percent, the tax authority said on Thursday. The figures highlight the challenge facing Pakistan’s revenue reforms: bringing…",
+  "link": "https://www.arabnews.pk/pakistan/pakistan-tax-authority-says-filings-rise-45-percent-but-payments-accompanying-returns-fall-3002840",
+  "published": "2026-10-01T08:32:58+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Business Recorder",
+  "lang": "en",
+  "title": "New Zealand Parliament dissolved ahead of tight November vote",
+  "summary": "New Zealand’s Parliament was dissolved on Thursday, marking the official start of campaigning for ​next month’s national election, which is shaping ‌up to be a tight contest between the ruling centre-right coalition and a Labour-led left bloc. Parliament held ​its final sitting on September 23 ahead of ​the November 7…",
+  "link": "https://www.brecorder.com/news/40442127/new-zealand-parliament-dissolved-ahead-of-tight-november-vote",
+  "published": "2026-10-01T08:31:51+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Dawn",
+  "lang": "en",
+  "title": "Asian Development Bank backs ML-1 modernisation",
+  "summary": "ISLAMABAD: After extensive consultations with the government, the Asian Development Bank (ADB) is finalising a $1.1 billion investment programme to improve the efficiency, safety and sustainability of railway transport along Pakistan Railways’ Main Line-1 between Karachi and Rohri by 2040. A fact-finding mission of…",
+  "link": "https://www.dawn.com/news/2033863/asian-development-bank-backs-ml-1-modernisation",
+  "published": "2026-10-01T08:31:09+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Arab News Pakistan",
+  "lang": "en",
+  "title": "Pakistan expands AI tax checks to detect evasion and boost revenues",
+  "summary": "ISLAMABAD: Pakistan’s tax authority is preparing to expand artificial intelligence checks on tax returns to identify undeclared income and assets, a senior official said this week, part of a push to increase revenues under an IMF-backed economic reform program. Pakistan has struggled to bring more economic activity…",
+  "link": "https://www.arabnews.pk/pakistan/pakistan-expands-ai-tax-checks-to-detect-evasion-and-boost-revenues-3002839",
+  "published": "2026-10-01T08:28:19+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Dawn",
+  "lang": "en",
+  "title": "PTI rules out delaying Oct 4 march",
+  "summary": "Former National Assembly Speaker Asad Qaiser briefs the media at the residence of MNA Fazal Mohammad Khan.—Dawn • Former NA speaker Asad Qaiser says party will proceed as planned • Emergency or governor’s rule could benefit ‘non-democratic powers’, warns Barrister Gohar CHARSADDA: The PTI leadership on Wednesday…",
+  "link": "https://www.dawn.com/news/2033883/pti-rules-out-delaying-oct-4-march",
+  "published": "2026-10-01T08:27:22+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Business Recorder",
+  "lang": "en",
+  "title": "Netanyahu says Israel will get to the 'root' of co-pilot in foiled bid to crash flydubai flight",
+  "summary": "WASHINGTON: Israeli Prime Minister Benjamin Netanyahu said on Wednesday Israel will get to the “root” of the ​co-pilot who engaged in a foiled attempt to crash an Israel-bound ‌flydubai flight and that Israel will “possibly” be participating in the probe into the incident. “We’ll get to the root of this attacker,…",
+  "link": "https://www.brecorder.com/news/40442126/netanyahu-says-israel-will-get-to-the-root-of-co-pilot-in-foiled-bid-to-crash-flydubai-flight",
+  "published": "2026-10-01T08:24:54+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Business Recorder",
+  "lang": "en",
+  "title": "Huawei unveils Mate 90 phones, leans on homegrown chip design to offset US curbs",
+  "summary": "BEIJING: Huawei Technologies unveiled its Mate 90 smartphone series on Thursday, betting on its in-house ​operating system and redesigned chip architecture to boost its performance in the face of US curbs on shipments of advanced semiconductors. Speaking to ‌reporters on Tuesday ahead of the launch, Huawei consumer…",
+  "link": "https://www.brecorder.com/news/40442125/huawei-unveils-mate-90-phones-leans-on-homegrown-chip-design-to-offset-us-curbs",
+  "published": "2026-10-01T08:19:05+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Geo News",
+  "lang": "en",
   "title": "Govt defends purchase of 45 bulletproof vehicles for 2027 SCO summit",
   "summary": "A technician walks near cars to be fitted with armor plating and bulletproof windows at a garage in Mexico City on December 15, 2010. — Reuters Govt says 300 other non-bulletproof vehicles will be hired for summit.Describes summit as one of...",
   "link": "https://www.geo.tv/latest/684477-govt-defends-purchase-of-45-bulletproof-vehicles-for-2027-sco-summit",
   "published": "2026-10-01T08:17:01+05:00",
   "collected": "2026-10-01T04:53+05:00"
+ },
+ {
+  "source": "Independent Urdu",
+  "lang": "ur",
+  "title": "جنگ ختم کرنے کی تجویز پر امریکہ کا باضابطہ جواب مل گیا: ایران",
+  "summary": "ایرانی حکام نے بدھ کو اشارہ دیا ہے کہ انہیں سات ماہ سے جاری جنگ کے خاتمے کے لیے تہران کی اُس حالیہ تجویز پر امریکہ کا باضابطہ جواب موصول ہو گیا ہے، جسے امریکی صدر ڈونلڈ ٹرمپ نے محض چند دن قبل اعلانیہ طور پر مسترد کر دیا تھا۔ حکام نے یہ نہیں بتایا کہ اس جواب میں کیا ہے اور آیا ایرانی تجویز کو مسترد کیا گیا یا نہیں؟…",
+  "link": "https://www.independenturdu.com/node/188024",
+  "published": "2026-10-01T08:15:56+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Business Recorder",
+  "lang": "en",
+  "title": "Indian rupee to weaken as oil, US yields weigh; fading Fed hike bets offer no relief",
+  "summary": "MUMBAI: The Indian rupee is poised to drop on Thursday , with higher oil prices and US Treasury yields piling pressure on the ​currency while fading October Federal Reserve rate hike bets offer little ‌relief. The Indian rupee is expected to open in the 95.96 to 95.98 range, per traders, having settled at 95.83 to the…",
+  "link": "https://www.brecorder.com/news/40442122/indian-rupee-to-weaken-as-oil-us-yields-weigh-fading-fed-hike-bets-offer-no-relief",
+  "published": "2026-10-01T08:11:17+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "BBC Urdu",
+  "lang": "ur",
+  "title": "وہ مسافر جس نے فلائی دبئی پرواز کو ’گرانے کی کوشش کرنے والے پائلٹ‘ پر قابو پایا: ’میں نے اسے گردن سے دبوچا اور باہر کھینچ لیا‘",
+  "summary": "گذشتہ روز دبئی سے اسرائیل جانے والی فلائی دبئی کی پرواز کے مسافروں نے بتایا کہ کس طرح انھوں نے ایک پائلٹ پر قابو پایا جن کے بارے میں اسرائیلی وزیراعظم نے دعویٰ کیا ہے کہ وہ بظاہر اس طیارے کو گرانا چاہتے تھے۔",
+  "link": "https://www.bbc.com/urdu/articles/cxq636gqnrgeo?at_medium=RSS&at_campaign=rss",
+  "published": "2026-10-01T08:10:50+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Dawn",
+  "lang": "en",
+  "title": "Lahore ranked among cities with ‘extremely poor’ ozone levels",
+  "summary": "PARIS: Highlighting the close relationship between climate change and air pollution, a new analysis by the EU’s Copernicus Climate Atmosphere Monitoring Service (CAMS) has ranked Lahore among cities whose ozone levels are “extremely poor”. Heatwaves and wildfires combined with human-caused emissions this year to…",
+  "link": "https://www.dawn.com/news/2033869/lahore-ranked-among-cities-with-extremely-poor-ozone-levels",
+  "published": "2026-10-01T08:08:58+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Business Recorder",
+  "lang": "en",
+  "title": "Asian stocks dip, bonds in focus after torrid September",
+  "summary": "SINGAPORE: Asian stocks were subdued on Thursday and global bonds remained under pressure after a brutal September as investors weighed a slower-than-expected rise in US inflation ​in August that lessens the probability of a rate hike later this month. Blockbuster earnings from AI chipmaker Micron failed to lift ‌the…",
+  "link": "https://www.brecorder.com/news/40442121/asian-stocks-dip-bonds-in-focus-after-torrid-september",
+  "published": "2026-10-01T08:08:24+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Business Recorder",
+  "lang": "en",
+  "title": "Dollar gets lift from higher yields",
+  "summary": "SINGAPORE: The dollar held near a two-month high on Thursday , supported by ​an extended rise in US Treasury yields partly driven by concerns over persistent global price pressures ‌stemming from the Middle East war. Data showing US inflation rose less than expected in August, along with downward revisions to July’s…",
+  "link": "https://www.brecorder.com/news/40442120/dollar-gets-lift-from-higher-yields",
+  "published": "2026-10-01T08:00:31+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Independent Urdu",
+  "lang": "ur",
+  "title": "اچھا رشتہ چاہیے تو پڑھو",
+  "summary": "کچھ سال پہلے تک خاندان کے بڑے اپنے جاننے والوں سے کہتے تھے کہ وہ ان کے بچوں کے لیے اچھے رشتے نظر میں رکھیں۔ ساتھ ہی ساتھ اپنے علاقے میں موجود رشتہ کروانے والوں یا میرج بیوروز سے بھی رابطہ کرتے تھے اور اپنے بچوں کے لیے مناسب رشتے ڈھونڈنے کا کہتے تھے۔ اب رشتہ کروانے والے تقریباً غائب ہو چکے ہیں۔ میرج بیوروز اپنا اعتماد…",
+  "link": "https://www.independenturdu.com/node/188013",
+  "published": "2026-10-01T08:00:11+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Dawn",
+  "lang": "en",
+  "title": "Iran gets US response as Washington pulls out of Iraq",
+  "summary": "• Tehran says it looks forward to restoring Islamabad MoU • Official says both sides largely agree on required steps but still disagree about the order in which to take them • US withdrawal from Iraq hailed as historic win • Trump says ‘time to go home’ after ‘victory’ BAGHDAD: The Iranian government claimed to have…",
+  "link": "https://www.dawn.com/news/2033884/iran-gets-us-response-as-washington-pulls-out-of-iraq",
+  "published": "2026-10-01T07:56:25+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Arab News Pakistan",
+  "lang": "en",
+  "title": "In Saudi skies, moon-Pleiades alignment marks onset of cooler Al-Wasm season",
+  "summary": "ARAR: A conjunction of the moon and the Pleiades star cluster could be seen in Saudi skies on Wednesday, an astronomical event traditionally associated with what is known locally as Qiran 19 and the start of the cooler Al-Wasm season. According to Saudi Press Agency reports, the alignment has long served as a seasonal…",
+  "link": "https://www.arabnews.pk/saudi-arabia/in-saudi-skies-moon-pleiades-alignment-marks-onset-of-cooler-al-wasm-season-3002838",
+  "published": "2026-10-01T07:55:34+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Dawn",
+  "lang": "en",
+  "title": "IHC asks govt to settle Afghan students’ stay issue in 30 days",
+  "summary": "ISLAMABAD: The Islamabad High Court (IHC) on Wednesday disposed of a writ petition filed by 87 Afghan national students seeking extension of their study visas, converting the case into a representation to be decided by the Ministry of Interior within 30 days regarding their stay in Pakistan. The order was passed by…",
+  "link": "https://www.dawn.com/news/2033885/ihc-asks-govt-to-settle-afghan-students-stay-issue-in-30-days",
+  "published": "2026-10-01T07:45:44+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Dawn",
+  "lang": "en",
+  "title": "PM to gather allies as tensions with PTI mount",
+  "summary": "• Shehbaz to meet PPP leaders to discuss KP issues, protest threat • Sherry, Qamar meet PML-N leaders • Tariq Fazal says ‘emergency’ in KP under consideration due to ‘terrorism’ • Nayyar Bokhari urges talks, says Constitution provides remedies if govt fails to fulfil responsibilities ISLAMABAD: As political challenges…",
+  "link": "https://www.dawn.com/news/2033889/pm-to-gather-allies-as-tensions-with-pti-mount",
+  "published": "2026-10-01T07:22:52+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Arab News Pakistan",
+  "lang": "en",
+  "title": "Heart transplant gives Riyadh law student a new lease on life",
+  "summary": "RIYADH: Durrah had no symptoms when doctors discovered that she carried a genetic mutation that was weakening her heart muscle. A year after undergoing a heart transplant at King Faisal Specialist Hospital and Research Center (KFSH) in Riyadh, the woman in her twenties has returned to law school and painting, often…",
+  "link": "https://www.arabnews.pk/saudi-arabia/heart-transplant-gives-riyadh-law-student-a-new-lease-on-life-3002837",
+  "published": "2026-10-01T07:08:02+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Dawn",
+  "lang": "en",
+  "title": "Misunderstanding Pakistan",
+  "summary": "THE foundational basis of Pakistan and the objectives behind the country’s creation remain a subject of debate. One side emphasises religion above all else and argues that the basis for creating Pakistan was Islam itself. On the other hand, some commentators contend that Pakistan was created for the residents of…",
+  "link": "https://www.dawn.com/news/2033922/misunderstanding-pakistan",
+  "published": "2026-10-01T07:06:27+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "The News",
+  "lang": "en",
+  "title": "Karachi Red Line BRT bridge collapse kills man",
+  "summary": "A person is seen inside an ambulance. — Geo News/ScreengrabKARACHI: A duty guard was killed after an under-construction bridge collapsed near Baitul Mukarram Mosque in Gulshan-e-Iqbal on Thursday, prompting a rescue operation at the site on Thursday.According to Rescue 1122, the victim...",
+  "link": "https://www.thenews.pk/story/1440470-karachi-red-line-brt-bridge-collapse-kills-man",
+  "published": "2026-10-01T07:05:13+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Dawn",
+  "lang": "en",
+  "title": "Revenue surge, subsidy plans sit well with IMF",
+  "summary": "• Country exceeds first-quarter revenue target despite economic pressures • Plan to replace power subsidies with targeted BISP support reviewed ISLAMABAD: Robust revenue collection and preparedness to shift electricity subsidies entirely to the Benazir Income Sup­port Programme (BISP) mechanism have placed Pakistan on…",
+  "link": "https://www.dawn.com/news/2033886/revenue-surge-subsidy-plans-sit-well-with-imf",
+  "published": "2026-10-01T07:01:57+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Dawn",
+  "lang": "en",
+  "title": "Govt working to repatriate sailors after tanker recovered",
+  "summary": "• FO confirms death of three Pakistani nationals; three others injured by pirates receiving treatment in Puntland • Families question rescue operation, seek return of the dead and injured • Rights groups blame ‘communication gap’ as Islamabad does not recognise Puntland KARACHI / ISLAMABAD: The Foreign Office on…",
+  "link": "https://www.dawn.com/news/2033888/govt-working-to-repatriate-sailors-after-tanker-recovered",
+  "published": "2026-10-01T07:01:57+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Dawn",
+  "lang": "en",
+  "title": "Refinery upgradation plans",
+  "summary": "AFTER a full year of criticism that while it had stabilised the economy it had offered no vision for reform, the government is finally moving. A string of recent announcements makes the reform path clearer. Refineries are being asked to upgrade their operations in return for concessions granted in the Brownfield…",
+  "link": "https://www.dawn.com/news/2033921/refinery-upgradation-plans",
+  "published": "2026-10-01T07:01:43+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Business Recorder",
+  "lang": "en",
+  "title": "Pakistan, China entering new phase of CPEC: PM",
+  "summary": "ISLAMABAD: Prime Minister Shehbaz Sharif said on Wednesday that Pakistan and China are entering a new phase of the China-Pakistan Economic Corridor (CPEC), shifting the focus to industrialisation, special economic zones, IT and artificial intelligence, agriculture, and mining and minerals. Speaking at a function in…",
+  "link": "https://www.brecorder.com/news/40442085/pakistan-china-entering-new-phase-of-cpec-pm",
+  "published": "2026-10-01T06:59:23+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Business Recorder",
+  "lang": "en",
+  "title": "Talat Mehmood elected KCCI President",
+  "summary": "KARACHI: Talat Mehmood, Aslam Pakhali and Atif Jameel-ur-Rehman have been elected as President, Senior Vice President and Vice President of Karachi Chairman of Commerce and Industry for the year 2026-28 respectively. The 65th Annual General Meeting KCCI elected the new office bearers chairman Businessmen Group (BMG)…",
+  "link": "https://www.brecorder.com/news/40442086/talat-mehmood-elected-kcci-president",
+  "published": "2026-10-01T06:57:20+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Business Recorder",
+  "lang": "en",
+  "title": "India opposition parties call for protests over ‘vote theft’",
+  "summary": "NEW DELHI: India’s opposition parties announced on Wednesday planned protests to “save democracy”, escalating their campaign against the election commission after a newspaper investigation suggested impropriety in a large-scale voter roll revision. Politicians have accused the head of Election Commission of India —…",
+  "link": "https://www.brecorder.com/news/40442087/india-opposition-parties-call-for-protests-over-vote-theft",
+  "published": "2026-10-01T06:52:31+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Business Recorder",
+  "lang": "en",
+  "title": "Every employment-related dispute: HC’s jurisdiction under Article 199 not available: FCC",
+  "summary": "ISLAMABAD: The Federal Constitutional Court (FCC) on Wednesday ruled that a high court’s constitutional jurisdiction under Article 199 of the Constitution is not available for every employment-related dispute. A two-judge bench comprising Justice Aamer Farooq and Justice Ali Baqar Najafi heard the appeal filed by the…",
+  "link": "https://www.brecorder.com/news/40442088/every-employment-related-dispute-hcs-jurisdiction-under-article-199-not-available-fcc",
+  "published": "2026-10-01T06:50:37+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Business Recorder",
+  "lang": "en",
+  "title": "APTMA calls for a competitive business environment",
+  "summary": "LAHORE: The All Pakistan Textile Mills Association (APTMA) has called on the government to restore a regionally competitive business environment, particularly in energy tariffs, taxation and operating costs, warning that textile exports cannot grow unless these constraints are addressed. Speaking at APTMA’s 67th…",
+  "link": "https://www.brecorder.com/news/40442089/aptma-calls-for-a-competitive-business-environment",
+  "published": "2026-10-01T06:49:50+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Business Recorder",
+  "lang": "en",
+  "title": "FBR busts Rs9.41bn wealth statement fraud",
+  "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) has busted a fraud in which taxpayers illegally revised their old wealth statements to bring unexplained assets worth Rs 9.41 billion into their declared wealth. A criminal case under the Anti-Money Laundering Act, 2010 has been registered, and further cases are being…",
+  "link": "https://www.brecorder.com/news/40442090/fbr-busts-rs941bn-wealth-statement-fraud",
+  "published": "2026-10-01T06:45:40+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Business Recorder",
+  "lang": "en",
+  "title": "Govt considers allowing private firms to directly import LNG: report",
+  "summary": "KARACHI: Pakistan is considering allowing power plants and other private companies to directly import liquefied natural gas (LNG) as it seeks to shore up energy supplies without adding to the strain on state finances, a person familiar with the matter said on Wednesday. According to a Bloomberg report, two of the…",
+  "link": "https://www.brecorder.com/news/40442091/govt-considers-allowing-private-firms-to-directly-import-lng-report",
+  "published": "2026-10-01T06:43:51+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Business Recorder",
+  "lang": "en",
+  "title": "LPG price hiked by Rs20.68",
+  "summary": "ISLAMABAD: Gas consumers will face higher household fuel costs in October as the Oil and Gas Regulatory Authority (OGRA) has announced big increase in Liquefied Petroleum Gas (LPG) prices. The regulatory has issued a notification, raising the price of LPG per kilogram and the standard domestic and commercial cylinder.…",
+  "link": "https://www.brecorder.com/news/40442092/lpg-price-hiked-by-rs2068",
+  "published": "2026-10-01T06:41:32+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Business Recorder",
+  "lang": "en",
+  "title": "Income tax returns surge 45pc YoY to 5.77m by Sept 30",
+  "summary": "ISLAMABAD: The number of income tax returns filed surged nearly 45 percent year-on-year to 5.77 million by September 30, with traders, professionals and other non-salaried individuals accounting for around four-fifths of the increase, official data revealed Wednesday. According to Federal Board of Revenue (FBR) data,…",
+  "link": "https://www.brecorder.com/news/40442093/income-tax-returns-surge-45pc-yoy-to-577m-by-sept-30",
+  "published": "2026-10-01T06:40:34+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Arab News Pakistan",
+  "lang": "en",
+  "title": "California roller coaster shut after brain damage claims",
+  "summary": "LOS ANGELES: A popular California roller coaster is being permanently shut down after dozens of people claimed to have suffered brain damage while riding it. The X2 at Six Flags Magic Mountain features precipitous drops and jarring twists that have thrilled millions of riders over two decades, with seats that swivel…",
+  "link": "https://www.arabnews.pk/world/california-roller-coaster-shut-after-brain-damage-claims-3002835",
+  "published": "2026-10-01T06:15:31+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Independent Urdu",
+  "lang": "ur",
+  "title": "غزہ کے ’امن‘ کے ایک سال میں کچھ نہیں بدلا",
+  "summary": "ایک سال قبل امریکی صدر ڈونلڈ ٹرمپ نے غزہ کے لیے اپنا 20 نکاتی منصوبہ پیش کیا تھا۔ اس منصوبے کے تحت انہوں نے ’بورڈ آف پیس‘ (امن کا بورڈ) کے اپنے تصور کو فروغ دیا، جو جنوری میں حقیقت کا روپ دھار گیا۔ تاہم گذشتہ ہفتے نیویارک میں اقوام متحدہ کی جنرل اسمبلی کے موقع پر 2.45 ارب ڈالر کے نئے اور بڑے منصوبوں کا بڑے دھوم دھام…",
+  "link": "https://www.independenturdu.com/node/187995",
+  "published": "2026-10-01T06:00:20+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Arab News Pakistan",
+  "lang": "en",
+  "title": "Nearly 1,000 children were abused at three Massachusetts dioceses, state probe finds",
+  "summary": "BOSTON: More than 270 Catholic clerics sexually ​abused nearly 1,000 children across three Massachusetts dioceses over decades, according to an investigative report the state’s attorney general released on Wednesday. The report provided what Massachusetts Attorney General Andrea Joy Campbell called the first full…",
+  "link": "https://www.arabnews.pk/world/nearly-1000-children-were-abused-at-three-massachusetts-dioceses-state-probe-finds-3002834",
+  "published": "2026-10-01T05:52:52+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Express Tribune",
+  "lang": "en",
+  "title": "Bashir blasts into Asian Games final",
+  "summary": "Olympian shooter Ghulam Mustafa Bashir fires 578-19x to finish sixth and secure a place in the eight-man final",
+  "link": "https://tribune.com.pk/story/2632393/bashir-blasts-into-asian-games-final",
+  "published": "2026-10-01T05:39:49+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Arab News Pakistan",
+  "lang": "en",
+  "title": "US government’s new AI chatbot pulls back from debunking Trump",
+  "summary": "WASHINGTON, United States: US President Donald Trump unveiled what he called a “damn good” AI chatbot, but it quickly drew attention for contradicting some of his contentious political claims. A day later, however, it stopped answering some political questions. “Hello, America. Whatever you need from government, start…",
+  "link": "https://www.arabnews.pk/world/us-governments-new-ai-chatbot-pulls-back-from-debunking-trump-3002833",
+  "published": "2026-10-01T05:25:42+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Express Tribune",
+  "lang": "en",
+  "title": "Marsh hails improvements after Australia win final one-day international",
+  "summary": "Carey’s 74 helps Australia beat South Africa by 45 runs after posting 322-9",
+  "link": "https://tribune.com.pk/story/2632390/marsh-hails-improvements-after-australia-win-final-one-day-international",
+  "published": "2026-10-01T05:13:57+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Express Tribune",
+  "lang": "en",
+  "title": "Oil dips as recovering Gulf exports ease supply fears, US-Iran diplomacy in focus",
+  "summary": "Brent crude futures fall 1.1% to $96.92 a barrel",
+  "link": "https://tribune.com.pk/story/2632389/oil-dips-as-recovering-gulf-exports-ease-supply-fears-us-iran-diplomacy-in-focus",
+  "published": "2026-10-01T05:07:14+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Arab News Pakistan",
+  "lang": "en",
+  "title": "US can deport the leader of Wisconsin’s largest mosque on national security grounds, judge rules",
+  "summary": "CHICAGO: The US can deport the leader of Wisconsin’s largest mosque — an outspoken advocate of Palestinian rights — on the grounds that he is a threat to national security, an immigration judge ruled Wednesday. Salah Sarsour was detained in Milwaukee in March by US Immigration and Customs Enforcement officers. A…",
+  "link": "https://www.arabnews.pk/world/us-can-deport-the-leader-of-wisconsins-largest-mosque-on-national-security-grounds-judge-rules-3002832",
+  "published": "2026-10-01T05:04:38+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Express Tribune",
+  "lang": "en",
+  "title": "PSL 12 likely to start on March 19, 2027",
+  "summary": "PCB settles on dates for next season as the marquee event once again overlaps with the IPL",
+  "link": "https://tribune.com.pk/story/2632388/psl-12-likely-to-start-on-march-19-2027",
+  "published": "2026-10-01T04:59:28+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Express Tribune",
+  "lang": "en",
+  "title": "Samad’s stunning knock sends Pakistan into Asian Games final",
+  "summary": "Samad’s blistering 30 off 15 balls, backed by Hasan Nawaz, powers Green-shirts to a six-wicket win over Bangladesh",
+  "link": "https://tribune.com.pk/story/2632387/samads-stunning-knock-sends-pakistan-into-asian-games-final",
+  "published": "2026-10-01T04:53:45+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Express Tribune",
+  "lang": "en",
+  "title": "Pakistan demolish India to storm into volleyball semis",
+  "summary": "Murad Khan plays a key role in Green-shirts' inspiring triumph",
+  "link": "https://tribune.com.pk/story/2632386/pakistan-demolish-india-to-storm-into-volleyball-semis",
+  "published": "2026-10-01T04:50:06+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Express Tribune",
+  "lang": "en",
+  "title": "Pakistan carried out ‘well-planned, calibrated’ air strikes on terrorist hideouts in Afghanistan: info ministry",
+  "summary": "Ministry says targets were destroyed with precision and initial reports suggest the killing of 22 terrorists",
+  "link": "https://tribune.com.pk/story/2632385/pakistan-carried-out-well-planned-calibrated-air-strikes-on-terrorist-hideouts-in-afghanistan",
+  "published": "2026-10-01T04:48:05+05:00",
+  "collected": "2026-10-01T11:00+05:00"
  },
  {
   "source": "Arab News Pakistan",
@@ -54,6 +792,33 @@
   "collected": "2026-10-01T04:53+05:00"
  },
  {
+  "source": "Express Tribune",
+  "lang": "en",
+  "title": "Doctors escalate strike after LRH assault",
+  "summary": "Incident prompts boycott amid salary standoff",
+  "link": "https://tribune.com.pk/story/2632383/doctors-escalate-strike-after-lrh-assault",
+  "published": "2026-10-01T03:28:55+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Express Tribune",
+  "lang": "en",
+  "title": "Inflation pushes Peshawar families into debt",
+  "summary": "Overall prices of essential goods and services have risen by 35 to 40 per cent",
+  "link": "https://tribune.com.pk/story/2632384/inflation-pushes-peshawar-families-into-debt",
+  "published": "2026-10-01T03:28:55+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Express Tribune",
+  "lang": "en",
+  "title": "Hayatabad Toll Plaza underpass inaugurated",
+  "summary": "Rs1.6b project completed in 90 days to ease congestion",
+  "link": "https://tribune.com.pk/story/2632382/hayatabad-toll-plaza-underpass-inaugurated",
+  "published": "2026-10-01T03:28:55+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
   "source": "Geo News",
   "lang": "en",
   "title": "Govt, PTI trade barbs over Oct 4 long march as emergency risk looms",
@@ -70,6 +835,15 @@
   "link": "https://www.thenews.pk/story/1440420-govt-rejects-criticism-over-45-bulletproof-vehicles-cites-sco-summit-security",
   "published": "2026-10-01T03:15:57+05:00",
   "collected": "2026-10-01T04:53+05:00"
+ },
+ {
+  "source": "Express Tribune",
+  "lang": "en",
+  "title": "Lahore skies set for 10-day Basant",
+  "summary": "Punjab CM approves rescheduling of festival",
+  "link": "https://tribune.com.pk/story/2632377/lahore-skies-set-for-10-day-basant",
+  "published": "2026-10-01T03:12:27+05:00",
+  "collected": "2026-10-01T11:00+05:00"
  },
  {
   "source": "Arab News Pakistan",
@@ -90,6 +864,33 @@
   "collected": "2026-10-01T04:53+05:00"
  },
  {
+  "source": "Express Tribune",
+  "lang": "en",
+  "title": "KU left in limbo as VC heads abroad",
+  "summary": "46k-student varsity gets yet another temporary head as permanent appointment remains stuck",
+  "link": "https://tribune.com.pk/story/2632368/ku-left-in-limbo-as-vc-heads-abroad",
+  "published": "2026-10-01T02:36:39+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Express Tribune",
+  "lang": "en",
+  "title": "Divorce, khula cases swamp family courts",
+  "summary": "Courts receive 10,103 cases, including divorce and khula, in first nine months of 2026",
+  "link": "https://tribune.com.pk/story/2632363/divorce-khula-cases-swamp-family-courts",
+  "published": "2026-10-01T02:18:54+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Express Tribune",
+  "lang": "en",
+  "title": "Mystery surrounds death of two brothers",
+  "summary": "Police seize bottles from the scene; await forensic and post-mortem reports",
+  "link": "https://tribune.com.pk/story/2632362/mystery-surrounds-death-of-two-brothers",
+  "published": "2026-10-01T02:18:54+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
   "source": "Arab News Pakistan",
   "lang": "en",
   "title": "Indian FlyDubai pilot Smit Machchhar praised for bravery after cockpit attack",
@@ -97,6 +898,15 @@
   "link": "https://www.arabnews.pk/middle-east/indian-flydubai-pilot-smit-machchhar-praised-for-bravery-after-cockpit-attack-3002825",
   "published": "2026-10-01T02:15:30+05:00",
   "collected": "2026-10-01T04:53+05:00"
+ },
+ {
+  "source": "Arab News Pakistan",
+  "lang": "en",
+  "title": "Indian Prime Minister Narendra Modi lauds FlyDubai “hero” pilot Smit Machchhar",
+  "summary": "The leaders of Israel and India hailed Indian pilot Smit Machchhar as a hero for saving passengers after he was stabbed by his colleague in an alleged attempt to crash a flydubai plane on Wednesday. Israeli Prime Minister Benjamin Netanyahu said on Wednesday it was too early to say who was behind the foiled bid to…",
+  "link": "https://www.arabnews.pk/middle-east/indian-prime-minister-narendra-modi-lauds-flydubai-hero-pilot-smit-machchhar-3002825",
+  "published": "2026-10-01T02:15:30+05:00",
+  "collected": "2026-10-01T11:00+05:00"
  },
  {
   "source": "Arab News Pakistan",
@@ -169,6 +979,24 @@
   "link": "https://www.arabnews.pk/saudi-arabia/israeli-flydubai-passenger-thanks-saudi-arabia-after-emergency-landing-3002817",
   "published": "2026-10-01T01:02:12+05:00",
   "collected": "2026-10-01T04:53+05:00"
+ },
+ {
+  "source": "Express Tribune",
+  "lang": "en",
+  "title": "Islamabad, New Delhi strike cordial SCO note",
+  "summary": "India's SCO envoy warmly greets Ishaq Dar, cordial moment follows fresh UNGA tensions",
+  "link": "https://tribune.com.pk/story/2632350/islamabad-new-delhi-strike-cordial-sco-note",
+  "published": "2026-10-01T00:58:33+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Express Tribune",
+  "lang": "en",
+  "title": "Shehbaz backs Xi's global initiatives, partnership",
+  "summary": "PM reaffirms Pakistan-China ties as nations mark 75 years",
+  "link": "https://tribune.com.pk/story/2632353/shehbaz-backs-xis-global-initiatives-partnership",
+  "published": "2026-10-01T00:58:33+05:00",
+  "collected": "2026-10-01T11:00+05:00"
  },
  {
   "source": "Geo News",
@@ -268,6 +1096,42 @@
   "link": "https://www.brecorder.com/news/40441812/govt-cuts-petrol-price-by-re014-diesel-by-rs189-per-litre",
   "published": "2026-09-30T23:43:46+05:00",
   "collected": "2026-10-01T00:24+05:00"
+ },
+ {
+  "source": "Express Tribune",
+  "lang": "en",
+  "title": "Sindh records country's biggest rainfall deficit",
+  "summary": "Province gets 51% less rain; Karachi faces 92% shortfall",
+  "link": "https://tribune.com.pk/story/2632341/sindh-records-countrys-biggest-rainfall-deficit",
+  "published": "2026-09-30T23:39:59+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Express Tribune",
+  "lang": "en",
+  "title": "TTAP irked by PPP leader's 'U-turn'",
+  "summary": "Bukhari says he has not changed his position on governor's rule",
+  "link": "https://tribune.com.pk/story/2632344/ttap-irked-by-ppp-leaders-u-turn",
+  "published": "2026-09-30T23:39:59+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Express Tribune",
+  "lang": "en",
+  "title": "PTI mulls southern route for Oct 4 long march",
+  "summary": "A final decision is expected at the political committee meeting scheduled this week",
+  "link": "https://tribune.com.pk/story/2632339/pti-mulls-southern-route-for-oct-4-long-march",
+  "published": "2026-09-30T23:39:59+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Express Tribune",
+  "lang": "en",
+  "title": "New checks target offloadings",
+  "summary": "Govt begins pre-immigration scrutiny at airports",
+  "link": "https://tribune.com.pk/story/2632347/new-checks-target-offloadings",
+  "published": "2026-09-30T23:39:59+05:00",
+  "collected": "2026-10-01T11:00+05:00"
  },
  {
   "source": "Arab News Pakistan",
@@ -718,6 +1582,24 @@
   "link": "https://tribune.com.pk/story/2632322/opec-set-to-keep-output-targets-steady",
   "published": "2026-09-30T20:29:35+05:00",
   "collected": "2026-10-01T04:53+05:00"
+ },
+ {
+  "source": "Express Tribune",
+  "lang": "en",
+  "title": "Overlap in auto environmental standards flagged",
+  "summary": "Science & technology ministry identifies duplication of PSQCA functions",
+  "link": "https://tribune.com.pk/story/2632321/overlap-in-auto-environmental-standards-flagged",
+  "published": "2026-09-30T20:29:35+05:00",
+  "collected": "2026-10-01T11:00+05:00"
+ },
+ {
+  "source": "Express Tribune",
+  "lang": "en",
+  "title": "Iqbal calls for creating CAREC knowledge hub",
+  "summary": "Region must move from infrastructure to information sharing to tackle challenges",
+  "link": "https://tribune.com.pk/story/2632320/iqbal-calls-for-creating-carec-knowledge-hub",
+  "published": "2026-09-30T20:29:35+05:00",
+  "collected": "2026-10-01T11:00+05:00"
  },
  {
   "source": "Arab News Pakistan",
