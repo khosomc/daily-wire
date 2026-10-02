@@ -1,0 +1,202 @@
+{
+ "date": "2026-10-02",
+ "lead": "Pakistan carried its fight with Afghanistan-based militants across the border again, with air strikes in Kunar and Helmand that Islamabad says killed 22 fighters and Kabul says killed civilians, while the military spokesman vowed to do 'everything necessary' and told India its Kashmir 'encounter' claim was staged. Abroad, Washington's sanctions on a Pakistani defence executive over alleged Iran procurement tested Islamabad's balancing act, and the army called its commitment to Saudi security 'absolute'. On money, inflation eased to 10.3% and the finance minister set a B+ rating target for 2027, but the KSE-100 suffered a sharp sell-off on oil and US–Iran uncertainty.",
+ "sections": [
+  {
+   "name": "Geopolitics & Diplomacy",
+   "stories": [
+    {
+     "headline": "US sanctions Pakistani defence executive over alleged Iran supply network",
+     "summary": "BBC Urdu reported that Washington has sanctioned Waseem Pasha Tajammul and three companies of his Cavalier Group, alleging they supported Iran's defence ministry. Separately, the Foreign Office told its weekly briefing that Pakistan observes all 'applicable' sanctions on trade with Iran under international and domestic law, Independent Urdu reported.",
+     "sources": [
+      {"name": "BBC Urdu (Urdu)", "url": "https://www.bbc.com/urdu/articles/cj207q3qz5dlo"},
+      {"name": "Independent Urdu (Urdu)", "url": "https://www.independenturdu.com/node/188037"}
+     ]
+    },
+    {
+     "headline": "Shehbaz says CPEC entering industrial phase as China ties turn 75",
+     "summary": "Marking China's National Day, the prime minister said the corridor's next stage would centre on industrialisation, special economic zones, IT and AI, farming and minerals. He also restated support for President Xi's global initiatives as the two countries mark 75 years of relations.",
+     "sources": [
+      {"name": "Business Recorder", "url": "https://www.brecorder.com/news/40442085/pakistan-china-entering-new-phase-of-cpec-pm"},
+      {"name": "The Express Tribune", "url": "https://tribune.com.pk/story/2632353/shehbaz-backs-xis-global-initiatives-partnership"}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Conflict & Security",
+   "stories": [
+    {
+     "headline": "Pakistan strikes Afghan targets; Kabul reports civilian deaths",
+     "summary": "The information ministry said 'calibrated' air strikes on two hideouts in Afghanistan, under Operation Ghazab lil Haq, killed 22 militants and destroyed weapons stores. The Taliban government said the raids in Kunar and Helmand killed at least nine civilians, including women and children.",
+     "sources": [
+      {"name": "Dawn", "url": "https://www.dawn.com/news/2033937/calibrated-air-strikes-target-terrorist-hideouts-at-two-locations-in-afghanistan-info-ministry"},
+      {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/10/1/afghanistan-says-nine-killed-in-pakistani-air-raids-on-kunar-helmand"},
+      {"name": "Arab News Pakistan", "url": "https://www.arabnews.pk/pakistan/pakistan-says-strikes-killed-22-militants-in-afghanistan-kabul-reports-civilian-deaths-3002845"}
+     ]
+    },
+    {
+     "headline": "Military spokesman vows 'everything necessary' against Afghan-based militancy",
+     "summary": "DG ISPR Lt Gen Ahmed Sharif Chaudhry said Pakistan has a right to self-defence against attacks launched from Afghanistan. He added that counter-terrorism could not be 'sacrificed' to anyone's politics, a remark made as the government weighs its options in Khyber Pakhtunkhwa.",
+     "sources": [
+      {"name": "Dawn", "url": "https://www.dawn.com/news/2034009/everything-necessary-will-be-done-military-spokesman-reaffirms-pakistans-right-to-self-defence-against-afghanistan-based-terrorism"},
+      {"name": "Dawn", "url": "https://www.dawn.com/news/2034004/fight-against-terrorism-is-paramount-cannot-be-sacrificed-at-altar-of-anyones-politics-dg-ispr"}
+     ]
+    },
+    {
+     "headline": "Six militants killed in Balochistan's Kachhi, security sources say",
+     "summary": "Security sources said forces used quadcopters in an intelligence-based operation in Kachhi district, killing six militants they described as India-backed and recovering weapons; the account came via state media.",
+     "sources": [
+      {"name": "Dawn", "url": "https://www.dawn.com/news/2033953/security-forces-kill-6-terrorists-in-ibo-in-balochistans-kachhi-security-sources"},
+      {"name": "The Express Tribune", "url": "https://tribune.com.pk/story/2632399/six-terrorists-killed-in-balochistans-kachhi-state-media"}
+     ]
+    },
+    {
+     "headline": "Freed MT Honour 25 crew moved to Garowe as FO arranges return",
+     "summary": "The Foreign Office said surviving Pakistani crew of the tanker seized by Somali pirates in April have been moved to Puntland's capital, and that the bodies of the three Pakistanis killed in the recovery operation will be repatriated as soon as possible.",
+     "sources": [
+      {"name": "Arab News Pakistan", "url": "https://www.arabnews.pk/pakistan/pakistani-survivors-of-hijacked-tanker-moved-to-somali-city-as-islamabad-works-on-return-3002872"},
+      {"name": "Geo News", "url": "https://www.geo.tv/latest/684594-bodies-of-pakistanis-killed-in-mt-honour-25-operation-to-be-repatriated-at-earliest-says-fo"}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Defence",
+   "stories": [
+    {
+     "headline": "Army calls commitment to Saudi security 'absolute' after Madinah attack",
+     "summary": "The military spokesman said Pakistan's pledge to defend Saudi Arabia and the holy sites was absolute, though operational details of the trilateral pact with Riyadh and Ankara remain confidential. It came after the Saudi-led coalition said a Houthi drone hit a power station in Madinah supplying the Prophet's Mosque.",
+     "sources": [
+      {"name": "Arab News Pakistan", "url": "https://www.arabnews.pk/pakistan/pakistan-says-commitment-to-saudi-security-holy-sites-absolute-3002903"},
+      {"name": "Dawn", "url": "https://www.dawn.com/news/2034032/saudi-led-coalition-says-houthis-attacked-power-station-in-madina"}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Economy",
+   "stories": [
+    {
+     "headline": "Inflation eases to 10.3% in September on cheaper food",
+     "summary": "PBS data showed consumer inflation slowing from 11.1% in August, mainly because food prices rose less quickly. The government also raised petrol by Rs3.26 to Rs390.66 a litre from 2 October while trimming diesel.",
+     "sources": [
+      {"name": "Dawn", "url": "https://www.dawn.com/news/2033980/consumer-inflation-eases-to-103pc-in-september-from-111pc-in-august-official-data-shows"},
+      {"name": "Business Recorder", "url": "https://www.brecorder.com/news/40442202/govt-hikes-petrol-by-rs326-cuts-diesel-price-by-rs101-per-litre"}
+     ]
+    },
+    {
+     "headline": "Subsidy overhaul planned as IMF presses for targeted relief",
+     "summary": "A finance ministry official said Pakistan is redesigning its subsidy framework to move from broad price relief towards support aimed at low-income households, as the IMF reviews the $7bn programme.",
+     "sources": [
+      {"name": "Arab News Pakistan", "url": "https://www.arabnews.pk/pakistan/pakistan-weighs-subsidy-overhaul-as-imf-pushes-for-targeted-relief-3002884"}
+     ]
+    },
+    {
+     "headline": "PM questions decades of protection for uncompetitive industry",
+     "summary": "Shehbaz Sharif said years of subsidies and tariff shelter had failed to make industry competitive, urging a shift to export-led growth; the finance minister forecast growth reaching 4% in 2027.",
+     "sources": [
+      {"name": "Arab News Pakistan", "url": "https://www.arabnews.pk/pakistan/pakistan-pm-questions-decades-of-industry-protection-in-export-led-growth-push-3002898"},
+      {"name": "The Express Tribune", "url": "https://tribune.com.pk/story/2632504/pm-for-export-led-economic-growth"}
+     ]
+    },
+    {
+     "headline": "Government weighs own container ship as Gulf rerouting lifts costs",
+     "summary": "The maritime affairs minister said Pakistan could lease or buy a container vessel to help exporters facing longer, costlier routes to Europe and the US because of the US–Iran war and Houthi attacks on shipping.",
+     "sources": [
+      {"name": "Arab News Pakistan", "url": "https://www.arabnews.pk/pakistan/pakistan-considers-dedicated-container-ship-as-middle-east-rerouting-raises-exporters-costs-3002849"}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Finance & Capital",
+   "stories": [
+    {
+     "headline": "Aurangzeb targets B+ sovereign rating by September 2027",
+     "summary": "The finance minister said he expects rating agencies to upgrade Pakistan to B+ in the first quarter of FY2027-28, but said it was too early to say whether the current IMF facility would be the last.",
+     "sources": [
+      {"name": "Business Recorder", "url": "https://www.brecorder.com/news/40442205/pakistan-eyes-b-sovereign-credit-rating-by-sept-2027-finance-minister"}
+     ]
+    },
+    {
+     "headline": "SBP reserves edge up to $21.44bn",
+     "summary": "Central bank reserves rose $39m in the week to 25 September, taking total liquid reserves to about $26.77bn; the rupee closed almost flat at 277.10 to the dollar.",
+     "sources": [
+      {"name": "Business Recorder", "url": "https://www.brecorder.com/news/40442201/sbp-held-foreign-exchange-reserves-rise-39m-to-2144bn"},
+      {"name": "The Express Tribune", "url": "https://tribune.com.pk/story/2632505/foreign-reserves-grow-to-268b"}
+     ]
+    },
+    {
+     "headline": "KSE-100 sheds 1,332 points on oil and US–Iran jitters",
+     "summary": "The benchmark index fell sharply as rising oil prices, sticky inflation and uncertainty over US–Iran talks weighed on sentiment.",
+     "sources": [
+      {"name": "The Express Tribune", "url": "https://tribune.com.pk/story/2632434/psx-loses-1332-points-in-sharp-sell-off"}
+     ]
+    },
+    {
+     "headline": "Tax returns up 45% but payments with them fall",
+     "summary": "The FBR said returns filed by 30 September rose nearly 45% year on year, driven by non-salaried individuals, while tax paid alongside them dropped 7% — a sign of the gap between widening the net and raising revenue.",
+     "sources": [
+      {"name": "Arab News Pakistan", "url": "https://www.arabnews.pk/pakistan/pakistan-tax-authority-says-filings-rise-45-percent-but-payments-accompanying-returns-fall-3002840"}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Sovereignty",
+   "stories": [
+    {
+     "headline": "ISPR presents ex-soldier India said was killed in Kashmir",
+     "summary": "The military spokesman produced retired SSG havaldar Muhammad Asif alive in Rawalpindi, a day after Indian media reported him killed as a militant commander in Indian-administered Kashmir; ISPR called the claim a 'false flag' effort.",
+     "sources": [
+      {"name": "Dawn", "url": "https://www.dawn.com/news/2033963/why-the-need-for-all-this-drama-dg-ispr-lampoons-indias-neutralised-pakistani-terrorist-claims-presents-him-before-media"},
+      {"name": "Arab News Pakistan", "url": "https://www.arabnews.pk/pakistan/false-flag-pakistan-presents-soldier-india-identified-as-slain-kashmir-militant-3002894"}
+     ]
+    },
+    {
+     "headline": "Pakistan rebuts India on Kashmir rights at UN council",
+     "summary": "Exercising its right of reply at the 63rd UN Human Rights Council session in Geneva, Pakistan accused India of evading questions on rights in Indian-administered Kashmir and on the treatment of minorities.",
+     "sources": [
+      {"name": "Dawn", "url": "https://www.dawn.com/news/2033985/pakistan-condemns-india-at-un-council-over-occupied-kashmir-minority-rights"}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Also today",
+   "stories": [
+    {
+     "headline": "Government and PPP to hold talks with PTI on Friday",
+     "summary": "After a Shehbaz–Zardari meeting, a joint delegation was set to meet PTI leaders on Friday, ahead of the party's planned 4 October march on Islamabad.",
+     "sources": [
+      {"name": "Dawn", "url": "https://www.dawn.com/news/2033967/ppp-to-join-govt-representatives-as-shehbaz-zardari-meeting-yields-friday-talks-with-opposition"},
+      {"name": "The News", "url": "https://www.thenews.pk/story/1440488-govt-ppp-team-to-meet-pti-as-oct-4-islamabad-march-draws-closer"}
+     ]
+    },
+    {
+     "headline": "Centre holds off on KP emergency 'for now'",
+     "summary": "Geo News, citing sources, reported the federal government has shelved emergency or governor's rule in Khyber Pakhtunkhwa for the time being, pending PTI's response on the march.",
+     "sources": [
+      {"name": "Geo News", "url": "https://www.geo.tv/latest/684495-centre-decides-against-imposing-emergency-or-governors-rule-in-kp-for-now-sources"}
+     ]
+    },
+    {
+     "headline": "JI threatens to resume march unless petroleum levy is scrapped",
+     "summary": "Jamaat-i-Islami said it would restart its long march on Islamabad if the government fails to abolish the petroleum levy, saying it was not bound by any commitment to the prime minister.",
+     "sources": [
+      {"name": "Dawn", "url": "https://www.dawn.com/news/2033994/no-delaying-tactics-will-be-accepted-ji-warns-of-resuming-march-to-islamabad-if-fuel-levy-not-abolished"}
+     ]
+    },
+    {
+     "headline": "Guard killed as Karachi Red Line structure collapses",
+     "summary": "An under-construction section of the Red Line BRT collapsed on University Road in Gulshan-e-Iqbal, killing a security guard, according to Rescue 1122.",
+     "sources": [
+      {"name": "Dawn", "url": "https://www.dawn.com/news/2033960/1-killed-as-under-construction-red-line-structure-collapses-on-karachis-university-road"},
+      {"name": "The News", "url": "https://www.thenews.pk/story/1440470-karachi-red-line-brt-bridge-collapse-kills-man"}
+     ]
+    }
+   ]
+  }
+ ]
+}
