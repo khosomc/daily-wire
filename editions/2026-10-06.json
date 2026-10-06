@@ -1,0 +1,196 @@
+{
+  "date": "2026-10-06",
+  "lead": "Pakistan's Gulf exposure deepened as Makkah pact partners agreed in Riyadh to deploy forces rapidly in Saudi Arabia, with a Pakistani general named the alliance's first secretary-general, while Houthi strikes again halted flows on Saudi Arabia's East-West oil pipeline. UN Secretary-General António Guterres arrives today to back Islamabad's US–Iran mediation just as Iran's president dismissed talks with Washington as meaningless, and at the Moscow format Pakistan said it would keep acting against militant bases in Afghanistan. At home, the Centre is weighing constitutional options for Khyber Pakhtunkhwa as the PTI march advances, and the KSE-100 fell nearly 2,300 points on the political uncertainty and higher oil prices.",
+  "sections": [
+    {
+      "name": "Geopolitics & Diplomacy",
+      "stories": [
+        {
+          "headline": "UN chief arrives for three-day visit centred on US–Iran mediation",
+          "summary": "António Guterres visits Pakistan from 6 to 8 October at the invitation of Deputy Prime Minister Ishaq Dar, with talks expected to cover Islamabad's mediation between Washington and Tehran and a stop at the UN military observer mission (UNMOGIP). The Foreign Office said the trip, in the final months of Guterres's term, would highlight Pakistan's support for multilateralism.",
+          "sources": [
+            {"name": "Dawn", "url": "https://www.dawn.com/news/2034909/un-chiefs-visit-this-week-to-highlight-pakistans-efforts-towards-multilateralism-fo"},
+            {"name": "Arab News Pakistan", "url": "https://www.arabnews.pk/pakistan/un-chief-to-visit-pakistan-this-week-discuss-usiran-mediation-3003227"},
+            {"name": "The Express Tribune", "url": "https://tribune.com.pk/story/2633065/un-chief-heads-to-islamabad-to-boost-pakistan-led-us-iran-peace-talks"}
+          ]
+        },
+        {
+          "headline": "Iran calls US talks meaningless as Washington targets foreign banks",
+          "summary": "Iranian President Masoud Pezeshkian said negotiating with the US had only been followed by fresh American attacks, state media reported, while the US warned foreign financial institutions they could face sanctions for dealing with Iran's banking sector. The hardening on both sides complicates the Islamabad-brokered track that Guterres is visiting to support.",
+          "sources": [
+            {"name": "Arab News Pakistan", "url": "https://www.arabnews.pk/middle-east/iran-president-says-talks-with-us-meaningless-state-media-3003284"},
+            {"name": "Arab News Pakistan", "url": "https://www.arabnews.pk/world/us-warns-foreign-financial-institutions-not-to-do-business-with-iran-3003291"},
+            {"name": "Dawn", "url": "https://www.dawn.com/news/2034846/only-just-fair-talks-can-end-war-iran-tells-us"}
+          ]
+        },
+        {
+          "headline": "At Moscow talks, Pakistan defends strikes on Afghan militant bases",
+          "summary": "Special Representative Mohammad Sadiq told the Moscow format meeting that terrorism lay at the core of Afghanistan's problems and that Pakistan would keep taking 'all appropriate measures' against sanctuaries there. Taliban Foreign Minister Amir Khan Muttaqi said at the same gathering that the two neighbours' disputes could be settled through diplomacy, and Independent Urdu reported that Russia offered to help ease tensions.",
+          "sources": [
+            {"name": "Dawn", "url": "https://www.dawn.com/news/2034953/at-moscow-moot-pakistan-says-terrorism-remains-core-of-afghanistans-problems"},
+            {"name": "Arab News Pakistan", "url": "https://www.arabnews.pk/pakistan/afghan-taliban-say-problems-with-pakistan-can-be-resolved-through-diplomacy-3003255"},
+            {"name": "Independent Urdu (Urdu)", "url": "https://www.independenturdu.com/node/188095"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Conflict & Security",
+      "stories": [
+        {
+          "headline": "Centre weighs constitutional options for KP as security row deepens",
+          "summary": "Government sources told Geo News that a combination of constitutional measures for Khyber Pakhtunkhwa is under consideration, though minister Amir Muqam said the Centre did not favour governor's rule. Defence Minister Khawaja Asif blamed the PTI's past approach to the TTP for the province's security crisis, while Rana Sanaullah said talks could resume if the PTI committed to progress on counterterrorism.",
+          "sources": [
+            {"name": "Geo News", "url": "https://www.geo.tv/latest/685041-centre-weighs-cocktail-of-constitutional-measures-for-kp"},
+            {"name": "Dawn", "url": "https://www.dawn.com/news/2034899/abandoned-province-amir-muqam-slams-pti-says-not-in-favour-of-governors-rule-in-kp-but-security-risks-persist"},
+            {"name": "The Express Tribune", "url": "https://tribune.com.pk/story/2633129/khawaja-asif-calls-k-p-security-crisis-not-politics-but-terrorism"}
+          ]
+        },
+        {
+          "headline": "Three militants killed in second Dera Ismail Khan operation",
+          "summary": "Security forces killed three militants in an intelligence-based operation in Dera Ismail Khan, state media reported, a day after eight were killed in the same district. Security sources quoted by Geo News described the dead as 'India-backed', a claim that could not be independently verified.",
+          "sources": [
+            {"name": "Dawn", "url": "https://www.dawn.com/news/2034903/security-forces-kill-3-terrorists-in-di-khan-ibo-state-media"},
+            {"name": "Geo News", "url": "https://www.geo.tv/latest/685036-three-india-backed-terrorists-killed-in-di-khan-operation-security-sources"}
+          ]
+        },
+        {
+          "headline": "Houthi attacks halt Saudi pipeline as Yemen offensive nears Bab el-Mandeb",
+          "summary": "An energy-sector source told AFP that pumping on Saudi Arabia's East-West oil pipeline stopped again after a fresh attack, and the Houthis claimed strikes on Riyadh and Abha airports and an Aramco refinery in Rabigh, which Riyadh has not confirmed. Yemeni government forces meanwhile took key positions overlooking the Bab el-Mandeb Strait, raising the stakes for Pakistan's new defence commitments to the kingdom.",
+          "sources": [
+            {"name": "Business Recorder", "url": "https://www.brecorder.com/news/40442740/east-west-oil-pipeline-pumping-halted-after-new-attack-saudi-energy-sector-source"},
+            {"name": "Business Recorder", "url": "https://www.brecorder.com/news/40442829/yemens-houthis-say-they-targeted-saudi-airports-aramco-refinery-no-saudi-confirmation"},
+            {"name": "Business Recorder", "url": "https://www.brecorder.com/news/40442730/yemeni-government-forces-advance-on-bab-el-mandeb-strait"}
+          ]
+        },
+        {
+          "headline": "Security posts strung with fishing nets against drone attacks",
+          "summary": "Pakistani security outposts in areas prone to attacks by armed groups are installing overhead nets as a cheap defence against weaponised drones, Al Jazeera reported.",
+          "sources": [
+            {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/10/5/pakistan-installs-fishing-nets-at-security-outposts-to-block-drone-attacks"}
+          ]
+        },
+        {
+          "headline": "Indian police detain navy employee accused of spying for Pakistan",
+          "summary": "A counter-espionage unit in India's Andhra Pradesh detained a navy employee on suspicion of spying for Pakistan, BBC Urdu reported, citing Indian police; the allegation was not independently verified and Pakistan had not commented.",
+          "sources": [
+            {"name": "BBC Urdu (Urdu)", "url": "https://www.bbc.com/urdu/articles/cr89zl283g48o"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Defence",
+      "stories": [
+        {
+          "headline": "Makkah pact partners agree rapid force deployment in Saudi Arabia",
+          "summary": "After an emergency meeting in Riyadh attended by Field Marshal Asim Munir and Ishaq Dar, Pakistan, Saudi Arabia and Turkiye agreed to provide designated forces and capabilities for rapid deployment in the kingdom in response to Houthi attacks, the Foreign Office said. Pakistan's Lieutenant General Nauman Mahmood was named the alliance's first secretary-general for three years, and US Secretary of State Marco Rubio separately said Washington would honour its own security commitments to Riyadh.",
+          "sources": [
+            {"name": "Dawn", "url": "https://www.dawn.com/news/2034893/pakistan-turkiye-saudi-arabia-agree-to-rapid-force-deployment-in-the-kingdom-under-makkah-pact"},
+            {"name": "The News", "url": "https://www.thenews.pk/story/1441194-makkah-alliance-declares-three-way-security-commitment-amid-saudi-threats"},
+            {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/10/5/mecca-alliance-agrees-to-activate-collective-deterrence-measures"},
+            {"name": "Arab News Pakistan", "url": "https://www.arabnews.pk/middle-east/rubio-says-us-will-honor-saudi-security-commitments-amid-yemen-fighting-3003259"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Economy",
+      "stories": [
+        {
+          "headline": "Nine bidders prequalified for Gujranwala power distributor sale",
+          "summary": "The Privatisation Commission board approved nine interested parties for the sale of GEPCO, moving one of the power distributors the government has pledged to the IMF to sell into the next stage of the transaction.",
+          "sources": [
+            {"name": "Business Recorder", "url": "https://www.brecorder.com/news/40442746/privatisation-commission-prequalifies-9-parties-for-gepco-sale"}
+          ]
+        },
+        {
+          "headline": "Thar coal expansion aims to cut exposure to costly fuel imports",
+          "summary": "Sindh inaugurated Phase III of Thar Block II, which the chief minister said will lift the mine's output by 3.6 million tonnes to 11.2 million tonnes a year. Arab News framed the expansion as a hedge against imported fuel costs driven up by the US–Iran war.",
+          "sources": [
+            {"name": "Business Recorder", "url": "https://www.brecorder.com/news/40442713/thar-block-ii-phase-iii-to-raise-mine-output-to-112mn-tonnes-a-year-says-cm-murad"},
+            {"name": "Arab News Pakistan", "url": "https://www.arabnews.pk/pakistan/pakistan-expands-thar-coal-mine-as-us-iran-war-deepens-energy-import-risks-3003234"}
+          ]
+        },
+        {
+          "headline": "Petrol edges up, diesel down under daily pricing",
+          "summary": "Under the daily fuel-pricing mechanism, petrol rose by Re0.88 to Rs393.64 a litre for 6 October while high-speed diesel fell by Rs1.88 to Rs397.76.",
+          "sources": [
+            {"name": "Business Recorder", "url": "https://www.brecorder.com/news/40442748/govt-hikes-petrol-price-by-re088-cuts-diesel-by-rs188-per-litre"},
+            {"name": "Dawn", "url": "https://www.dawn.com/news/2034971/govt-raises-petrol-price-by-re088-per-litre-reduces-high-speed-diesel-rate-by-rs188"}
+          ]
+        },
+        {
+          "headline": "National compliance body planned to help exporters meet standards",
+          "summary": "Officials said Pakistan is setting up a national compliance entity to help exporters meet tougher international standards, regulate export auditors and settle disputes, as part of a push towards higher-value exports.",
+          "sources": [
+            {"name": "Arab News Pakistan", "url": "https://www.arabnews.pk/pakistan/pakistan-plans-compliance-entity-to-help-exporters-meet-global-standards-3003268"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Finance & Capital",
+      "stories": [
+        {
+          "headline": "KSE-100 sheds nearly 2,300 points on politics and oil",
+          "summary": "The benchmark index fell 2,288 points on Monday as the government–PTI standoff and higher oil prices weighed on sentiment.",
+          "sources": [
+            {"name": "Business Recorder", "url": "https://www.brecorder.com/news/40442684/psx-kse-100-settles-nearly-2300-points-lower-on-political-uncertainty-higher-oil-prices"},
+            {"name": "The Express Tribune", "url": "https://tribune.com.pk/story/2633177/psx-plunges-2288-points-on-political-noise"}
+          ]
+        },
+        {
+          "headline": "Finance ministry puts state firms' debt at Rs10.1 trillion",
+          "summary": "A finance ministry report puts the debt of state-owned enterprises at Rs10.1 trillion, some Rs7.1 trillion higher than the State Bank's figures, the Express Tribune reported, pointing to larger contingent liabilities than official debt data show.",
+          "sources": [
+            {"name": "The Express Tribune", "url": "https://tribune.com.pk/story/2633174/soes-debt-soars-to-rs101-trillion"}
+          ]
+        },
+        {
+          "headline": "Pakistan turns to US EXIM Bank for big-ticket financing",
+          "summary": "Business Recorder examined Pakistan's talks with the US Export-Import Bank, which could finance PIA's planned Boeing purchases, refinery upgrades and the Reko Diq copper-gold project.",
+          "sources": [
+            {"name": "Business Recorder", "url": "https://www.brecorder.com/news/40442723/what-is-us-exim-bank-and-why-is-pakistan-turning-to-it-now"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Also today",
+      "stories": [
+        {
+          "headline": "PTI march halts in Kohat, heads for Peshawar",
+          "summary": "Chief Minister Sohail Afridi's convoy stopped overnight in Kohat and is due to leave for Peshawar on Tuesday afternoon, with the Centre vowing to keep marchers out of Islamabad.",
+          "sources": [
+            {"name": "Dawn", "url": "https://www.dawn.com/news/2034928/pti-long-march-kp-cms-convoy-halts-in-kohat-for-the-night-heads-for-peshawar-on-tuesday"},
+            {"name": "The Express Tribune", "url": "https://tribune.com.pk/story/2633060/afridi-led-pti-convoy-to-head-towards-kohat-after-overnight-stay-in-karak"}
+          ]
+        },
+        {
+          "headline": "Court orders Imran Khan's production on 5 November",
+          "summary": "An Islamabad anti-terrorism court ordered Imran Khan to be produced, in person or by video link, at the next hearing of the 2023 Judicial Complex attack case.",
+          "sources": [
+            {"name": "Dawn", "url": "https://www.dawn.com/news/2034906/atc-directs-authorities-to-produce-pti-founder-imran-khan-at-next-hearing-in-fjc-attack-case"},
+            {"name": "The News", "url": "https://www.thenews.pk/story/1441169-islamabad-court-orders-to-produce-imran-khan-in-judicial-complex-attack-case-on-nov-5"}
+          ]
+        },
+        {
+          "headline": "Sixth polio case of the year reported in Khyber",
+          "summary": "The polio eradication centre confirmed the year's sixth case, a seven-year-old boy in Khyber Pakhtunkhwa's Khyber district.",
+          "sources": [
+            {"name": "Dawn", "url": "https://www.dawn.com/news/2034975/pakistan-reports-this-years-sixth-polio-case"}
+          ]
+        },
+        {
+          "headline": "Last three MT Honour 25 crew freed, due home Wednesday",
+          "summary": "Ishaq Dar said the remaining three Pakistani sailors from the tanker hijacked off Somalia in April had been rescued and flown to Addis Ababa, with arrival in Karachi expected on Wednesday.",
+          "sources": [
+            {"name": "Dawn", "url": "https://www.dawn.com/news/2034936/remaining-3-pakistanis-rescued-from-hijacked-vessel-in-somalia-expected-to-fly-home-on-wednesday"},
+            {"name": "Business Recorder", "url": "https://www.brecorder.com/news/40442736/3-more-pakistanis-rescued-from-mt-honour-25-dar"}
+          ]
+        }
+      ]
+    }
+  ]
+}
