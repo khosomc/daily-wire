@@ -1,52 +1,52 @@
 {
- "run": "2026-10-09T14:09+05:00",
+ "run": "2026-10-09T22:00+05:00",
  "feeds": [
   {
    "feed": "Dawn",
    "ok": true,
-   "items_in_feed": 25,
-   "kept": 25,
+   "items_in_feed": 28,
+   "kept": 28,
    "new": 19
   },
   {
    "feed": "Express Tribune",
    "ok": true,
    "items_in_feed": 74,
-   "kept": 63,
-   "new": 37
+   "kept": 62,
+   "new": 36
   },
   {
    "feed": "The News",
    "ok": true,
    "items_in_feed": 50,
-   "kept": 8,
-   "new": 1
+   "kept": 7,
+   "new": 3
   },
   {
    "feed": "Business Recorder",
    "ok": true,
    "items_in_feed": 30,
    "kept": 30,
-   "new": 30
+   "new": 25
   },
   {
    "feed": "Arab News Pakistan",
    "ok": true,
    "items_in_feed": 50,
    "kept": 50,
-   "new": 27
+   "new": 44
   },
   {
    "feed": "Geo News",
    "ok": true,
    "items_in_feed": 20,
    "kept": 18,
-   "new": 3
+   "new": 4
   },
   {
    "feed": "BBC News (Asia)",
    "ok": true,
-   "items_in_feed": 16,
+   "items_in_feed": 17,
    "kept": 0,
    "new": 0
   },
@@ -54,8 +54,8 @@
    "feed": "Al Jazeera",
    "ok": true,
    "items_in_feed": 25,
-   "kept": 1,
-   "new": 1
+   "kept": 0,
+   "new": 0
   },
   {
    "feed": "DW",
@@ -66,8 +66,10 @@
   },
   {
    "feed": "France 24 (Asia-Pacific)",
-   "ok": false,
-   "error": "ParseError: not well-formed (invalid token): line 1, column 453"
+   "ok": true,
+   "items_in_feed": 30,
+   "kept": 0,
+   "new": 0
   },
   {
    "feed": "The Guardian (Pakistan)",
@@ -81,14 +83,14 @@
    "ok": true,
    "items_in_feed": 21,
    "kept": 14,
-   "new": 6
+   "new": 4
   },
   {
    "feed": "Independent Urdu",
    "ok": true,
    "items_in_feed": 10,
    "kept": 10,
-   "new": 9
+   "new": 8
   }
  ]
 }
