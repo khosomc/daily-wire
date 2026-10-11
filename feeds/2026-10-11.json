@@ -1,5 +1,446 @@
 [
  {
+  "source": "Geo News",
+  "lang": "en",
+  "title": "Pakistan condemns Houthi attack on Riyadh airport, reaffirms commitment to Saudi Arabia's security",
+  "summary": "A Pakistani police officer stands guard outside the Ministry of Foreign Affairs in Islamabad on January 18, 2024. — AFPIslamabad urges world to condemn attacks on civilian infrastructure.FO expresses concern over casualties, extends condolences to families.Pakistan pledges continued...",
+  "link": "https://www.geo.tv/latest/685997-pakistan-condemns-houthi-attack-on-riyadh-airport-reaffirms-commitment-to-saudi-security",
+  "published": "2026-10-11T15:06:00+05:00",
+  "collected": "2026-10-11T10:51+05:00"
+ },
+ {
+  "source": "BBC Urdu",
+  "lang": "ur",
+  "title": "سوشل میڈیا انفلوئنسر میڈ سندھو کا قتل: پولیس کیو آر کوڈ کے ذریعے چھپے ہوئے مبینہ ملزم تک کیسے پہنچی؟",
+  "summary": "سوشل میڈیا انفلوئنسر اور میک اپ آرٹسٹ میڈ سندھو کو 3 اکتوبر 2026 کو امرتسر کے لوہارکا روڈ پر فائرنگ کر کے قتل کر دیا گیا تھا۔ فائرنگ کے بعد انھیں ہسپتال منتقل کیا جا رہا تھا تاہم وہ راستے میں دم توڑ گئے۔ واقعے کے بعد امرتسر کینٹ تھانے میں بھارتیہ نیائے سنہتا (بی این ایس) کی مختلف دفعات کے تحت مقدمہ درج کیا گیا تھا۔",
+  "link": "https://www.bbc.com/urdu/articles/cjy56k92k5pgo?at_medium=RSS&at_campaign=rss",
+  "published": "2026-10-11T10:43:48+05:00",
+  "collected": "2026-10-11T10:51+05:00"
+ },
+ {
+  "source": "Business Recorder",
+  "lang": "en",
+  "title": "Isaias kills four, about 670,000 without power after landfall",
+  "summary": "Four people died after Hurricane Isaias made landfall early ‌on Saturday, and about 670,000 residents in Florida, Alabama, Georgia and Mississippi were still without power as the storm weakened to a post-tropical cyclone, according to local authorities and electricity monitoring services. Two of the deaths resulted…",
+  "link": "https://www.brecorder.com/news/40443671/isaias-kills-four-about-670000-without-power-after-landfall",
+  "published": "2026-10-11T10:41:50+05:00",
+  "collected": "2026-10-11T10:51+05:00"
+ },
+ {
+  "source": "Independent Urdu",
+  "lang": "ur",
+  "title": "پشاور: کنٹنیرز لگا کر راستے بند، اراکین اسمبلی کی سکیورٹی واپس لے لی گئی",
+  "summary": "‏خیبرپختونخوا میں پولیس حکام نے ممکنہ ہنگامہ آرائی اور پرتشدد مظاہروں کی صورت میں طاقت کے استعمال کا فیصلہ کرتے ہوئے پولیس افسران کو ہدایات جاری کر دی ہیں۔ آئی جی پولیس ذوالفقار حمید نے ہفتے کی شب خیبرپختونخوا پولیس ایکٹ 2017 کے سیکشن 83 ٹو 88 کے تحت صوبے کے تمام پولیس افسران اور اہلکاروں کو تحریری آپریشنل گائیڈلائنز…",
+  "link": "https://www.independenturdu.com/node/188193",
+  "published": "2026-10-11T10:36:25+05:00",
+  "collected": "2026-10-11T10:51+05:00"
+ },
+ {
+  "source": "Business Recorder",
+  "lang": "en",
+  "title": "India's Infosys does not expect material impact from US PERM suspension",
+  "summary": "Infosys, India’s second-largest IT firm, said on ​Saturday that it does ‌not anticipate a material impact from the Permanent ​Labor Certification (PERM) application suspension ​announced by the US ⁠government. The US government said ​on Thursday it was suspending ​some major global tech and IT firms, including…",
+  "link": "https://www.brecorder.com/news/40443670/indias-infosys-does-not-expect-material-impact-from-us-perm-suspension",
+  "published": "2026-10-11T10:32:58+05:00",
+  "collected": "2026-10-11T10:51+05:00"
+ },
+ {
+  "source": "Business Recorder",
+  "lang": "en",
+  "title": "Nvidia in talks to invest further in Reflection AI or buy it, FT reports",
+  "summary": "Nvidia is in talks to deepen its investment in ​open-source startup Reflection AI or acquire it, the ‌Financial Times reported on Saturday, citing people with direct knowledge of the matter. Talks are at an early stage and a deal ​could take several forms, including a so-called acqui-hire ​arrangement where Nvidia…",
+  "link": "https://www.brecorder.com/news/40443669/nvidia-in-talks-to-invest-further-in-reflection-ai-or-buy-it-ft-reports",
+  "published": "2026-10-11T10:29:51+05:00",
+  "collected": "2026-10-11T10:51+05:00"
+ },
+ {
+  "source": "Dawn",
+  "lang": "en",
+  "title": "Houthi strike on Riyadh airport kills 12; Saudi-led coalition vows 'decisive' response to worst attack on kingdom in a decade",
+  "summary": "At least 12 people were killed and more than 300 wounded in an attack on Riyadh’s international airport on Saturday, the deadliest in the kingdom in more than a decade, as the Houthis escalate a campaign they launched this summer. The dead from the third attack this week on the airport included four Saudis, two people…",
+  "link": "https://www.dawn.com/news/2036199/houthi-strike-on-riyadh-airport-kills-12-saudi-led-coalition-vows-decisive-response-to-worst-attack-on-kingdom-in-a-decade",
+  "published": "2026-10-11T10:27:20+05:00",
+  "collected": "2026-10-11T10:51+05:00"
+ },
+ {
+  "source": "Business Recorder",
+  "lang": "en",
+  "title": "Erie, Pennsylvania shooter killed 8 people, then himself, police say",
+  "summary": "A 45-year-old man shot and killed eight people in Erie, Pennsylvania, ​including a pregnant woman and two children, then apparently shot himself to ‌death, authorities said on Saturday at a press conference where they revealed details of the previous evening’s shooting. The shooter, who has yet to be identified, died…",
+  "link": "https://www.brecorder.com/news/40443668/erie-pennsylvania-shooter-killed-8-people-then-himself-police-say",
+  "published": "2026-10-11T10:25:30+05:00",
+  "collected": "2026-10-11T10:51+05:00"
+ },
+ {
+  "source": "Dawn",
+  "lang": "en",
+  "title": "FO reiterates Pakistan's 'firm and unshakeable' commitment to Saudi Arabia's security after Riyadh attack",
+  "summary": "The Foreign Office (FO) on Sunday condemned a fresh wave of Houthi attacks against Saudi Arabia, reaffirming Pakistan’s “firm and unshakeable” commitment to the sovereignty, territorial integrity, security and stability of the Gulf state under the Makkah Joint Defence Agreement. The defence pact , of which Turkiye is…",
+  "link": "https://www.dawn.com/news/2036347/fo-reiterates-pakistans-firm-and-unshakeable-commitment-to-saudi-arabias-security-after-riyadh-attack",
+  "published": "2026-10-11T10:21:40+05:00",
+  "collected": "2026-10-11T10:51+05:00"
+ },
+ {
+  "source": "Business Recorder",
+  "lang": "en",
+  "title": "PM Shehbaz condemns Houthi attack on Saudi airport that killed 12, wounded over 300",
+  "summary": "Prime Minister Shehbaz Sharif on Sunday condemned a Houthi missile attack on Saudi Arabia’s King Khalid International Airport in Riyadh, in which at least 12 people were killed and over 300 injured. Reiterating Pakistan’s commitment to Saudi Arabia’s security under the Makkah Joint Defence Agreement, the prime…",
+  "link": "https://www.brecorder.com/news/40443662/pm-shehbaz-condemns-houthi-attack-on-saudi-airport-that-killed-12-wounded-over-300",
+  "published": "2026-10-11T10:21:28+05:00",
+  "collected": "2026-10-11T10:51+05:00"
+ },
+ {
+  "source": "Business Recorder",
+  "lang": "en",
+  "title": "Middle East war, high debt levels to dominate IMF-World Bank meetings in Bangkok",
+  "summary": "BANGKOK: Finance officials from around the world will gather in Thailand this week under the shadow of a widening war in the Middle East, the biggest energy supply shock ever and rising interest rates that together pose daunting risks to already-sluggish global economic growth. The US-Israeli-led war ​with Iran, now…",
+  "link": "https://www.brecorder.com/news/40443667/middle-east-war-high-debt-levels-to-dominate-imf-world-bank-meetings-in-bangkok",
+  "published": "2026-10-11T10:16:50+05:00",
+  "collected": "2026-10-11T10:51+05:00"
+ },
+ {
+  "source": "Arab News Pakistan",
+  "lang": "en",
+  "title": "Pakistan finance minister to attend IMF-World Bank annual meetings in Bangkok on Oct. 12-18",
+  "summary": "ISLAMABAD: Finance Minister Muhammad Aurangzeb has left for Bangkok, Thailand to lead Pakistan’s delegation to the World Bank–International Monetary Fund (IMF) annual meetings scheduled to be held from Oct. 12 till Oct. 18, the Pakistani finance ministry said late Saturday. The visit comes as Pakistan continues its…",
+  "link": "https://www.arabnews.pk/pakistan/pakistan-finance-minister-to-attend-imf-world-bank-annual-meetings-in-bangkok-on-oct-12-18-3003818",
+  "published": "2026-10-11T10:13:04+05:00",
+  "collected": "2026-10-11T10:51+05:00"
+ },
+ {
+  "source": "Business Recorder",
+  "lang": "en",
+  "title": "Nepal urges villagers to evacuate after flood triggered by landslide",
+  "summary": "KATHMANDU: Nepali authorities urged villagers on Sunday to move to safer places after a massive ​flood in a river in the central part ‌of the country swept away several houses and infrastructure, but there were no reports of any casualties. A dry landslide in Chumnubri ​village in Gorkha district, about 100 km (62…",
+  "link": "https://www.brecorder.com/news/40443666/nepal-urges-villagers-to-evacuate-after-flood-triggered-by-landslide",
+  "published": "2026-10-11T10:08:32+05:00",
+  "collected": "2026-10-11T10:51+05:00"
+ },
+ {
+  "source": "Business Recorder",
+  "lang": "en",
+  "title": "Trump calls for replacing Ukraine's Zelenskiy in tussle over diesel deal with Russia",
+  "summary": "US President Donald Trump on Saturday called for Ukraine to replace its leader Volodymyr Zelenskiy and railed against Ukraine’s attacks on Russian oil infrastructure, a day after announcing a diesel supply ​deal with Russia that had drawn a sharp rebuke from Zelenskiy. In some of his harshest criticism yet of the…",
+  "link": "https://www.brecorder.com/news/40443665/trump-calls-for-replacing-ukraines-zelenskiy-in-tussle-over-diesel-deal-with-russia",
+  "published": "2026-10-11T10:04:45+05:00",
+  "collected": "2026-10-11T10:51+05:00"
+ },
+ {
+  "source": "Business Recorder",
+  "lang": "en",
+  "title": "India unveils steel policy aiming for 604 million tons capacity by 2047",
+  "summary": "NEW DELHI: India released a draft steel policy for public consultation late ​on Saturday, targeting 604 million metric tons ‌of steel capacity by 2047 from around 220 million tons at present. Reuters reported last week, ​citing the draft document, that the ​policy lays out plans to cut sector emissions ⁠and shore up…",
+  "link": "https://www.brecorder.com/news/40443664/india-unveils-steel-policy-aiming-for-604-million-tons-capacity-by-2047",
+  "published": "2026-10-11T09:58:29+05:00",
+  "collected": "2026-10-11T10:51+05:00"
+ },
+ {
+  "source": "Dawn",
+  "lang": "en",
+  "title": "PM takes notice of student’s suicide over visa fraud",
+  "summary": "ISLAMABAD: The death of student Laiba Aijaz on Friday drew the attention of the government, with Prime Minister Shehbaz Sharif meeting the Islamabad police chief and chief commissioner and directing them to arrest the accused. Sources in the police and Federal Investigation Agency (FIA) told Dawn that the prime…",
+  "link": "https://www.dawn.com/news/2036319/pm-takes-notice-of-students-suicide-over-visa-fraud",
+  "published": "2026-10-11T09:56:20+05:00",
+  "collected": "2026-10-11T10:51+05:00"
+ },
+ {
+  "source": "Business Recorder",
+  "lang": "en",
+  "title": "India's 'cockroach' movement leader released from detention, lawyer says",
+  "summary": "NEW DELHI: India’s “cockroach” ‌protest movement ​leader Abhijeet ​Dipke was released ⁠from ​detention ​with two other ​senior ​leaders on Sunday, ‌a ⁠lawyer for Dipke ​said ​in ⁠a ​post ​on ⁠X.",
+  "link": "https://www.brecorder.com/news/40443663/indias-cockroach-movement-leader-released-from-detention-lawyer-says",
+  "published": "2026-10-11T09:54:54+05:00",
+  "collected": "2026-10-11T10:51+05:00"
+ },
+ {
+  "source": "Dawn",
+  "lang": "en",
+  "title": "Broken record: Friendship with Britain and Hindustan",
+  "summary": "With the advantage of hindsight, one has the opportunity to study the historical cycles in a nation’s life. Thanks to this newspaper’s unique, extensive archive of back issues, one can examine the major political, economic and social trends that have shaped Pakistan and the world over the last seven decades and…",
+  "link": "https://www.dawn.com/news/2036235/broken-record-friendship-with-britain-and-hindustan",
+  "published": "2026-10-11T09:51:04+05:00",
+  "collected": "2026-10-11T10:51+05:00"
+ },
+ {
+  "source": "Arab News Pakistan",
+  "lang": "en",
+  "title": "‘Going bankrupt’: Iran shopkeepers struggle as war dims demand",
+  "summary": "Tehran shopkeepers are witnessing a sharp decline in sales due to skyrocketing prices triggered by the US-Iran war, which has drastically reduced consumer demand.",
+  "link": "https://www.arabnews.pk/middle-east/going-bankrupt-iran-shopkeepers-struggle-as-war-dims-demand-3003817",
+  "published": "2026-10-11T09:39:49+05:00",
+  "collected": "2026-10-11T10:51+05:00"
+ },
+ {
+  "source": "BBC Urdu",
+  "lang": "ur",
+  "title": "توہین مذہب کے الزام میں مشتعل ہجوم نے مسیحی شخص کا گھر اور دکان نذر آتش کردیا: ’ابو نے کہا ضروری چیزیں اٹھاؤ اور فوراً گھر سے نکلو‘",
+  "summary": "پنجاب کے ضلع شیخوپورہ کی تحصیل نارنگ منڈی کے گاؤں گھڑیال کلاں میں توہین مذہب کے الزام پر مشتعل ہجوم کی جانب سے ایک مسیحی شخص کا گھر اور دکان نذر آتش کیے جانے کے بعد مسیحی برادری میں خوف کا احساس ہے جبکہ پولیس نے ملزم کے خلاف توہین مذہب جبکہ مشتعل ہجوم میں شامل افراد کے خلاف انسدادِ دہشت گردی کی دفعات کے تحت دو مختلف…",
+  "link": "https://www.bbc.com/urdu/articles/c3y0e8e947n4o?at_medium=RSS&at_campaign=rss",
+  "published": "2026-10-11T09:32:26+05:00",
+  "collected": "2026-10-11T10:51+05:00"
+ },
+ {
+  "source": "Arab News Pakistan",
+  "lang": "en",
+  "title": "Nepal urges villagers to evacuate after flood triggered by landslide",
+  "summary": "Nepali authorities have called for the evacuation of villagers following a flood caused by a landslide in the Gorkha district, near Katmandu. No casualties have been reported so far.",
+  "link": "https://www.arabnews.pk/world/nepal-urges-villagers-to-evacuate-after-flood-triggered-by-landslide-3003816",
+  "published": "2026-10-11T09:19:47+05:00",
+  "collected": "2026-10-11T10:51+05:00"
+ },
+ {
+  "source": "Arab News Pakistan",
+  "lang": "en",
+  "title": "Pakistan condemns Houthi attack on Riyadh airport that killed 12 people, injured over 300",
+  "summary": "ISLAMABAD: Pakistan condemns an attack by Yemen’s Houthi militia on an airport in the Saudi capital of Riyadh that killed at least 12 people, the Pakistani foreign ministry said on Sunday, saying that the attacks against the Kingdom must cease immediately. Saturday’s attack on King Khalid International Airport (KKIA)…",
+  "link": "https://www.arabnews.pk/pakistan/pakistan-condemns-houthi-attack-on-riyadh-airport-that-killed-12-people-injured-over-300-3003815",
+  "published": "2026-10-11T09:19:05+05:00",
+  "collected": "2026-10-11T10:51+05:00"
+ },
+ {
+  "source": "Arab News Pakistan",
+  "lang": "en",
+  "title": "Commuters embrace Balochistan’s first mass-transit train project with excitement, caution",
+  "summary": "QUETTA: For Muhammad Ibrahim, boarding a train for the first time with his four children brought a mix of excitement and nervousness. The excitement for the new experience, but he could not help feel a bit anxious about traveling in a province where attacks on passenger trains are not rare. Pakistan Railways and the…",
+  "link": "https://www.arabnews.pk/pakistan/commuters-embrace-balochistans-first-mass-transit-train-project-with-excitement-caution-3003814",
+  "published": "2026-10-11T08:57:37+05:00",
+  "collected": "2026-10-11T10:51+05:00"
+ },
+ {
+  "source": "Arab News Pakistan",
+  "lang": "en",
+  "title": "Syria arrests former Republican Guards general",
+  "summary": "Syria's internal security forces have arrested Mard Mohammad, a former brigadier general known as the 'Guardian of the Capital' and linked to the ousted president Bashar Assad's Republican Guards. Mohammad had a significant role in military operations in Damascus Countryside and previously led campaigns such as 'God’s…",
+  "link": "https://www.arabnews.pk/middle-east/syria-arrests-former-republican-guards-general-3003813",
+  "published": "2026-10-11T08:45:50+05:00",
+  "collected": "2026-10-11T10:51+05:00"
+ },
+ {
+  "source": "Dawn",
+  "lang": "en",
+  "title": "The pushed river",
+  "summary": "THE Indus River is moving east in central Pakistan. Along an 85-kilometre stretch from upstream of Layyah city down to Taunsa Barrage, it is pressing hard against its eastern bank. In this year’s flood season, it destroyed Basti Kanjal, a riverine settlement of more than 500 houses some 15km northwest of Layyah. It…",
+  "link": "https://www.dawn.com/news/2036301/the-pushed-river",
+  "published": "2026-10-11T08:35:13+05:00",
+  "collected": "2026-10-11T10:51+05:00"
+ },
+ {
+  "source": "Arab News Pakistan",
+  "lang": "en",
+  "title": "Two Pakistani artists to feature at Frieze Abu Dhabi art fair next month",
+  "summary": "KARACHI: Two award-winning Pakistani artists will display their work at the inaugural Frieze Abu Dhabi art fair next month, highlighting the growing role of Gulf galleries and cultural institutions in bringing Pakistani art to international audiences. Frieze Abu Dhabi will run from Nov. 19 to 22 at Manarat Al Saadiyat…",
+  "link": "https://www.arabnews.pk/pakistan/two-pakistani-artists-to-feature-at-frieze-abu-dhabi-art-fair-next-month-3003812",
+  "published": "2026-10-11T08:34:47+05:00",
+  "collected": "2026-10-11T10:51+05:00"
+ },
+ {
+  "source": "Independent Urdu",
+  "lang": "ur",
+  "title": "کیا صرف 100 روپے سے بچت کا آغاز ہوسکتا ہے؟",
+  "summary": "پاکستان میں مہنگائی کے باعث اکثر لوگ یہ سمجھتے ہیں کہ بچت صرف امیر افراد ہی کر سکتے ہیں۔ لیکن حقیقت اس کے برعکس ہے۔ بچت کی عادت رقم کی مقدار سے زیادہ اہم ہوتی ہے۔ اگر کوئی شخص صرف 50، 100 یا 200 روپے ماہانہ بھی باقاعدگی سے بچانا شروع کر دے تو وقت کے ساتھ یہ ایک بڑی رقم بن سکتی ہے۔ لیکن عام آدمی دو طرح کی مشکلات کا…",
+  "link": "https://www.independenturdu.com/node/188178",
+  "published": "2026-10-11T08:30:24+05:00",
+  "collected": "2026-10-11T10:51+05:00"
+ },
+ {
+  "source": "Dawn",
+  "lang": "en",
+  "title": "The lost civilian CT body",
+  "summary": "THIS is an obituary for the National Counter Terrorism Authority, once conceived as a civilian counterterrorism body that combined policymaking, coordination among law-enforcement agencies, and data collection and processing. Since its inception in December 2008, and even after gaining legal cover under the Nacta Act,…",
+  "link": "https://www.dawn.com/news/2036302/the-lost-civilian-ct-body",
+  "published": "2026-10-11T08:29:16+05:00",
+  "collected": "2026-10-11T10:51+05:00"
+ },
+ {
+  "source": "Dawn",
+  "lang": "en",
+  "title": "Sri Lankan vet returns home amid concerns over Madhubala’s health",
+  "summary": "KARACHI: Sri Lankan wildlife health specialist Dr Buddhika Bandara, who had joined efforts to save Madhubala on Friday, left for home the same day under unclear circumstances, raising concern over Safari Park’s administrative affairs as well as the ongoing health crisis confronting the ailing elephant, it emerged on…",
+  "link": "https://www.dawn.com/news/2036212/sri-lankan-vet-returns-home-amid-concerns-over-madhubalas-health",
+  "published": "2026-10-11T08:25:09+05:00",
+  "collected": "2026-10-11T10:51+05:00"
+ },
+ {
+  "source": "Dawn",
+  "lang": "en",
+  "title": "KP police put on alert as emergency ‘looms’",
+  "summary": "PESHAWAR: Khyber Pakhtunkhwa Inspector General of Police Zulfiqar Hameed on Saturday put district police on alert for possible violent protests and sabotage in the event of the federal government imposing an emergency in the province, emphasising caution in the use of force. A notification issued by the IGP’s office…",
+  "link": "https://www.dawn.com/news/2036342/kp-police-put-on-alert-as-emergency-looms",
+  "published": "2026-10-11T08:24:21+05:00",
+  "collected": "2026-10-11T10:51+05:00"
+ },
+ {
+  "source": "Dawn",
+  "lang": "en",
+  "title": "Poverty’s long shadow",
+  "summary": "PAKISTAN’S contribution to rising poverty across the Middle East, North Africa and the Afghanistan-Pakistan region is troubling. According to the World Bank, the country accounts for nearly half of the region’s people living in extreme poverty. Ours is a story of repeated hardship. Millions of Pakistanis have endured…",
+  "link": "https://www.dawn.com/news/2036296/povertys-long-shadow",
+  "published": "2026-10-11T08:22:57+05:00",
+  "collected": "2026-10-11T10:51+05:00"
+ },
+ {
+  "source": "Dawn",
+  "lang": "en",
+  "title": "Emergency looms over KP as Centre-PTI rift widens",
+  "summary": "• PML-N, PPP leaders finalise plan to bring KP under federal control • PM calls cabinet meeting today to discuss constitutional options • Fazl holds meetings with PM, PTI leaders to defuse tensions • Interior minister says ‘no room left’ to avoid emergency • KP police chief directs security measures ahead of possible…",
+  "link": "https://www.dawn.com/news/2036270/emergency-looms-over-kp-as-centre-pti-rift-widens",
+  "published": "2026-10-11T08:18:07+05:00",
+  "collected": "2026-10-11T10:51+05:00"
+ },
+ {
+  "source": "Independent Urdu",
+  "lang": "ur",
+  "title": "خیبرپختونخوا میں گورنر راج یا ایمرجنسی کی مخالفت کی جائے گی: تحریک انصاف",
+  "summary": "پاکستان تحریک انصاف نے ہفتے اور اتوار کی درمیانی شب خیبر پختونخوا میں گورنر راج یا ایمرجنسی کے ممکنہ نفاذ کو صوبے کے عوام کے جمہوری مینڈیٹ، منتخب اسمبلی اور آئینی و جمہوری حقوق پر ’براہ راست حملہ‘ قرار دیتے ہوئے اس کی مکمل مخالفت کا اعلان کیا ہے۔ اسلام آباد میں پولیٹیکل کمیٹی اور کور کمیٹی کے اجلاس کے بعد جاری مشترکہ…",
+  "link": "https://www.independenturdu.com/node/188192",
+  "published": "2026-10-11T08:12:06+05:00",
+  "collected": "2026-10-11T10:51+05:00"
+ },
+ {
+  "source": "Dawn",
+  "lang": "en",
+  "title": "Botched execution survivor in Tennessee, US returns to prison",
+  "summary": "WASHINGTON: Convicted murderer Christa Pike, who survived a botched execution attempt in the US state of Tennessee last week, has been discharged from hospital and returned to prison, her lawyers said on Saturday. Pike, 50, was given two doses of the drug pentobarbital on Sept 30 — a usually fatal dose that…",
+  "link": "https://www.dawn.com/news/2036255/botched-execution-survivor-in-tennessee-us-returns-to-prison",
+  "published": "2026-10-11T08:05:07+05:00",
+  "collected": "2026-10-11T10:51+05:00"
+ },
+ {
+  "source": "Independent Urdu",
+  "lang": "ur",
+  "title": "پاکستان کے لیے سبق: خلیجی ممالک نے کیسے خوراکی تحفظ حاصل کیا؟",
+  "summary": "اگر پاکستان میں خوراک کے عدم تحفظ کی وجہ پوچھی جائے تو عموماً فوری جواب قلت کو قرار دیا جاتا ہے: نہ کافی زمین، نہ کافی پانی، نہ کافی اناج۔ مگر یہ قدرتی جواب غلط ہے اور خلیجی ممالک کے ساتھ موازنہ اس حقیقت کو واضح کر دیتا ہے۔ ہر وہ خلیجی ریاست جس نے اپنے خوراکی تحفظ کا مسئلہ حل کیا، تقریباً صفر سے آغاز کر رہی تھی: نہایت…",
+  "link": "https://www.independenturdu.com/node/188143",
+  "published": "2026-10-11T08:00:10+05:00",
+  "collected": "2026-10-11T10:51+05:00"
+ },
+ {
+  "source": "BBC Urdu",
+  "lang": "ur",
+  "title": "10 اراکین صوبائی و قومی اسمبلی کا مبینہ ’اغوا‘: وزیر اعلیٰ سہیل آفریدی اپنے ہی صوبے میں بے بس کیوں نظر آ رہے ہیں؟",
+  "summary": "اس نوعیت کی کارروائیوں کا آغاز پی ٹی آئی کے لانگ مارچ کے آغاز سے قبل ہوا تھا اور پشاور سمیت مختلف علاقوں میں پی ٹی آئی کے رہنماؤں اور کارکنوں کے خلاف یہ کارروائیاں شروع کی گئی تھیں۔ بی بی سی سے بات کرتے ہوئے پی ٹی آئی خیبر پختونخوا کے سیکریٹری اطلاعات شوکت علی یوسفزئی نے بھی تحریک انصاف کے ان 10 اراکین صوبائی اسمبلی…",
+  "link": "https://www.bbc.com/urdu/articles/c34g1xklx5n9o?at_medium=RSS&at_campaign=rss",
+  "published": "2026-10-11T07:57:11+05:00",
+  "collected": "2026-10-11T10:51+05:00"
+ },
+ {
+  "source": "Dawn",
+  "lang": "en",
+  "title": "SMOKERS’ CORNER: False Flags and Credibility",
+  "summary": "Illustration by Abro Last week, reports emerged that an Israeli plumber had thwarted an alleged attempt by the co-pilot of a FlyDubai flight from Dubai to Tel Aviv to hijack/crash the aircraft. Interestingly, as further details were made public, social media platforms were flooded with thousands of posts alleging that…",
+  "link": "https://www.dawn.com/news/2035561/smokers-corner-false-flags-and-credibility",
+  "published": "2026-10-11T07:39:10+05:00",
+  "collected": "2026-10-11T10:51+05:00"
+ },
+ {
+  "source": "Dawn",
+  "lang": "en",
+  "title": "Gilgit-Baltistan steps up security for foreigners",
+  "summary": "GILGIT: Gilgit-Baltistan police on Saturday decided to strengthen security for Chinese nationals living and working in the region following a high-level meeting to review protective measures for foreigners involved in development projects and business activities. The meeting, chaired by Inspector General of Police…",
+  "link": "https://www.dawn.com/news/2036250/gilgit-baltistan-steps-up-security-for-foreigners",
+  "published": "2026-10-11T07:32:33+05:00",
+  "collected": "2026-10-11T10:51+05:00"
+ },
+ {
+  "source": "Dawn",
+  "lang": "en",
+  "title": "JI links meeting with PM to petroleum levy cut pledge",
+  "summary": "LAHORE: Jamaat-i-Islami chief Hafiz Naeemur Rehman on Saturday ruled out meeting Prime Minister Shehbaz Sharif without a commitment to abolish the petroleum levy, warning that the party would announce a date for its Islamabad march after Oct 12 if the government failed to provide relief. Addressing a press conference…",
+  "link": "https://www.dawn.com/news/2036251/ji-links-meeting-with-pm-to-petroleum-levy-cut-pledge",
+  "published": "2026-10-11T07:28:41+05:00",
+  "collected": "2026-10-11T10:51+05:00"
+ },
+ {
+  "source": "Dawn",
+  "lang": "en",
+  "title": "Global growth set to slow",
+  "summary": "ISLAMABAD: Global economic growth is projected to slow to 2.6 per cent in 2026 and 2.7pc in 2027, from 2.9pc in 2025, while growth in developing economies is expected to fall to 4pc from 4.7pc, amid mounting technological and policy barriers, according to the Trade and Development Report 2026. The flagship report by…",
+  "link": "https://www.dawn.com/news/2036244/global-growth-set-to-slow",
+  "published": "2026-10-11T07:27:21+05:00",
+  "collected": "2026-10-11T10:51+05:00"
+ },
+ {
+  "source": "Independent Urdu",
+  "lang": "ur",
+  "title": "ریاض ایئر پورٹ پر حوثیوں کے حملے میں 12 اموات 309 زخمی، پاکستان کی مذمت",
+  "summary": "سعودی عرب کی سول ایوی ایشن اتھارٹی نے ہفتے کو ریاض کے ریاض کے بین الاقوامی ہوائی اڈے پر ہونے والے حملے میں اموات اور زخمیوں کی تفصیلات جاری کرتے ہوئے بتایا ہے کہ حوثیوں کے اس حملے میں 12 افراد جان سے گئے اور سینکڑوں زخمی ہوئے ہیں۔ سعودی قیادت میں قائم فوجی اتحاد نے اتوار کو یمن کے حوثیوں کے خلاف فیصلہ کن کارروائی کا…",
+  "link": "https://www.independenturdu.com/node/188191",
+  "published": "2026-10-11T07:19:14+05:00",
+  "collected": "2026-10-11T10:51+05:00"
+ },
+ {
+  "source": "Dawn",
+  "lang": "en",
+  "title": "Israeli strikes kill five in Gaza",
+  "summary": "CAIRO: Israeli strikes killed at least five Palestinians in the Gaza Strip in two separate attacks on Saturday, health officials said. Medics said an Israeli strike killed four people near Panda Mall in Gaza City, whi­le another killed one person in the Tuffah neighbourhood further south of the city. Israel, which…",
+  "link": "https://www.dawn.com/news/2036238/israeli-strikes-kill-five-in-gaza",
+  "published": "2026-10-11T07:12:52+05:00",
+  "collected": "2026-10-11T10:51+05:00"
+ },
+ {
+  "source": "Arab News Pakistan",
+  "lang": "en",
+  "title": "Trump urges Sen. John Fetterman to switch parties and become a Republican",
+  "summary": "JOINT BASE ANDREWS, Md.: President Donald Trump openly encouraged Democratic Sen. John Fetterman of Pennsylvania to switch parties and become a Republican just weeks before the midterm elections could reshape control of Congress. “I’d love to see him as a Republican,” Trump told reporters at Joint Base Andrews on…",
+  "link": "https://www.arabnews.pk/world/trump-urges-sen-john-fetterman-to-switch-parties-and-become-a-republican-3003811",
+  "published": "2026-10-11T06:44:38+05:00",
+  "collected": "2026-10-11T10:51+05:00"
+ },
+ {
+  "source": "Arab News Pakistan",
+  "lang": "en",
+  "title": "Trump says Putin ‘would like to see a settlement’ in Ukraine war",
+  "summary": "WASHINGTON: US President Donald Trump said on Saturday that his Russian counterpart Vladimir Putin would like to reach a deal on the war with Ukraine, accusing leader Volodymyr Zelensky of resisting a compromise. “Russia would like to make a deal... but for whatever reason, Zelensky does not want to make a deal,”…",
+  "link": "https://www.arabnews.pk/world/trump-says-putin-would-like-to-see-a-settlement-in-ukraine-war-3003810",
+  "published": "2026-10-11T06:43:25+05:00",
+  "collected": "2026-10-11T10:51+05:00"
+ },
+ {
+  "source": "Arab News Pakistan",
+  "lang": "en",
+  "title": "Coalition Forces vow firm response over Riyadh airport strike, Trump says Houthi attack ‘not acceptable’",
+  "summary": "RIYADH: The Coalition to Support Legitimacy in Yemen has vowed a firm response to a Houthi attack on Riyadh’s King Khalid International Airport that killed 12 people and injured 309 others, as US President Donald Trump condemned the strike as “not acceptable.” Maj. Gen. Turki Al-Maliki, spokesman for the coalition…",
+  "link": "https://www.arabnews.pk/saudi-arabia/coalition-forces-vow-firm-response-over-riyadh-airport-strike-trump-says-houthi-attack-not-acceptable-3003809",
+  "published": "2026-10-11T06:28:03+05:00",
+  "collected": "2026-10-11T10:51+05:00"
+ },
+ {
+  "source": "Arab News Pakistan",
+  "lang": "en",
+  "title": "Ukraine irrelevant to Russia and IOC’s relationship: Russian minister",
+  "summary": "MOSCOW: Ukraine has no business interfering in the International Olympic Committee’s decision to permit Russia’s return as an officially recognized nation after years in the wilderness, Russian Sports Minister Mikhail Degtyarev has told AFP. A Russian team of 13 athletes and 10 coaches will parade with their national…",
+  "link": "https://www.arabnews.pk/world/ukraine-irrelevant-to-russia-and-iocs-relationship-russian-minister-3003808",
+  "published": "2026-10-11T06:26:28+05:00",
+  "collected": "2026-10-11T10:51+05:00"
+ },
+ {
+  "source": "Arab News Pakistan",
+  "lang": "en",
+  "title": "US military says it disabled cargo vessel trying to run Iran blockade",
+  "summary": "DUBAI: ‌The US military said on Saturday ​it had disabled a commercial cargo vessel in the Gulf of Oman after the ship’s ‌crew ignored ‌warnings ​and ‌attempted ⁠to ​run an ⁠ongoing naval blockade against Iran. “A US military fighter jet struck the ⁠stern of Panama-flagged M/V ‌Ocean ‌Molica (also ​known ‌as the…",
+  "link": "https://www.arabnews.pk/middle-east/us-military-says-it-disabled-cargo-vessel-trying-to-run-iran-blockade-3003807",
+  "published": "2026-10-11T05:45:29+05:00",
+  "collected": "2026-10-11T10:51+05:00"
+ },
+ {
+  "source": "Arab News Pakistan",
+  "lang": "en",
+  "title": "International outcry grows after deadly Houthi attack on Riyadh airport",
+  "summary": "International condemnation has intensified following a Houthi missile strike on King Khalid International Airport in Riyadh, which resulted in 12 deaths and over 300 injuries. Leaders from various countries, including the UN Secretary-General and regional allies, have decried the attacks as violations of international…",
+  "link": "https://www.arabnews.pk/saudi-arabia/international-outcry-grows-after-deadly-houthi-attack-on-riyadh-airport-3003806",
+  "published": "2026-10-11T05:17:54+05:00",
+  "collected": "2026-10-11T10:51+05:00"
+ },
+ {
+  "source": "Express Tribune",
+  "lang": "en",
+  "title": "Houthi strike on Saudi airport kills 12, worst attack on kingdom in a decade",
+  "summary": "Trump says Washington was considering joining Saudi strikes on Houthis in conflict",
+  "link": "https://tribune.com.pk/story/2634195/houthi-strike-on-saudi-airport-kills-12-worst-attack-on-kingdom-in-a-decade",
+  "published": "2026-10-11T05:03:22+05:00",
+  "collected": "2026-10-11T10:51+05:00"
+ },
+ {
   "source": "BBC Urdu",
   "lang": "ur",
   "title": "ریاض کے شاہ خالد انٹرنیشنل ایئرپورٹ پر میزائل حملہ، درجنوں افراد زخمی",
@@ -7,6 +448,15 @@
   "link": "https://www.bbc.co.uk/urdu/live/cxg5j2jd7rnjt?at_medium=RSS&at_campaign=rss",
   "published": null,
   "collected": "2026-10-11T04:35+05:00"
+ },
+ {
+  "source": "Express Tribune",
+  "lang": "en",
+  "title": "US military says it disabled vessel attempting to violate blockade",
+  "summary": "CENTCOM alleges ships crew ignored warnings attempted to run naval blockade",
+  "link": "https://tribune.com.pk/story/2634194/us-military-says-it-disabled-vessel-attempting-to-violate-blockade",
+  "published": "2026-10-11T04:33:01+05:00",
+  "collected": "2026-10-11T10:51+05:00"
  },
  {
   "source": "Business Recorder",
@@ -61,6 +511,24 @@
   "link": "https://www.arabnews.pk/world/eu-says-lifting-diesel-sanctions-gives-russia-revenues-to-wage-war-3003804",
   "published": "2026-10-11T02:41:30+05:00",
   "collected": "2026-10-11T04:35+05:00"
+ },
+ {
+  "source": "Express Tribune",
+  "lang": "en",
+  "title": "PTI open to talks as long march presses on",
+  "summary": "Afridi vows no retreat on tribal areas stance without Imran Khan's nod",
+  "link": "https://tribune.com.pk/story/2634187/pti-open-to-talks-as-long-march-presses-on",
+  "published": "2026-10-11T02:21:58+05:00",
+  "collected": "2026-10-11T10:51+05:00"
+ },
+ {
+  "source": "Express Tribune",
+  "lang": "en",
+  "title": "Afridi breaks ground on Rs6.2b flyover",
+  "summary": "K-P CM says the flyover was of critical importance to Peshawar's urban mobility",
+  "link": "https://tribune.com.pk/story/2634189/afridi-breaks-ground-on-rs62b-flyover",
+  "published": "2026-10-11T02:21:58+05:00",
+  "collected": "2026-10-11T10:51+05:00"
  },
  {
   "source": "Business Recorder",
@@ -333,6 +801,24 @@
   "collected": "2026-10-11T04:35+05:00"
  },
  {
+  "source": "Express Tribune",
+  "lang": "en",
+  "title": "Rain forecast promises smog relief",
+  "summary": "Air pollution levels across provincial metropolis vary drastically",
+  "link": "https://tribune.com.pk/story/2634180/rain-forecast-promises-smog-relief",
+  "published": "2026-10-11T01:55:25+05:00",
+  "collected": "2026-10-11T10:51+05:00"
+ },
+ {
+  "source": "Express Tribune",
+  "lang": "en",
+  "title": "'Pakistan's egg consumption far below developed countries'",
+  "summary": "Annual per capita consumption stands at around 100 eggs, compared with 300 in developed countries",
+  "link": "https://tribune.com.pk/story/2634185/pakistans-egg-consumption-far-below-developed-countries",
+  "published": "2026-10-11T01:55:25+05:00",
+  "collected": "2026-10-11T10:51+05:00"
+ },
+ {
   "source": "Arab News Pakistan",
   "lang": "en",
   "title": "Why returning to Syria is only the first step towards rebuilding lives shattered by war",
@@ -342,6 +828,24 @@
   "collected": "2026-10-11T04:35+05:00"
  },
  {
+  "source": "Express Tribune",
+  "lang": "en",
+  "title": "High cost main challenge to treat cancer patients: experts",
+  "summary": "Dr Nida Wahid, Surgeon, emphasises regular self-examination, while survivor Erum Farooq shares her journey",
+  "link": "https://tribune.com.pk/story/2634178/high-cost-main-challenge-to-treat-cancer-patients-experts",
+  "published": "2026-10-11T01:27:58+05:00",
+  "collected": "2026-10-11T10:51+05:00"
+ },
+ {
+  "source": "Express Tribune",
+  "lang": "en",
+  "title": "Wholesalers warn rise in flour prices",
+  "summary": "Price of ordinary wheat had also climbed to Rs145-150 per kg",
+  "link": "https://tribune.com.pk/story/2634177/wholesalers-warn-rise-in-flour-prices",
+  "published": "2026-10-11T01:27:58+05:00",
+  "collected": "2026-10-11T10:51+05:00"
+ },
+ {
   "source": "Arab News Pakistan",
   "lang": "en",
   "title": "WHO unsure what caused pneumonia that killed plague-lab worker in Russia",
@@ -349,6 +853,15 @@
   "link": "https://www.arabnews.pk/world/who-unsure-what-caused-pneumonia-that-killed-plague-lab-worker-in-russia-3003802",
   "published": "2026-10-11T01:22:50+05:00",
   "collected": "2026-10-11T04:35+05:00"
+ },
+ {
+  "source": "The News",
+  "lang": "en",
+  "title": "Federal government decides to impose emergency in KP amid PTI march, say sources",
+  "summary": "President Asif Ali Zardari , Prime Minister Shehbaz Sharif and others present during a meeting in Islamabad on October 10, 2026. — PIDThe federal government has decided to impose an emergency in Khyber Pakhtunkhwa amid the Pakistan Tehreek-e-Insaf’s long march towards Islamabad, said...",
+  "link": "https://www.thenews.pk/story/1442216-federal-government-decides-to-impose-emergency-in-kp-amid-pti-march-say-sources",
+  "published": "2026-10-11T01:12:58+05:00",
+  "collected": "2026-10-11T10:51+05:00"
  },
  {
   "source": "Dawn",
@@ -405,6 +918,24 @@
   "collected": "2026-10-11T04:35+05:00"
  },
  {
+  "source": "Express Tribune",
+  "lang": "en",
+  "title": "PTI govt faces ouster as Centre weighs K-P options",
+  "summary": "President, PM huddle paves way for direct rule Federal cabinet meets today to take final decision",
+  "link": "https://tribune.com.pk/story/2634162/pti-govt-faces-ouster-as-centre-weighs-k-p-options",
+  "published": "2026-10-11T00:25:06+05:00",
+  "collected": "2026-10-11T10:51+05:00"
+ },
+ {
+  "source": "Express Tribune",
+  "lang": "en",
+  "title": "Embattled K-P CM strikes defiant note",
+  "summary": "Says governor's rule will elicit strong response",
+  "link": "https://tribune.com.pk/story/2634163/embattled-k-p-cm-strikes-defiant-note",
+  "published": "2026-10-11T00:25:06+05:00",
+  "collected": "2026-10-11T10:51+05:00"
+ },
+ {
   "source": "Arab News Pakistan",
   "lang": "en",
   "title": "European aviation safety agency reopens Syrian air corridors",
@@ -441,6 +972,60 @@
   "collected": "2026-10-11T04:35+05:00"
  },
  {
+  "source": "Express Tribune",
+  "lang": "en",
+  "title": "Tarar lambasts PTI, K-P government",
+  "summary": "Says 'hours meant for governance spent plotting prisoner's release'",
+  "link": "https://tribune.com.pk/story/2634159/tarar-lambasts-pti-k-p-government",
+  "published": "2026-10-10T23:10:34+05:00",
+  "collected": "2026-10-11T10:51+05:00"
+ },
+ {
+  "source": "Express Tribune",
+  "lang": "en",
+  "title": "Governor's rule or emergency?",
+  "summary": "Provisions deal with distinct questions, including when an emergency may be declared",
+  "link": "https://tribune.com.pk/story/2634151/governors-rule-or-emergency",
+  "published": "2026-10-10T23:10:34+05:00",
+  "collected": "2026-10-11T10:51+05:00"
+ },
+ {
+  "source": "Express Tribune",
+  "lang": "en",
+  "title": "Imran case caught in jurisdictional deadlock",
+  "summary": "SC yet to send records to FCC despite judicial order",
+  "link": "https://tribune.com.pk/story/2634161/imran-case-caught-in-jurisdictional-deadlock",
+  "published": "2026-10-10T23:10:34+05:00",
+  "collected": "2026-10-11T10:51+05:00"
+ },
+ {
+  "source": "Express Tribune",
+  "lang": "en",
+  "title": "ATC records testimonies in Imaan case",
+  "summary": "After a brief adjournment, both accused were presented through video link",
+  "link": "https://tribune.com.pk/story/2634160/atc-records-testimonies-in-imaan-case",
+  "published": "2026-10-10T23:10:34+05:00",
+  "collected": "2026-10-11T10:51+05:00"
+ },
+ {
+  "source": "Express Tribune",
+  "lang": "en",
+  "title": "Goods worth millions at risk as containers held for weeks",
+  "summary": "Medicines, clothes damaged by welding heat",
+  "link": "https://tribune.com.pk/story/2634155/goods-worth-millions-at-risk-as-containers-held-for-weeks",
+  "published": "2026-10-10T23:10:34+05:00",
+  "collected": "2026-10-11T10:51+05:00"
+ },
+ {
+  "source": "Express Tribune",
+  "lang": "en",
+  "title": "Pakistan warns UN of India's false flag op",
+  "summary": "Envoy says Islamabad has capability to defend itself",
+  "link": "https://tribune.com.pk/story/2634158/pakistan-warns-un-of-indias-false-flag-op",
+  "published": "2026-10-10T23:10:34+05:00",
+  "collected": "2026-10-11T10:51+05:00"
+ },
+ {
   "source": "Dawn",
   "lang": "en",
   "title": "Section 144 imposed in Rawalpindi district for a month over 'threat to law and order'",
@@ -457,6 +1042,24 @@
   "link": "https://www.bbc.com/urdu/articles/cmwyvjn9z78po?at_medium=RSS&at_campaign=rss",
   "published": "2026-10-10T22:48:57+05:00",
   "collected": "2026-10-11T04:35+05:00"
+ },
+ {
+  "source": "Express Tribune",
+  "lang": "en",
+  "title": "Eagerly-awaited 'Mango Jatt' holds festive music launch",
+  "summary": "'Film is for all of Pakistan, not just Punjab,' emphasises producer Hareem Farooq in exclusive interview",
+  "link": "https://tribune.com.pk/story/2634144/eagerly-awaited-mango-jatt-holds-festive-music-launch",
+  "published": "2026-10-10T22:48:25+05:00",
+  "collected": "2026-10-11T10:51+05:00"
+ },
+ {
+  "source": "Express Tribune",
+  "lang": "en",
+  "title": "Bohra Festival highlights community's skills, entrepreneurship",
+  "summary": "Event enables vendors to promote their businesses",
+  "link": "https://tribune.com.pk/story/2634146/bohra-festival-highlights-communitys-skills-entrepreneurship",
+  "published": "2026-10-10T22:48:25+05:00",
+  "collected": "2026-10-11T10:51+05:00"
  },
  {
   "source": "Arab News Pakistan",
@@ -594,6 +1197,33 @@
   "collected": "2026-10-11T04:35+05:00"
  },
  {
+  "source": "Express Tribune",
+  "lang": "en",
+  "title": "Economic stability 'borrowed': Iqbal",
+  "summary": "Minister worries stabilisation will carry cost for next general election",
+  "link": "https://tribune.com.pk/story/2634132/economic-stability-borrowed-iqbal",
+  "published": "2026-10-10T21:16:52+05:00",
+  "collected": "2026-10-11T10:51+05:00"
+ },
+ {
+  "source": "Express Tribune",
+  "lang": "en",
+  "title": "FinMin unaware of IMF fuel subsidy objection",
+  "summary": "Says targeted petroleum discounts will continue",
+  "link": "https://tribune.com.pk/story/2634135/finmin-unaware-of-imf-fuel-subsidy-objection",
+  "published": "2026-10-10T21:16:52+05:00",
+  "collected": "2026-10-11T10:51+05:00"
+ },
+ {
+  "source": "Express Tribune",
+  "lang": "en",
+  "title": "Businessmen demand urgent reforms",
+  "summary": "KCCI seeks liveable, secure, economically competitive Karachi",
+  "link": "https://tribune.com.pk/story/2634133/businessmen-demand-urgent-reforms",
+  "published": "2026-10-10T21:16:52+05:00",
+  "collected": "2026-10-11T10:51+05:00"
+ },
+ {
   "source": "Arab News Pakistan",
   "lang": "en",
   "title": "Pakistan president, PM discuss security as government weighs emergency in Khyber Pakhtunkhwa",
@@ -727,6 +1357,60 @@
   "link": "https://www.thenews.pk/story/1442171-islamabad-student-allegedly-dies-by-suicide-after-being-defrauded-in-us-admission-scam",
   "published": "2026-10-10T19:47:00+05:00",
   "collected": "2026-10-11T04:35+05:00"
+ },
+ {
+  "source": "Express Tribune",
+  "lang": "en",
+  "title": "Talks or turmoil?",
+  "summary": "Two rounds of talks last week ended in a stalemate",
+  "link": "https://tribune.com.pk/story/2634118/talks-or-turmoil",
+  "published": "2026-10-10T19:45:47+05:00",
+  "collected": "2026-10-11T10:51+05:00"
+ },
+ {
+  "source": "Express Tribune",
+  "lang": "en",
+  "title": "Overcrowding in prisons",
+  "summary": "Many of those under trial are only there because they can't afford bail",
+  "link": "https://tribune.com.pk/story/2634119/overcrowding-in-prisons",
+  "published": "2026-10-10T19:45:47+05:00",
+  "collected": "2026-10-11T10:51+05:00"
+ },
+ {
+  "source": "Express Tribune",
+  "lang": "en",
+  "title": "Buildings at risk",
+  "summary": "Sindh's problem is not an absence of regulations or even awareness of the risks",
+  "link": "https://tribune.com.pk/story/2634120/buildings-at-risk",
+  "published": "2026-10-10T19:45:47+05:00",
+  "collected": "2026-10-11T10:51+05:00"
+ },
+ {
+  "source": "Express Tribune",
+  "lang": "en",
+  "title": "Rumble in the political jungle",
+  "summary": "PTI's long march turns into a circuitous one",
+  "link": "https://tribune.com.pk/story/2634122/rumble-in-the-political-jungle",
+  "published": "2026-10-10T19:45:47+05:00",
+  "collected": "2026-10-11T10:51+05:00"
+ },
+ {
+  "source": "Express Tribune",
+  "lang": "en",
+  "title": "The poor man's burden",
+  "summary": "World Bank has voiced the muted outcries of the poor",
+  "link": "https://tribune.com.pk/story/2634117/the-poor-mans-burden",
+  "published": "2026-10-10T19:45:47+05:00",
+  "collected": "2026-10-11T10:51+05:00"
+ },
+ {
+  "source": "Express Tribune",
+  "lang": "en",
+  "title": "Arbitration and human rights",
+  "summary": "Report's treatment of contractual cascading points towards a more intriguing possibility",
+  "link": "https://tribune.com.pk/story/2634121/arbitration-and-human-rights",
+  "published": "2026-10-10T19:45:47+05:00",
+  "collected": "2026-10-11T10:51+05:00"
  },
  {
   "source": "Express Tribune",
