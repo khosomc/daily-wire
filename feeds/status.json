@@ -1,26 +1,26 @@
 {
- "run": "2026-10-13T21:02+05:00",
+ "run": "2026-10-14T02:18+05:00",
  "feeds": [
   {
    "feed": "Dawn",
    "ok": true,
-   "items_in_feed": 26,
-   "kept": 26,
-   "new": 18
+   "items_in_feed": 27,
+   "kept": 27,
+   "new": 27
   },
   {
    "feed": "Express Tribune",
    "ok": true,
    "items_in_feed": 73,
    "kept": 62,
-   "new": 33
+   "new": 48
   },
   {
    "feed": "The News",
    "ok": true,
    "items_in_feed": 50,
    "kept": 10,
-   "new": 4
+   "new": 10
   },
   {
    "feed": "Business Recorder",
@@ -41,7 +41,7 @@
    "ok": true,
    "items_in_feed": 20,
    "kept": 20,
-   "new": 3
+   "new": 20
   },
   {
    "feed": "BBC News (Asia)",
@@ -61,8 +61,8 @@
    "feed": "DW",
    "ok": true,
    "items_in_feed": 139,
-   "kept": 0,
-   "new": 0
+   "kept": 1,
+   "new": 1
   },
   {
    "feed": "France 24 (Asia-Pacific)",
@@ -76,14 +76,14 @@
    "ok": true,
    "items_in_feed": 20,
    "kept": 1,
-   "new": 0
+   "new": 1
   },
   {
    "feed": "BBC Urdu",
    "ok": true,
    "items_in_feed": 21,
    "kept": 13,
-   "new": 6
+   "new": 13
   },
   {
    "feed": "Independent Urdu",
