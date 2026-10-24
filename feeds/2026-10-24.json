@@ -1,5 +1,644 @@
 [
  {
+  "source": "Geo News",
+  "lang": "en",
+  "title": "Azeri woman retracts rape allegations, gives suspect 'clean chit' in Lahore assault case",
+  "summary": "Azeri woman, Diana, speaks in a video. — X@MurtazaViewsDiana says earlier statement was made under pressure.Police say two arrested suspects implicated third accused in assault.Accused's wealthy family \"offered bribe to victim\": CM Maryam. LAHORE: An Azerbaijani woman, who...",
+  "link": "https://www.geo.tv/latest/688055-azerbaijani-woman-retracts-rape-allegations-gives-suspect-clean-chit-in-lahore-assault-case",
+  "published": "2026-10-24T17:39:00+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "Geo News",
+  "lang": "en",
+  "title": "Household items 'stolen' from ex-PM Ashraf's Rawalpindi residence",
+  "summary": "Former prime minister and PPP leader Raja Pervez Ashraf speaking in the National Assembly, on August 2, 2021. — NNISuspects allegedly stole carpets, crockery, decorative pieces.Ashraf's secretary claims broken locks found at several locations.Domestic worker assigned to ex-PM...",
+  "link": "https://www.geo.tv/latest/688058-household-items-stolen-from-ex-pm-ashrafs-rawalpindi-residence",
+  "published": "2026-10-24T17:10:08+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "Geo News",
+  "lang": "en",
+  "title": "Pakistan replaces machine-readable passports with e-passports",
+  "summary": "A person holding a Pakistani passport. — AFP. Pakistan has discontinued the issuance of traditional machine-readable passports, with passport offices across the country and Pakistani diplomatic missions abroad now issuing only e-passports, effective October 23, 2026, The...",
+  "link": "https://www.geo.tv/latest/688051-pakistan-replaces-machine-readable-passports-with-e-passports",
+  "published": "2026-10-24T16:55:00+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "Arab News Pakistan",
+  "lang": "en",
+  "title": "Several dead in clashes between rival Ethiopia regional armies",
+  "summary": "Clashes between the Somali and Oromia regional armies in southern Ethiopia have resulted in multiple deaths. The conflict was triggered by a territorial dispute after a flag-raising incident in Moyale.",
+  "link": "https://www.arabnews.pk/world/several-dead-in-clashes-between-rival-ethiopia-regional-armies-3005138",
+  "published": "2026-10-24T16:04:17+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "BBC Urdu",
+  "lang": "ur",
+  "title": "’میری پانچ سال کی محنت چھین لی گئی‘: 13 لاکھ فالوورز والے فنانس انفلوئنسر نے خودکشی کیوں کی؟",
+  "summary": "انسٹاگرام پر انتہائی مقبول اکاؤنٹ ’فنانس ود ہریش‘ چلانے والے وی ہریش منگل کی صبح جنوبی انڈین ریاست تمل ناڈو کے دارالحکومت چنئی کے قریب واقع اپنے گھر میں مردہ پائے گئے تھے۔",
+  "link": "https://www.bbc.com/urdu/articles/c52e9m0rllxdo?at_medium=RSS&at_campaign=rss",
+  "published": "2026-10-24T16:01:00+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "Arab News Pakistan",
+  "lang": "en",
+  "title": "Infant dies of mpox in Pakistan’s Sindh, taking 2027 tally to 12",
+  "summary": "KARACHI: A 53-day-old infant died in Pakistan’s Karachi city on Saturday after contracting monkeypox (mpox) disease, health officials said, raising this year’s death toll from the infection in the southern Sindh province to 12. The infant, a resident of Karachi’s Malir district, underwent a circumcision procedure at…",
+  "link": "https://www.arabnews.pk/pakistan/infant-dies-of-mpox-in-pakistans-sindh-taking-2027-tally-to-12-3005137",
+  "published": "2026-10-24T15:55:31+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "Arab News Pakistan",
+  "lang": "en",
+  "title": "Police fire tear gas as new French demonstrations kick off",
+  "summary": "French police used tear gas to disperse protesters in Lyon during nationwide demonstrations against the high cost of living. Protests occurred despite bans and heightened security in cities across France.",
+  "link": "https://www.arabnews.pk/world/police-fire-tear-gas-as-new-french-demonstrations-kick-off-3005136",
+  "published": "2026-10-24T15:46:29+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "Arab News Pakistan",
+  "lang": "en",
+  "title": "Italy sends hundreds of soldiers to Milan for protest, one of many planned across Europe",
+  "summary": "Italian Premier Giorgia Meloni sends soldiers to Milan amid preparations for new protests. Additional protests are expected in other European cities with varied demands, including housing and education reforms.",
+  "link": "https://www.arabnews.pk/world/italy-sends-hundreds-of-soldiers-to-milan-for-protest-one-of-many-planned-across-europe-3005135",
+  "published": "2026-10-24T15:34:42+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "BBC Urdu",
+  "lang": "ur",
+  "title": "حنا جاوید قتل کیس: ڈی این اے ٹیسٹ سے گھریلو ملازم کے ملوث ہونے کے اشارے ملے ہیں، وزیرِ اعلیٰ مریم نواز کا دعویٰ",
+  "summary": "مریم نواز کا کہنا تھا کہ ڈی این اے ٹیسٹ کے نتائج اور پولی گرافک ٹیسٹ سے اشارہ ملتا ہے کہ راولپنڈی کی 45 سالہ خاتون حنا جاوید کے ساتھ قتل اور ریپ کا ارتکاب ملازم نے کیا ہے۔",
+  "link": "https://www.bbc.com/urdu/articles/cm89zpq58yv5o?at_medium=RSS&at_campaign=rss",
+  "published": "2026-10-24T15:27:16+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "BBC Urdu",
+  "lang": "ur",
+  "title": "حوثیوں اور سعودی عرب کی جنگ: دونوں کا آپس میں تنازع کیا ہے؟",
+  "summary": "اِس ہفتے کے سربین میں ہم نے یہ سمجھنے کی کوشش کی ہے کہ یمن کے حوثیوں اور سعودی عرب کا آپس میں مسئلہ کیا ہے۔ اِس جنگ کی اصل وجوہات کیا ہیں",
+  "link": "https://www.bbc.com/urdu/articles/cje36w574e6po?at_medium=RSS&at_campaign=rss",
+  "published": "2026-10-24T15:21:57+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "Arab News Pakistan",
+  "lang": "en",
+  "title": "‘Passion for Asia’: Saudi Arabia ready to host AFC Asian Cup, says Mohammed Al-Ghamdi",
+  "summary": "Saudi Arabia is fully prepared to host the AFC Asian Cup from January 7 to February 5, 2024, according to Mohammed Al-Ghamdi, media director of the local organizing committee. With 80% readiness for venues and an innovative Ahlan app for fans, the tournament will feature 24 teams across three cities and aims to…",
+  "link": "https://www.arabnews.pk/sport/passion-for-asia-saudi-arabia-ready-to-host-afc-asian-cup-says-mohammed-al-ghamdi-3005134",
+  "published": "2026-10-24T15:08:56+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "Geo News",
+  "lang": "en",
+  "title": "ISI, IB officials included in JIT formed to probe Mir Raza murder",
+  "summary": "Late businessman Mir Raza Ali speaks in a video. — YouTube/FileJIT to include representatives from Sindh Rangers, NCCIA.Sindh govt recommends removing Dr Osama from position.Govt decides to establish further probe committee into case. KARACHI: The Sindh government has...",
+  "link": "https://www.geo.tv/latest/688042-isi-ib-officials-included-in-jit-formed-to-probe-mir-raza-murder",
+  "published": "2026-10-24T15:04:00+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "Business Recorder",
+  "lang": "en",
+  "title": "Gold prices in Pakistan fall for fifth consecutive day",
+  "summary": "Gold prices in Pakistan decreased on Saturday in line with their loss in the international market. In the local market, gold price per tola reached Rs422,036 after a decline of Rs2,500 during the day. Similarly, 10-gram gold was sold at Rs361,827 after it fell by Rs2,144, according to rates shared by the All-Pakistan…",
+  "link": "https://www.brecorder.com/news/40445752/gold-prices-in-pakistan-fall-for-fifth-consecutive-day",
+  "published": "2026-10-24T14:59:27+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "Arab News Pakistan",
+  "lang": "en",
+  "title": "Pakistan Railways declares emergency until Dec. 31 amid safety concerns",
+  "summary": "ISLAMABAD: Railways Minister Hanif Abbasi has declared an emergency in the Pakistan Railways till Dec. 31 to ensure safe operations, state media reported on Saturday, amid surging train accidents in the country. Train accidents are relatively common in Pakistan, where the railway system has suffered from decades of…",
+  "link": "https://www.arabnews.pk/pakistan/pakistan-railways-declares-emergency-until-dec-31-amid-safety-concerns-3005133",
+  "published": "2026-10-24T14:43:13+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "Business Recorder",
+  "lang": "en",
+  "title": "South Africa paceman Nortje ruled out of third Test",
+  "summary": "CAPE TOWN: South African quick bowler Anrich Nortje is out of the last test against Australia after a groin injury suffered early in the comprehensive second test victory in Gqeberha this week, Cricket South Africa said on Saturday. The 32-year-old Nortje pulled up in his fourth over and played no further part in the…",
+  "link": "https://www.brecorder.com/news/40445751/south-africa-paceman-nortje-ruled-out-of-third-test",
+  "published": "2026-10-24T14:41:26+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "Independent Urdu",
+  "lang": "ur",
+  "title": "خیبرپختونخوا کے معدنی وسائل پر تحفظات، گورنر کا لائسنسوں کے آڈٹ کا اعلان",
+  "summary": "خیبر پختونخوا معدنی ذخائر سے مالا مال صوبہ ہے لیکن گذشتہ چند ہفتوں سے سوشل میڈیا پر ان وسائل کی تلاش اور کان کنی کے لیے لائسنسوں کے اجرا پر بحث جاری ہے۔ گورنر فیصل کریم کنڈی معدنیات نکالنے اور ان میں پاکستانی و بین الاقوامی کمپنیوں کو سرمایہ کاری کی دعوت دینے کی بات کر رہے ہیں، جبکہ پاکستان تحریک انصاف (پی ٹی آئی) کے…",
+  "link": "https://www.independenturdu.com/node/188421",
+  "published": "2026-10-24T14:37:44+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "Arab News Pakistan",
+  "lang": "en",
+  "title": "‘Da Hawaiian’ retains super heavyweight title at Power Slap 25 in Abu Dhabi",
+  "summary": "ABU DHABI: Dayne “Da Hawaiian Hitman” Viernes defeated Vasilii “Dumpling” Kamotskii by unanimous decision to retain the super heavyweight title at Power Slap 25 presented by Monster Energy at Space42 Arena in Abu Dhabi on Friday. In a highly anticipated rematch and in front of a capacity audience, Viernes and…",
+  "link": "https://www.arabnews.pk/sport/da-hawaiian-retains-super-heavyweight-title-at-power-slap-25-in-abu-dhabi-3005132",
+  "published": "2026-10-24T14:19:56+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "Business Recorder",
+  "lang": "en",
+  "title": "Muslim, European countries seek negotiated solutions to regional conflicts",
+  "summary": "Pakistan, Türkiye, Egypt and Saudi Arabia, collectively referred to as the R4, along with France, Germany, Italy and the United Kingdom, have called for urgent efforts to address regional conflicts through dialogue, diplomacy and de-escalation. The understanding was reached at a meeting of the foreign ministers of the…",
+  "link": "https://www.brecorder.com/news/40445750/muslim-european-countries-seek-negotiated-solutions-to-regional-conflicts",
+  "published": "2026-10-24T14:13:01+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "Dawn",
+  "lang": "en",
+  "title": "R4, European nations call for dialogue to resolve Middle East conflicts: FO",
+  "summary": "Pakistan and other countries have called for dialogue, diplomacy and de-escalation to resolve regional conflicts, reaffirming their commitment to efforts aimed at promoting peace and stability, according to a joint statement issued by the Foreign Office (FO) on Saturday. The foreign ministers of Turkiye, Egypt,…",
+  "link": "https://www.dawn.com/news/2039478/r4-european-nations-call-for-dialogue-to-resolve-middle-east-conflicts-fo",
+  "published": "2026-10-24T14:03:22+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "Independent Urdu",
+  "lang": "ur",
+  "title": "مودی کی رہائش گاہ والی سڑک کی تزئین و آرائش، تاریخی مسجد خطرے میں",
+  "summary": "ایک صدی سے زیادہ عرصے سے مسلمانوں کی کئی نسلیں انڈیا کے دارالحکومت نئی دہلی کے قلب میں واقع اس مسجد میں عبادت کرتی آئی ہیں، جو وزیراعظم نریندر مودی کی سرکاری رہائش گاہ کے عین سامنے سڑک پار واقع ہے۔ اب خود انڈین جمہوریہ سے بھی زیادہ قدیم اس تاریخی مسجد کو منہدم کیے جانے کا خطرہ لاحق ہے۔ قریب ہی بلڈوزر کام کر رہے ہیں…",
+  "link": "https://www.independenturdu.com/node/188419",
+  "published": "2026-10-24T14:00:11+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "Dawn",
+  "lang": "en",
+  "title": "UAE diplomat vying for UN's top job",
+  "summary": "An Emirati official with Palestinian roots, Lana Nusseibeh has emerged as a late frontrunner in the race to lead the United Nations, campaigning on a reformist agenda and vowing to work for peace. Since her official nomination on Wednesday, she has already garnered the backing of Gulf states but also faced scrutiny…",
+  "link": "https://www.dawn.com/news/2039476/uae-diplomat-vying-for-uns-top-job",
+  "published": "2026-10-24T13:54:09+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "The News",
+  "lang": "en",
+  "title": "Azeri woman withdraws rape allegations against suspect in Lahore assault case",
+  "summary": "Azeri woman, Diana, speaks in a video. — Screengrab via X@MurtazaViewsLAHORE: An Azerbaijani woman who had accused three men of sexually assaulting her in Lahore has withdrawn the allegations in a fresh video statement, claiming she was pressured into making the earlier claims.The victim,...",
+  "link": "https://www.thenews.pk/story/1444855-azeri-woman-withdraws-rape-allegations-against-suspect-in-lahore-assault-case",
+  "published": "2026-10-24T13:50:00+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "Arab News Pakistan",
+  "lang": "en",
+  "title": "Health, water, innovation — 6 female Arab scientists in the spotlight",
+  "summary": "Six female Arab scientists were honored at the L’Oreal-UNESCO For Women in Science Middle East event for their innovative contributions to healthcare, environmental protection, and water security. Their research addresses pressing regional challenges, with projects ranging from improving medical imaging and developing…",
+  "link": "https://www.arabnews.pk/saudi-arabia/health-water-innovation-6-female-arab-scientists-in-the-spotlight-3005131",
+  "published": "2026-10-24T13:49:34+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "Dawn",
+  "lang": "en",
+  "title": "Section 144 imposed in Upper, Lower South Waziristan over security concerns",
+  "summary": "SOUTH WAZIRISTAN: The district administrations of Lower and Upper South Waziristan imposed Section 144 restrictions for Saturday, restricting movement in several areas and closing markets and major routes amid security concerns and the movement of logistical supplies for security forces. Lower South Waziristan Deputy…",
+  "link": "https://www.dawn.com/news/2039477/section-144-imposed-in-upper-lower-south-waziristan-over-security-concerns",
+  "published": "2026-10-24T13:48:43+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "Business Recorder",
+  "lang": "en",
+  "title": "Ronaldinho to return to action with Italian club Ravenna",
+  "summary": "Brazil great Ronaldinho will return to competitive football next month when he plays ​for Italian third-tier side Ravenna against ‌local rivals Forli on November 15, the Serie C club announced on Friday. The 46-year-old former Barcelona ​and AC Milan forward, who won ​the 2002 World Cup with Brazil and ⁠the Ballon…",
+  "link": "https://www.brecorder.com/news/40445749/ronaldinho-to-return-to-action-with-italian-club-ravenna",
+  "published": "2026-10-24T13:25:30+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "Arab News Pakistan",
+  "lang": "en",
+  "title": "To bring down Netanyahu, Arab-Israeli parties ready for opposition alliance",
+  "summary": "Arab-Israeli parties are preparing to form an opposition alliance to challenge Prime Minister Benjamin Netanyahu in the upcoming elections, aiming to influence the outcome significantly.",
+  "link": "https://www.arabnews.pk/middle-east/to-bring-down-netanyahu-arab-israeli-parties-ready-for-opposition-alliance-3005130",
+  "published": "2026-10-24T13:23:02+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "Arab News Pakistan",
+  "lang": "en",
+  "title": "Israel imposes closures across a West Bank city after attacks",
+  "summary": "Israel has enacted closures and evacuations in Hebron in response to attacks. A senior Iranian military commander has warned against US warships entering the Arabian Gulf amid rising tensions.",
+  "link": "https://www.arabnews.pk/middle-east/israel-imposes-closures-across-a-west-bank-city-after-attacks-3005129",
+  "published": "2026-10-24T13:21:35+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "Business Recorder",
+  "lang": "en",
+  "title": "Sindh govt orders probe into alleged police negligence in Mir Raza case",
+  "summary": "The Sindh government has formed a joint investigation team (JIT) to reinvestigate the murder of young businessman Mir Raza Ali in light of a judicial commission’s report, while a separate committee will examine alleged police negligence and possible attempts to cover up the case, Aaj News reported on Saturday. The JIT…",
+  "link": "https://www.brecorder.com/news/40445748/sindh-govt-orders-probe-into-alleged-police-negligence-in-mir-raza-case",
+  "published": "2026-10-24T13:13:17+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "Arab News Pakistan",
+  "lang": "en",
+  "title": "Pakistan, Saudi Arabia, European powers urge diplomacy amid Middle East conflicts",
+  "summary": "ISLAMABAD: The foreign ministers of the R4 group of nations and their counterparts from the UK, France, Germany and Italy discussed conflicts in the Middle East, a joint statement issued on Saturday said, stressing the need to resolve them through dialogue and diplomacy. The R4 or Regional Four group comprises Saudi…",
+  "link": "https://www.arabnews.pk/pakistan/pakistan-saudi-arabia-european-powers-urge-diplomacy-amid-middle-east-conflicts-3005128",
+  "published": "2026-10-24T13:10:54+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "Business Recorder",
+  "lang": "en",
+  "title": "Elena Rybakina into Ningbo semifinals",
+  "summary": "World No. 1 Elena Rybakina of Kazakhstan advanced to the Ningbo Open semifinals with a three-set win Friday ​against Poland’s Katarzyna Kawa in China. In a match ‌with a combined nine service breaks, the top-seeded Rybakina completed her 6-1, 3-6, 6-1 victory in 1 hour and 45 minutes thanks ​to a 29-14 advantage in…",
+  "link": "https://www.brecorder.com/news/40445747/elena-rybakina-into-ningbo-semifinals",
+  "published": "2026-10-24T13:09:02+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "Dawn",
+  "lang": "en",
+  "title": "Mir Raza murder case: Sindh govt asks agencies, Sindh Rangers to nominate JIT members",
+  "summary": "The Sindh government has written to the Inter-Services Intelligence (ISI), the Intelligence Bureau (IB), the National Cyber Crime Investigation Agency and the Sindh Rangers to nominate members to a joint investigation team (JIT), recommended by a judicial panel , to investigate Mir Raza Ali’s murder, it emerged on…",
+  "link": "https://www.dawn.com/news/2039466/mir-raza-murder-case-sindh-govt-asks-agencies-sindh-rangers-to-nominate-jit-members",
+  "published": "2026-10-24T13:08:47+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "BBC Urdu",
+  "lang": "ur",
+  "title": "’فینٹانائل‘ گھریلو ساختہ نئی مصنوعی منشیات جس کا بحران کہیں زیادہ خطرناک ہے: ’اب آپ کو پتا ہی نہیں ہوتا کہ منشیات میں ہے کیا‘",
+  "summary": "امریکہ میں فینٹانائل سمیت نئی مصنوعی منشیات کے پھیلاؤ نے نشے کا بحران مزید سنگین کر دیا ہے۔ ان منشیات کے خطرناک اثرات سے نمٹنے کے لیے ماہرین کا کہنا ہے کہ اسمگلنگ روکنے کے ساتھ نشے کے عادی افراد کے علاج اور بحالی پر بھی توجہ دینا ضروری ہے۔",
+  "link": "https://www.bbc.com/urdu/articles/cm9wzy5wwgj4o?at_medium=RSS&at_campaign=rss",
+  "published": "2026-10-24T13:06:42+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "Arab News Pakistan",
+  "lang": "en",
+  "title": "Quarterfinal match-ups decided on final day of round robin action in Kings League MENA",
+  "summary": "On the final day of the league phase in Kings League MENA Split 1, teams 3BS and Turbo clinched the last quarterfinal spots by defeating DR7 and Bakhira FC, respectively. The upcoming quarterfinal match-ups include Red Zone vs. RA2, Turbo vs. Ultra Chmicha, and DR7 vs. 3BS, while FWZ has already secured a place in the…",
+  "link": "https://www.arabnews.pk/sport/quarterfinal-match-ups-decided-on-final-day-of-round-robin-action-in-kings-league-mena-3005127",
+  "published": "2026-10-24T13:06:41+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "Dawn",
+  "lang": "en",
+  "title": "4 children killed as van plunges into ravine in Neelum Valley",
+  "summary": "MUZAFFARABAD: Four children were killed and three other people were injured when a van carrying them to a madrasah plunged into a ravine in the upper reaches of Neelum Valley on Saturday, officials said. Neelum Valley District Disaster Management Officer Akhtar Ayoub said the van was travelling from Nagdar, about 22…",
+  "link": "https://www.dawn.com/news/2039471/4-children-killed-as-van-plunges-into-ravine-in-neelum-valley",
+  "published": "2026-10-24T12:58:42+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "Business Recorder",
+  "lang": "en",
+  "title": "Mumbai Indians promote Pollard to head coach, replacing Jayawardene",
+  "summary": "Mumbai Indians have appointed Kieron Pollard as head coach for the 2027 ​season in place of Mahela Jayawardene, ‌the Indian Premier League team said on Saturday. Pollard, who helped the West Indies win the ​Twenty20 World Cup in 2012 and ​won five IPL titles with the Mumbai ⁠Indians between 2013 and 2020, served ​as…",
+  "link": "https://www.brecorder.com/news/40445746/mumbai-indians-promote-pollard-to-head-coach-replacing-jayawardene",
+  "published": "2026-10-24T12:58:35+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "Arab News Pakistan",
+  "lang": "en",
+  "title": "700 square kilometers under Israeli occupation in Lebanon: What does the ‘security belt’ mean?",
+  "summary": "Israel’s expanding operations in southern Lebanon are raising questions about how much territory its forces actually occupy, and how much they control through surveillance, firepower and the ability to launch attacks from forward positions. Israeli Defense Minister Israel Katz has repeatedly cited an area of roughly…",
+  "link": "https://www.arabnews.pk/middle-east/700-square-kilometers-under-israeli-occupation-in-lebanon-what-does-the-security-belt-mean-3005126",
+  "published": "2026-10-24T12:46:17+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "BBC Urdu",
+  "lang": "ur",
+  "title": "کیا خلیجی معیشتیں جنگ اور جغرافیائی چیلنجوں کے سامنے ڈٹ سکیں گی؟",
+  "summary": "امریکہ، اسرائیل اور ایران کے درمیان جاری جنگ کے باعث توانائی کی پیداوار اور برآمدات متاثر ہونے سے خلیجی معیشتوں کو معاشی دباؤ کا سامنا ہے، اور آئی ایم ایف کے مطابق جی سی سی کے چھ میں سے پانچ ممالک سکڑاؤ کی زد میں آ سکتے ہیں۔",
+  "link": "https://www.bbc.com/urdu/articles/c6ly0r1w0yyro?at_medium=RSS&at_campaign=rss",
+  "published": "2026-10-24T12:31:54+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "Independent Urdu",
+  "lang": "ur",
+  "title": "پاکستان سمیت 8 ممالک کا مشرق وسطیٰ کے تنازعات مذاکرات سے حل کرنے پر زور",
+  "summary": "پاکستان، ترکی، سعودی عرب، مصر، فرانس، جرمنی، اٹلی اور برطانیہ کے وزرائے خارجہ نے علاقائی تنازعات کے حل کے لیے مذاکرات، سفارت کاری اور کشیدگی میں کمی کی ضرورت پر زور دیتے ہوئے کہا ہے کہ تمام زیرالتوا تنازعات کا پائیدار حل اقوام متحدہ کی متعلقہ قراردادوں کے مطابق مذاکرات کے ذریعے تلاش کیا جانا چاہیے۔ ترکی کے شہر استنبول…",
+  "link": "https://www.independenturdu.com/node/188420",
+  "published": "2026-10-24T12:30:52+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "Arab News Pakistan",
+  "lang": "en",
+  "title": "Intense diplomacy ongoing as Egypt seeks to avert regional escalation: foreign ministry spokesman",
+  "summary": "The spokesperson for the Egyptian Ministry of Foreign Affairs, Ambassador Nader Zaki, said on Friday that the region is experiencing a state of anxiety and anticipation regarding signs of a potential additional escalation, noting intense diplomatic efforts to contain it before it occurs. He emphasized that Egypt urges…",
+  "link": "https://www.arabnews.pk/middle-east/intense-diplomacy-ongoing-as-egypt-seeks-to-avert-regional-escalation-foreign-ministry-spokesman-3005125",
+  "published": "2026-10-24T12:25:04+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "Business Recorder",
+  "lang": "en",
+  "title": "US embassy says security ramped up in Jordan after deadly church attack",
+  "summary": "The US embassy ​in Amman said security ‌had been stepped up at malls, foreign embassies and ​other locations across Jordan ​after Friday’s attack on ⁠a church in Jordan’s ​Karak governorate. Seven people were ​killed and dozens were injured when gunmen opened fire during a ​funeral at a ​church, the head of the…",
+  "link": "https://www.brecorder.com/news/40445745/us-embassy-says-security-ramped-up-in-jordan-after-deadly-church-attack",
+  "published": "2026-10-24T12:24:52+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "Arab News Pakistan",
+  "lang": "en",
+  "title": "North Korean leader arrives in Chinese border city, Yonhap says",
+  "summary": "North Korean leader Kim Jong Un has arrived in Dandong, China, using a new bridge that enhances economic ties between the two countries. The bridge, officially opened a week ago, connects China with the diplomatically isolated nation.",
+  "link": "https://www.arabnews.pk/world/north-korean-leader-arrives-in-chinese-border-city-yonhap-says-3005124",
+  "published": "2026-10-24T12:19:27+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "Business Recorder",
+  "lang": "en",
+  "title": "Pakistan condemns deadly church attack in Jordan that kills seven",
+  "summary": "Pakistan on Saturday “strongly condemned” a terrorist attack at a church in Jordan’s Karak Governorate that killed at least seven people and injured 10 others. In a statement, the Foreign Office expressed condolences to the government and people of the Hashemite Kingdom of Jordan, particularly the bereaved families,…",
+  "link": "https://www.brecorder.com/news/40445744/pakistan-condemns-deadly-church-attack-in-jordan-that-kills-seven",
+  "published": "2026-10-24T12:18:40+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "Arab News Pakistan",
+  "lang": "en",
+  "title": "Aden governor after escaping airport missile attack: hostilities will not deter people of Yemen",
+  "summary": "Aden Governor Abdulrahman Sheikh narrowly escaped a missile attack shortly after inspecting renovations at Aden International Airport. Despite the threat, he emphasized that such hostilities will not deter Yemenis from their duties and will not halt ongoing reconstruction efforts, even as the city faces significant…",
+  "link": "https://www.arabnews.pk/middle-east/aden-governor-after-escaping-airport-missile-attack-hostilities-will-not-deter-people-of-yemen-3005123",
+  "published": "2026-10-24T12:18:06+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "Arab News Pakistan",
+  "lang": "en",
+  "title": "Yemeni, international efforts underway to open route into besieged Taiz within days",
+  "summary": "Yemeni officials, in collaboration with local authorities and humanitarian organizations, are working to open a vital route into besieged Taiz to deliver urgently needed relief supplies, including fuel and medicines, within days. Minister Nayef al-Bakri emphasized ongoing efforts to support the city's resilient…",
+  "link": "https://www.arabnews.pk/middle-east/yemeni-international-efforts-underway-to-open-route-into-besieged-taiz-within-days-3005122",
+  "published": "2026-10-24T12:14:50+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "Arab News Pakistan",
+  "lang": "en",
+  "title": "On World Polio Day, Pakistan urges parents to ensure children’s vaccination",
+  "summary": "ISLAMABAD: Pakistan’s President Asif Ali Zardari has urged parents and caregivers to ensure their children were vaccinated against poliovirus, as the international community marks World Polio Day today, Saturday, to raise about the disease. Polio is a highly contagious and incurable disease that can cause lifelong…",
+  "link": "https://www.arabnews.pk/pakistan/on-world-polio-day-pakistan-urges-parents-to-ensure-childrens-vaccination-3005121",
+  "published": "2026-10-24T12:14:35+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "Arab News Pakistan",
+  "lang": "en",
+  "title": "Iranian president to meet Putin in Moscow: Iran media",
+  "summary": "Iranian President Massoud Pezeshkian is set to meet with Russian President Vladimir Putin in Moscow for talks and to attend a meeting of gas-exporting countries. This visit marks a strengthening relationship between the two sanctioned nations.",
+  "link": "https://www.arabnews.pk/middle-east/iranian-president-to-meet-putin-in-moscow-iran-media-3005120",
+  "published": "2026-10-24T12:05:31+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "Dawn",
+  "lang": "en",
+  "title": "Haris Rauf calls for middle-over breakthroughs as ODI scores soar",
+  "summary": "One-day International cricket has gone through changes over the years, but one of the aspects of the game that has continued to be crucial is the importance of taking wickets in the middle overs. In the span of the last three years, which included Pakistan’s dismal 2023 World Cup campaign in India, the national side’s…",
+  "link": "https://www.dawn.com/news/2039469/haris-rauf-calls-for-middle-over-breakthroughs-as-odi-scores-soar",
+  "published": "2026-10-24T12:00:47+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "The News",
+  "lang": "en",
+  "title": "Sindh forms JIT including ISI, IB officials to probe Mir Raza murder case",
+  "summary": "Late businessman Mir Raza Ali speaks in a video. — YouTube/FileKARACHI: The Sindh government has constituted a joint investigation team to investigate the murder of Mir Raza in line with the recommendations of a judicial commission established to examine the case.DIG Irfan Ali Baloch has...",
+  "link": "https://www.thenews.pk/story/1444850-sindh-forms-jit-including-isi-ib-officials-to-probe-mir-raza-murder-case",
+  "published": "2026-10-24T11:47:00+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "Independent Urdu",
+  "lang": "ur",
+  "title": "’انتہائی فضول رپورٹر‘: ٹرمپ ایک اور صحافی پر بھڑک اٹھے",
+  "summary": "امریکی صدر ڈونلڈ ٹرمپ جمعے کو ایک اور صحافی پر بھڑک اٹھے، جب انہوں نے کہا کہ انہیں ریاست اوہائیو کی گورنر کی (ڈیموکریٹ) امیدوار ایمی ایکٹن کے آنجہانی سوتیلے باپ کے ہاتھوں ریپ کا نشانہ بننے کے ماضی کی کوئی پروا نہیں ہے۔ ڈونلڈ ٹرمپ نے ایمی ایکٹن کو نشانہ بنانے والے اس اشتہار کی حمایت جاری رکھی، جس کی بڑے پیمانے پر مذمت…",
+  "link": "https://www.independenturdu.com/node/188417",
+  "published": "2026-10-24T11:30:37+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "Independent Urdu",
+  "lang": "ur",
+  "title": "شادیوں کی رونقوں کے درمیان آرام کیسے کریں؟",
+  "summary": "شادیوں کا موسم ہو یا تہواروں کی چہل پہل، رات گئے تک تقریبات، دوستوں کی محفلیں، تاش کے کھیل اور مسلسل جاگنا معمول بن جاتا ہے۔ کئی لوگ ان دنوں صرف دو یا تین گھنٹے کی نیند پر گزارا کرتے ہیں اور پھر اگلی صبح ایک مضبوط کافی کے سہارے دن کا آغاز کرتے ہیں، لیکن جسم کی اپنی حد ہوتی ہے اور ایک وقت کے بعد تھکن، بے ترتیبی اور…",
+  "link": "https://www.independenturdu.com/node/188397",
+  "published": "2026-10-24T11:30:34+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "Business Recorder",
+  "lang": "en",
+  "title": "Tsunami warning lifted after earthquake off Vanuatu",
+  "summary": "SYDNEY: A tsunami warning has been lifted after a 6.9 magnitude earthquake off the coast of Vanuatu on Saturday, the Pacific Tsunami Warning Centre said. The magnitude of the earthquake was revised to 6.9, down from an earlier estimate of 7.2 magnitude, the centre said in an update. Vanuatu’s Geological Hazards…",
+  "link": "https://www.brecorder.com/news/40445743/tsunami-warning-lifted-after-earthquake-off-vanuatu",
+  "published": "2026-10-24T11:24:57+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "Business Recorder",
+  "lang": "en",
+  "title": "Two explosions heard in Riyadh following alert",
+  "summary": "RIYADH: Two explosions rang out in Riyadh early Saturday, an AFP journalist in the Saudi capital said, as Yemen’s Houthis keep up strikes on the kingdom. The Saudi civil defence said an early warning system was activated to alert residents to a potential threat. Gulf shipping traffic via Hormuz stays below 10-day…",
+  "link": "https://www.brecorder.com/news/40445742/two-explosions-heard-in-riyadh-following-alert",
+  "published": "2026-10-24T11:21:05+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "Arab News Pakistan",
+  "lang": "en",
+  "title": "US embassy says security ramped up in Jordan after deadly church attack",
+  "summary": "The US embassy announced increased security in Jordan following a deadly attack on a church in the Karak governorate. The measure aims to protect various locations, including malls and foreign embassies.",
+  "link": "https://www.arabnews.pk/middle-east/us-embassy-says-security-ramped-up-in-jordan-after-deadly-church-attack-3005119",
+  "published": "2026-10-24T11:15:04+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "Business Recorder",
+  "lang": "en",
+  "title": "North Korea's Kim calls for training world's 'strongest' military",
+  "summary": "SEOUL: North Korean leader Kim Jong Un urged his military to train to become the strongest in the world at a two-day meeting of company commanders in Pyongyang, state media said Saturday. Kim’s call for what he dubbed a “Korean-style military revolution” came the same week Seoul’s military proposed talks to clarify…",
+  "link": "https://www.brecorder.com/news/40445741/north-koreas-kim-calls-for-training-worlds-strongest-military",
+  "published": "2026-10-24T11:12:32+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "Dawn",
+  "lang": "en",
+  "title": "Trump’s threat to strike Iran raises public concerns, congressional questions",
+  "summary": "WASHINGTON: President Donald Trump has renewed his threat of military action against Iran, raising questions about public support for the war and Congress’s ability to restrain further escalation . With midterm elections approaching on November 3, polls show widespread dissatisfaction with the war , particularly over…",
+  "link": "https://www.dawn.com/news/2039463/trumps-threat-to-strike-iran-raises-public-concerns-congressional-questions",
+  "published": "2026-10-24T11:06:39+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "Business Recorder",
+  "lang": "en",
+  "title": "USDA attache sees Brazil 2026-27 soybean crop at 184.0 million T",
+  "summary": "Farmers in Brazil are expected to harvest 184 million metric tons of soybeans in the 2026-27 marketing year, the US Department of Agriculture’s attache in Brasilia said in a report released on Thursday. The unofficial forecast in the attache’s report, issued by the USDA’s Foreign Agricultural Service, is below USDA’s…",
+  "link": "https://www.brecorder.com/news/40445740/usda-attache-sees-brazil-2026-27-soybean-crop-at-1840-million-t",
+  "published": "2026-10-24T10:59:29+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "Dawn",
+  "lang": "en",
+  "title": "Pakistan denounces ‘heinous’ church attack in Jordan, reiterates condemnation of terrorism",
+  "summary": "Pakistan has strongly condemned the “heinous terrorist attack” on a funeral procession at a church in Jordan’s Karak Governorate, reiterating its condemnation of terrorism in all its forms and manifestations. Gunmen killed at least seven people and wounded dozens at a church in southern Jordan on Friday. According to…",
+  "link": "https://www.dawn.com/news/2039464/pakistan-denounces-heinous-church-attack-in-jordan-reiterates-condemnation-of-terrorism",
+  "published": "2026-10-24T10:57:04+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "Business Recorder",
+  "lang": "en",
+  "title": "Police officers resign after fatal shooting of Black child in Mississippi",
+  "summary": "WASHINGTON: A police officer in Mississippi who fatally shot a 1-year-old Black child in a Walmart parking lot in June and the interim police chief in the city where the shooting took place have resigned, local officials said on Friday. Hunter Foster, the officer who shot the child, resigned from the Senatobia Police…",
+  "link": "https://www.brecorder.com/news/40445739/police-officers-resign-after-fatal-shooting-of-black-child-in-mississippi",
+  "published": "2026-10-24T10:54:11+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "Business Recorder",
+  "lang": "en",
+  "title": "Donald Trump says US may do another military operation against Iran",
+  "summary": "FORT MYERS: President Donald Trump said on Friday the US may carry out another military operation against Iran just as the Iran war nears its eight-month mark and rising fuel prices weigh on the US midterm elections. “We may do another little Epic Fury,” Trump told a rally in Florida, using the US military’s term for…",
+  "link": "https://www.brecorder.com/news/40445738/donald-trump-says-us-may-do-another-military-operation-against-iran",
+  "published": "2026-10-24T10:48:52+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "Business Recorder",
+  "lang": "en",
+  "title": "Suspect arrested as fire engulfs Hitler's 'Eagle's Nest' retreat, German police say",
+  "summary": "BERLIN: German police said they had detained a suspect after fire broke out at a historic mountain guest house known as the “Eagle’s Nest” that was a favourite retreat of Nazi leader Adolf Hitler. Two German officers injured in explosion outside police building Around 200 fire fighters and emergency personnel in the…",
+  "link": "https://www.brecorder.com/news/40445737/suspect-arrested-as-fire-engulfs-hitlers-eagles-nest-retreat-german-police-say",
+  "published": "2026-10-24T10:43:52+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "Business Recorder",
+  "lang": "en",
+  "title": "Typhoon Champi sweeps past Taiwan, leaving 1 dead, 500 injured",
+  "summary": "YILAN: Typhoon Champi swept past Taiwan on Saturday, killing 1 person and injuring more than 500, downing trees and severing power, as it continued to weaken and head north towards the Chinese coast though it was not expected to make landfall there. At one point a super typhoon and one of the strongest storms in the…",
+  "link": "https://www.brecorder.com/news/40445736/typhoon-champi-sweeps-past-taiwan-leaving-1-dead-500-injured",
+  "published": "2026-10-24T10:40:50+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "Dawn",
+  "lang": "en",
+  "title": "Israel launches major West Bank operation after soldiers killed",
+  "summary": "Israel’s military launched an operation in the occupied West Bank on Friday, which it said would last several days and include searches and building demolitions, after gunmen killed two soldiers days ahead of Israeli elections in which security has been a key focus. Prime Minister Benjamin Netanyahu is locked in a…",
+  "link": "https://www.dawn.com/news/2039462/israel-launches-major-west-bank-operation-after-soldiers-killed",
+  "published": "2026-10-24T10:33:56+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "Business Recorder",
+  "lang": "en",
+  "title": "Bolsonaro and Lula clash on living costs, corruption in final Brazil election debate",
+  "summary": "SAO PAULO: Brazilian Senator Flavio Bolsonaro and President Luiz Inacio Lula da Silva sparred over the cost of living and traded personal attacks on Friday in the last presidential debate before Sunday’s runoff, as both candidates sought to win over undecided voters amid a tight race. Bolsonaro, son of former…",
+  "link": "https://www.brecorder.com/news/40445735/bolsonaro-and-lula-clash-on-living-costs-corruption-in-final-brazil-election-debate",
+  "published": "2026-10-24T10:25:27+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "Dawn",
+  "lang": "en",
+  "title": "Fire breaks out at Hitler's mountain retreat, suspect detained: police",
+  "summary": "German police said Saturday they had detained a suspect following a fire at Adolf Hitler’s mountain retreat, known as the Eagle’s Nest, in the state of Bavaria. Around 200 firefighters were deployed to tackle the blaze at the Nazi dictator’s remote Kehlsteinhaus residence, on the peak of Obersalzberg in southern…",
+  "link": "https://www.dawn.com/news/2039461/fire-breaks-out-at-hitlers-mountain-retreat-suspect-detained-police",
+  "published": "2026-10-24T10:19:10+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "Arab News Pakistan",
+  "lang": "en",
+  "title": "Pakistan condemns ‘terrorist’ attack at Jordan church that killed at least 7",
+  "summary": "ISLA,MABAD: Pakistan’s foreign affairs ministry on Saturday condemned a “terrorist” attack at a church in Jordan’s Karak Governorate this week that killed at least seven people and injured over 40, expressing grief over the loss of lives in the incident. The attack took place on Friday at a busy church in Jordan’s…",
+  "link": "https://www.arabnews.pk/pakistan/pakistan-condemns-terrorist-attack-at-jordan-church-that-killed-at-least-7-3005118",
+  "published": "2026-10-24T10:16:23+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "Arab News Pakistan",
+  "lang": "en",
+  "title": "Bolsonaro and Lula clash on living costs, corruption in final Brazil election debate",
+  "summary": "In the final debate before Brazil’s presidential runoff, Bolsonaro and Lula engaged in heated exchanges over living costs and accusations of corruption, trying to swing undecided voters.",
+  "link": "https://www.arabnews.pk/world/bolsonaro-and-lula-clash-on-living-costs-corruption-in-final-brazil-election-debate-3005117",
+  "published": "2026-10-24T10:13:29+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "BBC Urdu",
+  "lang": "ur",
+  "title": "’بگڑے ہوئے اور مغرور لوگوں کے منہ پر زوردار طمانچہ‘: پٹرول پمپ کے ملازم پر تشدد کرنے والے شخص کی گرفتاری اور ’مریم نواز کا انصاف‘",
+  "summary": "لاہور میں سکوٹی سوار لڑکی اور پیٹرول پمپ ملازم پر تشدد کی ویڈیوز سامنے آنے کے بعد شہریوں کے تحفظ اور قانون کی عمل داری پر بحث چھڑ گئی ہے۔ وزیرِ اعلیٰ پنجاب مریم نواز کی جانب سے پیٹرول پمپ ملازم پر تشدد کے ملزم کو تھپڑ مارے جانے کی ویڈیو شیئر کرنے پر سوشل میڈیا صارفین کی آرا تقسیم ہیں۔ بعض صارفین مریم نواز کے اقدام کو…",
+  "link": "https://www.bbc.com/urdu/articles/cwzrdk0z8dpxo?at_medium=RSS&at_campaign=rss",
+  "published": "2026-10-24T10:10:18+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "Arab News Pakistan",
+  "lang": "en",
+  "title": "Pakistan’s Punjab to pursue alleged gang-rape case after Azerbaijan woman changes stance",
+  "summary": "ISLAMABAD: The government in Pakistan’s Punjab has vowed to pursue the alleged gang-rape case of a woman from Azerbaijan, provincial information minister Azma Zahid Bokhari said this week after a video of the victim surfaced in which she changed her earlier stance, stressing that she did not wish to pursue the case…",
+  "link": "https://www.arabnews.pk/pakistan/pakistans-punjab-to-pursue-alleged-gang-rape-case-after-azerbaijan-woman-changes-stance-3005116",
+  "published": "2026-10-24T10:00:16+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "Independent Urdu",
+  "lang": "ur",
+  "title": "اردن میں چرچ پر حملہ ’گھناؤنی دہشت گردی‘، پاکستان کی شدید مذمت",
+  "summary": "پاکستان نے اردن کے چرچ میں فائرنگ کے نتیجے میں اموات پر ہفتے کو افسوس کا اظہار کرتے ہوئے ’دہشت گردی کی تمام اقسام اور مظاہر کی سخت ترین الفاظ میں مذمت‘ کا اعادہ کیا ہے۔ اردن کے جنوبی علاقے كرک میں جمعے کو ایک چرچ میں جنازے کے دوران مسلح افراد کی فائرنگ سے کم از کم سات افراد جان سے چلے گئے تھے اور متعدد زخمی ہوئے تھے۔…",
+  "link": "https://www.independenturdu.com/node/188418",
+  "published": "2026-10-24T09:59:32+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "Dawn",
+  "lang": "en",
+  "title": "NA body summons Punjab police chief over Hina Javed murder case",
+  "summary": "RAWALPINDI: The National Assembly Standing Committee on Interior and Narcotics Control has summoned the Punjab inspector general of police (IGP), regional police officer (RPO), city police officer (CPO) Rawalpindi, SSP Investigation and additional inspector general of the Crime Control Department (CCD) to brief it on…",
+  "link": "https://www.dawn.com/news/2039315/na-body-summons-punjab-police-chief-over-hina-javed-murder-case",
+  "published": "2026-10-24T09:43:25+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "Arab News Pakistan",
+  "lang": "en",
+  "title": "‘How is it possible?’: Students protest Indonesian haze",
+  "summary": "Students in Palangkaraya, Indonesia protested against the ongoing wildfire crisis, urging the government to declare a national emergency. The toxic haze has been affecting the region for months.",
+  "link": "https://www.arabnews.pk/world/how-is-it-possible-students-protest-indonesian-haze-3005115",
+  "published": "2026-10-24T09:42:41+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
   "source": "Dawn",
   "lang": "en",
   "title": "France to deploy 70,000 police for fresh weekend protests",
@@ -34,6 +673,15 @@
   "link": "https://www.dawn.com/news/2039380/man-held-for-torturing-female-scooty-rider-in-lahore",
   "published": "2026-10-24T09:12:54+05:00",
   "collected": "2026-10-24T09:41+05:00"
+ },
+ {
+  "source": "Express Tribune",
+  "lang": "en",
+  "title": "Bill Gates warns of 20 years of turmoil from artificial intelligence",
+  "summary": "Microsoft co-founder says AI could disrupt jobs, reshape society even under best-case scenario",
+  "link": "https://tribune.com.pk/story/2636673/bill-gates-warns-of-20-years-of-turmoil-from-artificial-intelligence",
+  "published": "2026-10-24T09:03:50+05:00",
+  "collected": "2026-10-24T16:06+05:00"
  },
  {
   "source": "Dawn",
@@ -90,6 +738,24 @@
   "collected": "2026-10-24T09:41+05:00"
  },
  {
+  "source": "Express Tribune",
+  "lang": "en",
+  "title": "Pakistan refutes former US envoy's 'unsubstantiated' allegations of arming Afghans to fight Taliban",
+  "summary": "Info ministry says Khalilzad's paddling of such allegations only exposes his 'skewed, agenda-based views'",
+  "link": "https://tribune.com.pk/story/2636670/pakistan-refutes-former-us-envoys-unsubstantiated-allegations-of-arming-afghans-to-fight-taliban",
+  "published": "2026-10-24T08:41:32+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "Express Tribune",
+  "lang": "en",
+  "title": "Hitler's historic teahouse goes up in flames in Germany, arson suspected",
+  "summary": "Police arrest man after fire engulfs Eagle's Nest, but his possible involvement remains unclear",
+  "link": "https://tribune.com.pk/story/2636669/hitlers-historic-teahouse-goes-up-in-flames-in-germany-arson-suspected",
+  "published": "2026-10-24T08:40:30+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
   "source": "Arab News Pakistan",
   "lang": "en",
   "title": "Pakistan PM condemns UN Charter violations in Kashmir, Palestine on UN Day",
@@ -106,6 +772,15 @@
   "link": "https://www.arabnews.pk/middle-east/as-israeli-election-nears-campaign-turns-ugly-3005110",
   "published": "2026-10-24T08:25:07+05:00",
   "collected": "2026-10-24T09:41+05:00"
+ },
+ {
+  "source": "Express Tribune",
+  "lang": "en",
+  "title": "‘Threat exists’: Paris police warn of possible unrest ahead of protests",
+  "summary": "Authorities close 24 metro stations in capital as police, trade unions disagree over demonstration route",
+  "link": "https://tribune.com.pk/story/2636667/threat-exists-paris-police-warn-of-possible-unrest-ahead-of-protests",
+  "published": "2026-10-24T08:20:44+05:00",
+  "collected": "2026-10-24T16:06+05:00"
  },
  {
   "source": "Independent Urdu",
@@ -153,6 +828,15 @@
   "collected": "2026-10-24T09:41+05:00"
  },
  {
+  "source": "Express Tribune",
+  "lang": "en",
+  "title": "Sindh forms JIT, committees to implement judicial commission's recommendations in Mir Raza case",
+  "summary": "Writes to relevant departments to nominate representatives from the ISI, IB, Pakistan Rangers (Sindh) and NCCIA",
+  "link": "https://tribune.com.pk/story/2636664/sindh-govt-forms-jit-committees-to-implement-judicial-commissions-recommendations-in-mir-raza-case",
+  "published": "2026-10-24T07:31:50+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
   "source": "Arab News Pakistan",
   "lang": "en",
   "title": "Syria urges UN for protection against Israeli attacks",
@@ -178,6 +862,15 @@
   "link": "https://www.dawn.com/news/2039344/kp-governor-rules-out-talks-with-anti-state-elements",
   "published": "2026-10-24T07:20:10+05:00",
   "collected": "2026-10-24T09:41+05:00"
+ },
+ {
+  "source": "Express Tribune",
+  "lang": "en",
+  "title": "Israel launches major West Bank operation after soldiers killed",
+  "summary": "Netanyahu orders lockdown in West Bank, says considering extensive IDF operation in Judea and Samaria",
+  "link": "https://tribune.com.pk/story/2636663/israel-launches-major-west-bank-operation-after-soldiers-killed",
+  "published": "2026-10-24T07:11:25+05:00",
+  "collected": "2026-10-24T16:06+05:00"
  },
  {
   "source": "Dawn",
@@ -225,6 +918,15 @@
   "collected": "2026-10-24T09:41+05:00"
  },
  {
+  "source": "Express Tribune",
+  "lang": "en",
+  "title": "Pakistan calls for equitable, non-discriminatory civil nuclear cooperation at UN",
+  "summary": "All countries must retain their inalienable right to utilise nuclear energy for peaceful purposes: Ambassador Raza",
+  "link": "https://tribune.com.pk/story/2636658/pakistan-calls-for-equitable-non-discriminatory-civil-nuclear-cooperation-at-un",
+  "published": "2026-10-24T06:52:20+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
   "source": "Business Recorder",
   "lang": "en",
   "title": "Karachi’s vanishing mangroves: a wake-up call",
@@ -243,6 +945,33 @@
   "collected": "2026-10-24T09:41+05:00"
  },
  {
+  "source": "Express Tribune",
+  "lang": "en",
+  "title": "Pakistan Railways declares three-month emergency amid rising train accidents",
+  "summary": "Railways recorded more than 55 accidents involving passenger and freight trains since January 1",
+  "link": "https://tribune.com.pk/story/2636657/pakistan-railways-declares-three-month-emergency-amid-rising-train-accidents",
+  "published": "2026-10-24T06:42:13+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "Express Tribune",
+  "lang": "en",
+  "title": "Bayern’s Kompany in hospital",
+  "summary": "Coach collapses during a training session with FC Bayern's reserve team",
+  "link": "https://tribune.com.pk/story/2636656/bayerns-kompany-in-hospital",
+  "published": "2026-10-24T06:41:24+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "Express Tribune",
+  "lang": "en",
+  "title": "Pakistan condemns 'heinous terrorist attack' on church in Jordan",
+  "summary": "Reaffirms solidarity with Jordan in fight against terrorism day after at least seven killed, 34 injured in attack",
+  "link": "https://tribune.com.pk/story/2636655/pakistan-condemns-heinous-terrorist-attack-on-church-in-jordan",
+  "published": "2026-10-24T06:34:49+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
   "source": "Arab News Pakistan",
   "lang": "en",
   "title": "Coalition forces down missile and drone as Houthis keep up strikes on Saudi Arabia",
@@ -252,6 +981,15 @@
   "collected": "2026-10-24T09:41+05:00"
  },
  {
+  "source": "Arab News Pakistan",
+  "lang": "en",
+  "title": "Coalition forces down missiles and drone as Houthis keep up strikes on Saudi Arabia",
+  "summary": "RIYADH: Coalition forces backing Yemen’s legitimate government said on Saturday they shot down ballistic missiles and intercepted a drone aimed at Saudi Arabia, amid an intensifying campaign of cross-border attacks by the Iran-backed Houthi militia. Two ballistic missiles launched by the Houthi militia towards the…",
+  "link": "https://www.arabnews.pk/saudi-arabia/coalition-forces-down-missiles-and-drone-as-houthis-keep-up-strikes-on-saudi-arabia-3005105",
+  "published": "2026-10-24T06:26:27+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
   "source": "Dawn",
   "lang": "en",
   "title": "ECP proposes AI rules for parties, media, election observers",
@@ -259,6 +997,33 @@
   "link": "https://www.dawn.com/news/2039360/ecp-proposes-ai-rules-for-parties-media-election-observers",
   "published": "2026-10-24T06:19:22+05:00",
   "collected": "2026-10-24T09:41+05:00"
+ },
+ {
+  "source": "Express Tribune",
+  "lang": "en",
+  "title": "Iraq says no US troops left in the country, not even advisers",
+  "summary": "Baghdad to bring all weapons under state control by next June, strengthen strategic partnership with Washington",
+  "link": "https://tribune.com.pk/story/2636654/iraq-says-no-us-troops-left-in-the-country-not-even-advisers",
+  "published": "2026-10-24T06:12:15+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "Express Tribune",
+  "lang": "en",
+  "title": "Saudi-led coalition says it destroyed Houthi ballistic missiles fired towards Yanbu, Taif",
+  "summary": "Saudi Arabia's Civil Defence briefly issues alerts warning of potential danger in Makkah, Jeddah",
+  "link": "https://tribune.com.pk/story/2636653/saudi-led-coalition-intercepts-houthi-missile-fired-toward-riyadh",
+  "published": "2026-10-24T05:53:49+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "Express Tribune",
+  "lang": "en",
+  "title": "Iran intensifies plots against US officials in the Middle East: report",
+  "summary": "Trump says US may do another military operation against Iran",
+  "link": "https://tribune.com.pk/story/2636652/trump-says-us-may-do-another-military-operation-against-iran",
+  "published": "2026-10-24T05:51:00+05:00",
+  "collected": "2026-10-24T16:06+05:00"
  },
  {
   "source": "Business Recorder",
@@ -1035,6 +1800,33 @@
   "collected": "2026-10-24T04:10+05:00"
  },
  {
+  "source": "Express Tribune",
+  "lang": "en",
+  "title": "Sana urges Achakzai to seize talks initiative",
+  "summary": "Warns of civilian casualties in K-P operations",
+  "link": "https://tribune.com.pk/story/2636631/sana-urges-achakzai-to-seize-talks-initiative",
+  "published": "2026-10-23T21:27:08+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "Express Tribune",
+  "lang": "en",
+  "title": "Naqvi acknowledges staff shortage at NCCIA",
+  "summary": "Says 600 arrested in call-centre crackdown in 1012 days",
+  "link": "https://tribune.com.pk/story/2636637/naqvi-acknowledges-staff-shortage-at-nccia",
+  "published": "2026-10-23T21:27:08+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "Express Tribune",
+  "lang": "en",
+  "title": "DISCOs warned over detection bills",
+  "summary": "Complete ban has been enforced on the issuance of manual and discretionary detection bills by field staff or SDOs",
+  "link": "https://tribune.com.pk/story/2636643/discos-warned-over-detection-bills",
+  "published": "2026-10-23T21:27:08+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
   "source": "Arab News Pakistan",
   "lang": "en",
   "title": "‘For us, the Houthis are terrorists’: French lawmaker says Paris will honor pledge to protect Saudi infrastructure",
@@ -1170,6 +1962,24 @@
   "collected": "2026-10-24T04:10+05:00"
  },
  {
+  "source": "Express Tribune",
+  "lang": "en",
+  "title": "Public transport carries less than 1% of commuters",
+  "summary": "Private vehicles dominate mobility index; experts call for public buses-led transport policy",
+  "link": "https://tribune.com.pk/story/2636621/public-transport-carries-less-than-1-of-commuters",
+  "published": "2026-10-23T20:43:59+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
+  "source": "Express Tribune",
+  "lang": "en",
+  "title": "'Auto policy puts 1.5m jobs at risk'",
+  "summary": "Parts makers challenge tariff cuts on imports, citing $1.8b import substitution",
+  "link": "https://tribune.com.pk/story/2636623/auto-policy-puts-15m-jobs-at-risk",
+  "published": "2026-10-23T20:43:59+05:00",
+  "collected": "2026-10-24T16:06+05:00"
+ },
+ {
   "source": "Business Recorder",
   "lang": "en",
   "title": "Gold price per tola falls Rs7,000 in Pakistan",
@@ -1204,6 +2014,15 @@
   "link": "https://www.brecorder.com/news/40445625/intra-day-update-rupee-records-gain-against-us-dollar",
   "published": "2026-10-23T20:33:31+05:00",
   "collected": "2026-10-24T04:10+05:00"
+ },
+ {
+  "source": "Express Tribune",
+  "lang": "en",
+  "title": "K-P to get Rs160b package from Centre",
+  "summary": "Kundi says federal govt ordered immediate steps to address issues, vows zero tolerance for corruption",
+  "link": "https://tribune.com.pk/story/2636603/k-p-to-get-rs160b-package-from-centre",
+  "published": "2026-10-23T20:29:43+05:00",
+  "collected": "2026-10-24T16:06+05:00"
  },
  {
   "source": "Independent Urdu",
@@ -1429,6 +2248,15 @@
   "link": "https://tribune.com.pk/story/2636572/the-only-thing-moving-fast-in-karachi-is-my-blood-pressure",
   "published": "2026-10-23T18:55:38+05:00",
   "collected": "2026-10-24T04:10+05:00"
+ },
+ {
+  "source": "Express Tribune",
+  "lang": "en",
+  "title": "The paradox of Pakistan's political parties",
+  "summary": "Imran Khan built much of PTI's political identity around challenging corruption, injustice and entrenched power",
+  "link": "https://tribune.com.pk/story/2636576/the-paradox-of-pakistans-political-parties",
+  "published": "2026-10-23T18:55:38+05:00",
+  "collected": "2026-10-24T16:06+05:00"
  },
  {
   "source": "Independent Urdu",
@@ -1897,6 +2725,15 @@
   "link": "https://tribune.com.pk/story/2636550/ai-discovered-bugs-may-soon-trigger-fresh-disruptions-cyber-experts-say",
   "published": "2026-10-23T15:05:18+05:00",
   "collected": "2026-10-24T04:10+05:00"
+ },
+ {
+  "source": "Express Tribune",
+  "lang": "en",
+  "title": "Mourinho must stop Barca machine",
+  "summary": "Portuguese renews one of football's most bitter rivalries on Sunday",
+  "link": "https://tribune.com.pk/story/2636549/mourinho-must-stop-barca-machine",
+  "published": "2026-10-23T14:58:05+05:00",
+  "collected": "2026-10-24T16:06+05:00"
  },
  {
   "source": "Dawn",
